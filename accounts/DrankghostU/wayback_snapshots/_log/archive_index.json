@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-07-03T08:25:20",
+  "last_updated": "2026-07-03T08:26:04",
   "html": {
     "https://web.archive.org/web/20260524034410if_/https://twitter.com/DrankghostU/status/2058393594923557006": {
       "status": "done",
@@ -5366,13 +5366,13 @@
   },
   "avatars": {
     "https://pbs.twimg.com/profile_images/1731423142609100800/yPITf57c_normal.jpg": {
-      "status": "failed_all",
+      "status": "done",
       "referenced_by": [
         "20250525090704_twitter_com_DrankghostU_status_1926565672798015631.json",
         "20250525091956_twitter_com_DrankghostU_status_1926568909659943061.json",
         "20250525092101_twitter_com_DrankghostU_status_1926569183237583028.json"
       ],
-      "last_updated": "2026-07-03T08:09:10",
+      "last_updated": "2026-07-03T08:25:38",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20250525092101if_/https://pbs.twimg.com/profile_images/1731423142609100800/yPITf57c_normal.jpg",
       "miss_count": 1
     },
@@ -5382,9 +5382,9 @@
         "20250525090704_twitter_com_DrankghostU_status_1926565672798015631.json",
         "20250525091956_twitter_com_DrankghostU_status_1926568909659943061.json"
       ],
-      "last_updated": "2026-07-03T08:19:59",
+      "last_updated": "2026-07-03T08:25:40",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20250525091956if_/https://pbs.twimg.com/profile_images/1855552426197331968/IlSaL71h_normal.jpg",
-      "miss_count": 2
+      "miss_count": 3
     },
     "https://pbs.twimg.com/profile_images/2058389276015120384/ihPt3Trh_normal.jpg": {
       "status": "done",
@@ -6005,11 +6005,11 @@
       "last_updated": "2026-07-03T08:09:08"
     },
     "https://pbs.twimg.com/profile_images/2057863021549203461/XoqyxX9P_normal.jpg": {
-      "status": "failed_all",
+      "status": "done",
       "referenced_by": [
         "20260524192043_twitter_com_DrankghostU_status_2058629284588376318.json"
       ],
-      "last_updated": "2026-07-03T08:09:11",
+      "last_updated": "2026-07-03T08:25:40",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260524192043if_/https://pbs.twimg.com/profile_images/2057863021549203461/XoqyxX9P_normal.jpg",
       "miss_count": 1
     },
@@ -6468,7 +6468,7 @@
       "last_updated": "2026-07-03T08:09:08"
     },
     "https://pbs.twimg.com/profile_images/2049321734793531392/O80bhC0-_normal.jpg": {
-      "status": "failed",
+      "status": "failed_all",
       "referenced_by": [
         "20260528134024_twitter_com_DrankghostU_status_2059993192393585101.json",
         "20260529053619_twitter_com_DrankghostU_status_2060233754526773435.json",
@@ -6476,9 +6476,9 @@
         "20260606125800_twitter_com_DrankghostU_status_2063244013138764231.json",
         "20260606210924_twitter_com_DrankghostU_status_2063367676379246936.json"
       ],
-      "last_updated": "2026-07-03T08:20:06",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260606210924if_/https://pbs.twimg.com/profile_images/2049321734793531392/O80bhC0-_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7faca29bbce0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-07-03T08:25:42",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260606210924if_/https://pbs.twimg.com/profile_images/2049321734793531392/O80bhC0-_normal.jpg",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/profile_images/1994680263507677187/CEBe2uTG_normal.jpg": {
       "status": "done",
@@ -6634,13 +6634,13 @@
       "last_updated": "2026-07-03T08:09:09"
     },
     "https://pbs.twimg.com/profile_images/2057241113073942528/EnWzw9sV_normal.jpg": {
-      "status": "failed",
+      "status": "failed_all",
       "referenced_by": [
         "20260601043204_twitter_com_DrankghostU_status_2061304753062076693.json"
       ],
-      "last_updated": "2026-07-03T08:20:10",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260601043204im_/https://pbs.twimg.com/profile_images/2057241113073942528/EnWzw9sV_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7faca2a09130>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-07-03T08:25:44",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260601043204if_/https://pbs.twimg.com/profile_images/2057241113073942528/EnWzw9sV_normal.jpg",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/profile_images/2043146436347613185/S_9YQ-s3_normal.jpg": {
       "status": "done",
@@ -6706,9 +6706,9 @@
         "20260604171614_twitter_com_DrankghostU_status_2062584223291314287.json",
         "20260606144305_twitter_com_DrankghostU_status_2063270458204541321.json"
       ],
-      "last_updated": "2026-07-03T08:09:12",
+      "last_updated": "2026-07-03T08:25:46",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260606144305if_/https://pbs.twimg.com/profile_images/2060868521232662528/AlWnDSf0_normal.jpg",
-      "miss_count": 1
+      "miss_count": 2
     },
     "https://pbs.twimg.com/profile_images/2002564844029927425/a81kR6DN_normal.jpg": {
       "status": "done",
@@ -7615,13 +7615,13 @@
       "last_updated": "2026-07-03T08:09:10"
     },
     "https://pbs.twimg.com/profile_images/2026031566456229888/uONjuhmC_normal.jpg": {
-      "status": "failed",
+      "status": "failed_all",
       "referenced_by": [
         "20260608060453_twitter_com_DrankghostU_status_2063864825390985470.json"
       ],
-      "last_updated": "2026-07-03T08:20:13",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260608060453im_/https://pbs.twimg.com/profile_images/2026031566456229888/uONjuhmC_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7faca29b95e0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-07-03T08:25:48",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260608060453if_/https://pbs.twimg.com/profile_images/2026031566456229888/uONjuhmC_normal.jpg",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/profile_images/2063027061669744640/V71OHC22_normal.jpg": {
       "status": "done",
@@ -7659,22 +7659,22 @@
       "last_updated": "2026-07-03T08:09:10"
     },
     "https://pbs.twimg.com/profile_images/2060985937090527232/KMCgy-NK_normal.jpg": {
-      "status": "failed",
+      "status": "failed_all",
       "referenced_by": [
         "20260608142600_twitter_com_DrankghostU_status_2063990933641912637.json"
       ],
-      "last_updated": "2026-07-03T08:20:16",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260608142600im_/https://pbs.twimg.com/profile_images/2060985937090527232/KMCgy-NK_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7faca2a08e60>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-07-03T08:25:50",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260608142600if_/https://pbs.twimg.com/profile_images/2060985937090527232/KMCgy-NK_normal.jpg",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/profile_images/2062950098485858304/bgxkWxoR_normal.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260608154936_twitter_com_DrankghostU_status_2064011971897553375.json"
       ],
-      "last_updated": "2026-07-03T08:20:20",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260608154936im_/https://pbs.twimg.com/profile_images/2062950098485858304/bgxkWxoR_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7faca2a08d10>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-07-03T08:25:52",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260608154936if_/https://pbs.twimg.com/profile_images/2062950098485858304/bgxkWxoR_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f5ad0df7b00>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/profile_images/2061179467889074177/WoZoQ9BB_normal.jpg": {
       "status": "done",
@@ -7715,13 +7715,13 @@
       "last_updated": "2026-07-03T08:09:10"
     },
     "https://pbs.twimg.com/profile_images/2049458499038666752/PiDuhaBS_normal.jpg": {
-      "status": "failed_all",
+      "status": "failed",
       "referenced_by": [
         "20260609121303_twitter_com_DrankghostU_status_2064319863901081774.json"
       ],
-      "last_updated": "2026-07-03T08:19:58",
-      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260609121303if_/https://pbs.twimg.com/profile_images/2049458499038666752/PiDuhaBS_normal.jpg",
-      "miss_count": 2
+      "last_updated": "2026-07-03T08:25:56",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260609121303im_/https://pbs.twimg.com/profile_images/2049458499038666752/PiDuhaBS_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f5ad0d72360>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/profile_images/2025267837263380484/sO1VN491_normal.jpg": {
       "status": "done",
@@ -7843,14 +7843,14 @@
       "last_updated": "2026-07-03T08:09:11"
     },
     "https://pbs.twimg.com/profile_images/2061736621465346048/7Ddy5_W7_normal.jpg": {
-      "status": "failed_all",
+      "status": "failed",
       "referenced_by": [
         "20260618134334_twitter_com_DrankghostU_status_2067604134338113991.json",
         "20260618153412_twitter_com_DrankghostU_status_2067631976446828729.json"
       ],
-      "last_updated": "2026-07-03T08:19:58",
-      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260618153412if_/https://pbs.twimg.com/profile_images/2061736621465346048/7Ddy5_W7_normal.jpg",
-      "miss_count": 2
+      "last_updated": "2026-07-03T08:26:00",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260618153412im_/https://pbs.twimg.com/profile_images/2061736621465346048/7Ddy5_W7_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f5ad0df43e0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/profile_images/2066937107885494272/48QMChsF_normal.jpg": {
       "status": "done",
@@ -7866,9 +7866,9 @@
       "referenced_by": [
         "20260619095314_twitter_com_DrankghostU_status_2067908557652291764.json"
       ],
-      "last_updated": "2026-07-03T08:20:23",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260619095314im_/https://pbs.twimg.com/profile_images/2067281164155650051/9mNY9wlY_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7faca2a2ca40>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-07-03T08:26:04",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260619095314im_/https://pbs.twimg.com/profile_images/2067281164155650051/9mNY9wlY_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f5ad0dd53d0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/profile_images/2067253957026775040/7h3RjKHg_normal.jpg": {
       "status": "done",
@@ -8065,7 +8065,7 @@
   },
   "media": {
     "20250525090704_twitter_com_DrankghostU_status_1926565672798015631.json": {
-      "status": "failed_all",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -8074,7 +8074,7 @@
           "https://pbs.twimg.com/profile_images/1855552426197331968/IlSaL71h_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-03T08:19:59",
+      "last_updated": "2026-07-03T08:25:38",
       "miss_count": 2
     },
     "20250525091956_twitter_com_DrankghostU_status_1926568909659943061.json": {
@@ -10079,7 +10079,7 @@
       "miss_count": 2
     },
     "20260528134024_twitter_com_DrankghostU_status_2059993192393585101.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -10088,7 +10088,7 @@
           "https://pbs.twimg.com/profile_images/2049321734793531392/O80bhC0-_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-03T08:19:38",
+      "last_updated": "2026-07-03T08:25:42",
       "miss_count": 2
     },
     "20260528140237_twitter_com_DrankghostU_status_2059998781462970475.json": {
@@ -10322,7 +10322,7 @@
       "last_updated": "2026-07-03T08:09:08"
     },
     "20260529053619_twitter_com_DrankghostU_status_2060233754526773435.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -10331,7 +10331,7 @@
           "https://pbs.twimg.com/profile_images/2049321734793531392/O80bhC0-_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-03T08:19:38",
+      "last_updated": "2026-07-03T08:25:42",
       "miss_count": 2
     },
     "20260529061512_twitter_com_DrankghostU_status_2060243542857908563.json": {
@@ -10399,7 +10399,7 @@
       "last_updated": "2026-07-03T08:09:09"
     },
     "20260529062145_twitter_com_DrankghostU_status_2060245189721997431.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -10408,7 +10408,7 @@
           "https://pbs.twimg.com/profile_images/2049321734793531392/O80bhC0-_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-03T08:19:38",
+      "last_updated": "2026-07-03T08:25:42",
       "miss_count": 2
     },
     "20260529062340_twitter_com_DrankghostU_status_2060245672956182872.json": {
@@ -11148,7 +11148,7 @@
       "last_updated": "2026-07-03T08:09:08"
     },
     "20260601043204_twitter_com_DrankghostU_status_2061304753062076693.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HJs07LtbAAAkORK.jpg"
@@ -11159,7 +11159,7 @@
           "https://pbs.twimg.com/profile_images/2057241113073942528/EnWzw9sV_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-03T08:19:38",
+      "last_updated": "2026-07-03T08:25:44",
       "miss_count": 2
     },
     "20260601043213_twitter_com_DrankghostU_status_2061304787283431842.json": {
@@ -14150,7 +14150,7 @@
       "last_updated": "2026-07-03T08:09:10"
     },
     "20260606125800_twitter_com_DrankghostU_status_2063244013138764231.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -14160,7 +14160,7 @@
           "https://pbs.twimg.com/profile_images/2049321734793531392/O80bhC0-_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-03T08:19:38",
+      "last_updated": "2026-07-03T08:25:42",
       "miss_count": 2
     },
     "20260606134712_twitter_com_DrankghostU_status_2063256395089096807.json": {
@@ -14452,7 +14452,7 @@
       "last_updated": "2026-07-03T08:09:10"
     },
     "20260606210924_twitter_com_DrankghostU_status_2063367676379246936.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HJ4-Al2bwAAkgUR.jpg",
@@ -14464,7 +14464,7 @@
           "https://pbs.twimg.com/profile_images/2049321734793531392/O80bhC0-_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-03T08:19:38",
+      "last_updated": "2026-07-03T08:25:42",
       "miss_count": 2
     },
     "20260606211121_twitter_com_DrankghostU_status_2063368167108583425.json": {
@@ -15191,7 +15191,7 @@
       "last_updated": "2026-07-03T08:09:10"
     },
     "20260608060453_twitter_com_DrankghostU_status_2063864825390985470.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -15200,7 +15200,7 @@
           "https://pbs.twimg.com/profile_images/2026031566456229888/uONjuhmC_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-03T08:19:38",
+      "last_updated": "2026-07-03T08:25:48",
       "miss_count": 2
     },
     "20260608062245_twitter_com_DrankghostU_status_2063869318627226087.json": {
@@ -15461,7 +15461,7 @@
       "last_updated": "2026-07-03T08:09:10"
     },
     "20260608142600_twitter_com_DrankghostU_status_2063990933641912637.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -15470,7 +15470,7 @@
           "https://pbs.twimg.com/profile_images/2060985937090527232/KMCgy-NK_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-03T08:19:38",
+      "last_updated": "2026-07-03T08:25:50",
       "miss_count": 2
     },
     "20260608145016_twitter_com_DrankghostU_status_2063997041249026435.json": {
@@ -15824,7 +15824,7 @@
       "last_updated": "2026-07-03T08:09:10"
     },
     "20260609121303_twitter_com_DrankghostU_status_2064319863901081774.json": {
-      "status": "done",
+      "status": "failed",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -15833,7 +15833,7 @@
           "https://pbs.twimg.com/profile_images/2049458499038666752/PiDuhaBS_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-03T08:19:58",
+      "last_updated": "2026-07-03T08:25:56",
       "miss_count": 2
     },
     "20260609121406_twitter_com_DrankghostU_status_2064320128981078101.json": {
@@ -17356,7 +17356,7 @@
       "last_updated": "2026-07-03T08:09:11"
     },
     "20260618134334_twitter_com_DrankghostU_status_2067604134338113991.json": {
-      "status": "done",
+      "status": "failed",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -17365,7 +17365,7 @@
           "https://pbs.twimg.com/profile_images/2061736621465346048/7Ddy5_W7_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-03T08:19:58",
+      "last_updated": "2026-07-03T08:26:00",
       "miss_count": 2
     },
     "20260618153102_twitter_com_DrankghostU_status_2067631179638178184.json": {
@@ -17382,7 +17382,7 @@
       "miss_count": 2
     },
     "20260618153412_twitter_com_DrankghostU_status_2067631976446828729.json": {
-      "status": "done",
+      "status": "failed",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -17391,7 +17391,7 @@
           "https://pbs.twimg.com/profile_images/2061736621465346048/7Ddy5_W7_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-03T08:19:58",
+      "last_updated": "2026-07-03T08:26:00",
       "miss_count": 2
     },
     "20260618234211_twitter_com_DrankghostU_status_2067754781670830238.json": {
