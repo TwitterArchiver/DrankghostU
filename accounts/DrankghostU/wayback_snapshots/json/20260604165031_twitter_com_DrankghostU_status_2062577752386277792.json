@@ -1,0 +1,337 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1409516495571501066",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1585790663575994368",
+          "name": "Magical girl"
+        }
+      }
+    ],
+    "conversation_id": "2062577752386277792",
+    "created_at": "2026-06-04T16:50:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T17:50:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062577752386277792"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yaginohone/sta…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/yaginohone/status/2062543754054254796",
+          "start": 5,
+          "url": "https://t.co/AWtYend2g0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062577752386277792",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062543754054254796",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好美…… https://t.co/AWtYend2g0"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "I'm reposting this because it disappeared...! Thank you to everyone who liked it last time!",
+        "height": 2048,
+        "media_key": "3_2062543057816518657",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ-f-7caAAEbCVI.jpg",
+        "width": 1518
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1409516495571501066",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1585790663575994368",
+              "name": "Magical girl"
+            }
+          }
+        ],
+        "conversation_id": "2062577752386277792",
+        "created_at": "2026-06-04T16:50:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T17:50:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062577752386277792"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yaginohone/sta…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/yaginohone/status/2062543754054254796",
+              "start": 5,
+              "url": "https://t.co/AWtYend2g0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062577752386277792",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062543754054254796",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好美…… https://t.co/AWtYend2g0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062543057816518657"
+          ]
+        },
+        "author_id": "1586638893574934528",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1585790663575994368",
+              "name": "Magical girl"
+            }
+          }
+        ],
+        "conversation_id": "2062543754054254796",
+        "created_at": "2026-06-04T14:35:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T15:35:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062543754054254796"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mMZRSxIhyF",
+              "end": 34,
+              "expanded_url": "https://x.com/yaginohone/status/2062543754054254796/photo/1",
+              "media_key": "3_2062543057816518657",
+              "start": 11,
+              "url": "https://t.co/mMZRSxIhyF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062543754054254796",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 198,
+          "impression_count": 11424,
+          "like_count": 2291,
+          "quote_count": 3,
+          "reply_count": 4,
+          "retweet_count": 329
+        },
+        "reply_settings": "everyone",
+        "text": "魔法少女の成れの果て https://t.co/mMZRSxIhyF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-06-28T14:18:23.000Z",
+        "description": "被msk气哭了。\n前世@SaotomeShimeri\n女宝互关熟了可以恰v \n男性推油请给恶魔死目莉的熔炼炉投入52cny喵😤\n没有喜欢死目莉的觉悟的人不能靠近死目莉！😤😤",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 11,
+                "username": "SaotomeShimeri"
+              }
+            ]
+          }
+        },
+        "id": "1409516495571501066",
+        "name": "早乙女死目莉2.0",
+        "pinned_tweet_id": "2062521015922749816",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058389276015120384/ihPt3Trh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 311,
+          "following_count": 180,
+          "like_count": 69,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 384
+        },
+        "username": "DrankghostU",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-30T08:39:37.000Z",
+        "description": "表情と血が好き\n✉️yaginohone@gmail.com\nお気軽に",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@yaginohone",
+                "end": 23,
+                "expanded_url": "https://skeb.jp/@yaginohone",
+                "start": 0,
+                "url": "https://t.co/1xgruGJ5SZ"
+              }
+            ]
+          }
+        },
+        "id": "1586638893574934528",
+        "location": "↓skeb受付✍️OC、サムネ制作します",
+        "name": "山羊骨",
+        "pinned_tweet_id": "1992236122681098309",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931533147990331392/90ezrkmx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2649,
+          "following_count": 46,
+          "like_count": 274,
+          "listed_count": 10,
+          "media_count": 64,
+          "tweet_count": 99
+        },
+        "url": "https://t.co/1xgruGJ5SZ",
+        "username": "yaginohone",
+        "verified": false
+      }
+    ]
+  }
+}

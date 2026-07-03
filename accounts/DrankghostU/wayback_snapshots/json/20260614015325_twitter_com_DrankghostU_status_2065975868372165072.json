@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1409516495571501066",
+    "conversation_id": "2065876713880629536",
+    "created_at": "2026-06-14T01:53:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T02:53:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065975868372165072"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1112053664468873216",
+          "start": 0,
+          "username": "Ghada87685873"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065975868372165072",
+    "in_reply_to_user_id": "1112053664468873216",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065974712854008282",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ghada87685873 遅いよ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1409516495571501066",
+        "conversation_id": "2065876713880629536",
+        "created_at": "2026-06-14T01:53:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T02:53:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065975868372165072"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1112053664468873216",
+              "start": 0,
+              "username": "Ghada87685873"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065975868372165072",
+        "in_reply_to_user_id": "1112053664468873216",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065974712854008282",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ghada87685873 遅いよ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1112053664468873216",
+        "conversation_id": "2065876713880629536",
+        "created_at": "2026-06-14T01:48:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T02:48:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065974712854008282"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1409516495571501066",
+              "start": 0,
+              "username": "DrankghostU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065974712854008282",
+        "in_reply_to_user_id": "1409516495571501066",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065876713880629536",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DrankghostU 我想来！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-06-28T14:18:23.000Z",
+        "description": "𓆩♡𓆪 死目莉 𓆩♡𓆪\n 🩹 | 双相情感障碍• 𝖠𝖣𝖧𝖣 • 重焦 • 繪師 \n\n🎀没有喜欢死目莉的觉悟的人请不要靠近死目莉⚠️😸…",
+        "id": "1409516495571501066",
+        "location": "我想要的是世界上根本就没有的东西",
+        "name": "早乙女死目莉2.0",
+        "pinned_tweet_id": "2059646950455279640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063196138987995136/5SVYRVyv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 408,
+          "following_count": 199,
+          "like_count": 112,
+          "listed_count": 1,
+          "media_count": 47,
+          "tweet_count": 690
+        },
+        "username": "DrankghostU",
+        "verified": true
+      },
+      {
+        "created_at": "2019-03-30T18:07:09.000Z",
+        "description": "永远中二病的男生，永远18岁至仁至善的魔王\n无心理疾病，抗压能力超强，恶习是抽烟",
+        "id": "1112053664468873216",
+        "name": "家桐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061624364273913856/s8Deephq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 187,
+          "like_count": 1271,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 240
+        },
+        "username": "Ghada87685873",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1409516495571501066",
+    "conversation_id": "2062524799608602715",
+    "created_at": "2026-06-06T12:58:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T13:58:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063244013138764231"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1736764672999878656",
+          "start": 0,
+          "username": "BAKA__0902"
+        },
+        {
+          "end": 21,
+          "id": "1780570823063171072",
+          "start": 12,
+          "username": "pulinnaa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063244013138764231",
+    "in_reply_to_user_id": "1736764672999878656",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062524799608602715",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BAKA__0902 @pulinnaa 😺😺😺😺火蜥蜴"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1409516495571501066",
+        "conversation_id": "2062524799608602715",
+        "created_at": "2026-06-06T12:58:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T13:58:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063244013138764231"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1736764672999878656",
+              "start": 0,
+              "username": "BAKA__0902"
+            },
+            {
+              "end": 21,
+              "id": "1780570823063171072",
+              "start": 12,
+              "username": "pulinnaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063244013138764231",
+        "in_reply_to_user_id": "1736764672999878656",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062524799608602715",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BAKA__0902 @pulinnaa 😺😺😺😺火蜥蜴"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1736764672999878656",
+        "conversation_id": "2062524799608602715",
+        "created_at": "2026-06-04T13:20:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T14:20:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062524799608602715"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062524799608602715",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3019,
+          "like_count": 30,
+          "quote_count": 2,
+          "reply_count": 33,
+          "retweet_count": 30
+        },
+        "reply_settings": "everyone",
+        "text": "好无聊，转发并评论抽一瓶自制pr 1t大约250-300mg 一瓶几十t的样子  邮费自理 周日开奖"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-06-28T14:18:23.000Z",
+        "description": "𓆩♡𓆪 死目莉 𓆩♡𓆪\n~双相情感障碍 • 𝖠𝖣𝖧𝖣 • 重焦 • 💊🔪🩸🎨\n🚫AI绘画\n\n喜欢说废话，把推特当备忘录发。\n\n🎀没有喜欢死目莉的觉悟就不要靠近死目莉。\n💕女宝互关熟了可以恰v \n🫧男性推油请给恶魔死目莉的熔炼炉投入52cny喵😤",
+        "id": "1409516495571501066",
+        "location": "我想要的是世界上根本就没有的东西",
+        "name": "早乙女死目莉2.0",
+        "pinned_tweet_id": "2059646950455279640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063196138987995136/5SVYRVyv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 345,
+          "following_count": 187,
+          "like_count": 85,
+          "listed_count": 1,
+          "media_count": 40,
+          "tweet_count": 490
+        },
+        "username": "DrankghostU",
+        "verified": true
+      },
+      {
+        "created_at": "2023-12-18T15:05:45.000Z",
+        "description": "好想吃麦当劳",
+        "id": "1736764672999878656",
+        "name": "不爱我我就去死",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032564534226116608/2YCnGNJE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 429,
+          "following_count": 1034,
+          "like_count": 7573,
+          "listed_count": 1,
+          "media_count": 59,
+          "tweet_count": 1511
+        },
+        "username": "BAKA__0902",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "location": "さきです",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049321734793531392/O80bhC0-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1121,
+          "following_count": 190,
+          "like_count": 4040,
+          "listed_count": 2,
+          "media_count": 416,
+          "tweet_count": 2576
+        },
+        "username": "pulinnaa",
+        "verified": false
+      }
+    ]
+  }
+}

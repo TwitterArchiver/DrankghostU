@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065412640395108352"
+      ],
+      "media_source_tweet_id": [
+        "2065412651715625239"
+      ]
+    },
+    "author_id": "1409516495571501066",
+    "conversation_id": "2065745086890271161",
+    "created_at": "2026-06-13T10:36:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T11:36:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065745086890271161"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1872279523506655232",
+          "start": 3,
+          "username": "ChunRi25175"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8fgxZNWbAC",
+          "end": 40,
+          "expanded_url": "https://x.com/ChunRi25175/status/2065412651715625239/photo/1",
+          "media_key": "3_2065412640395108352",
+          "start": 17,
+          "url": "https://t.co/8fgxZNWbAC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065745086890271161",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 65
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065412651715625239",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ChunRi25175: https://t.co/8fgxZNWbAC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1025,
+        "media_key": "3_2065412640395108352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKnR2nlaIAANDfI.jpg",
+        "width": 1223
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065412640395108352"
+          ],
+          "media_source_tweet_id": [
+            "2065412651715625239"
+          ]
+        },
+        "author_id": "1409516495571501066",
+        "conversation_id": "2065745086890271161",
+        "created_at": "2026-06-13T10:36:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T11:36:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065745086890271161"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1872279523506655232",
+              "start": 3,
+              "username": "ChunRi25175"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8fgxZNWbAC",
+              "end": 40,
+              "expanded_url": "https://x.com/ChunRi25175/status/2065412651715625239/photo/1",
+              "media_key": "3_2065412640395108352",
+              "start": 17,
+              "url": "https://t.co/8fgxZNWbAC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065745086890271161",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 65
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065412651715625239",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ChunRi25175: https://t.co/8fgxZNWbAC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065412640395108352"
+          ]
+        },
+        "author_id": "1872279523506655232",
+        "conversation_id": "2065412651715625239",
+        "created_at": "2026-06-12T12:35:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T13:35:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065412651715625239"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8fgxZNWbAC",
+              "end": 23,
+              "expanded_url": "https://x.com/ChunRi25175/status/2065412651715625239/photo/1",
+              "media_key": "3_2065412640395108352",
+              "start": 0,
+              "url": "https://t.co/8fgxZNWbAC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065412651715625239",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 35,
+          "impression_count": 9933,
+          "like_count": 624,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 65
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/8fgxZNWbAC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-06-28T14:18:23.000Z",
+        "description": "𓆩♡𓆪 死目莉 𓆩♡𓆪\n 🩹 | 双相情感障碍• 𝖠𝖣𝖧𝖣 • 重焦 • 繪師 \n\n🎀没有喜欢死目莉的觉悟的人请不要靠近死目莉⚠️😸…",
+        "id": "1409516495571501066",
+        "location": "我想要的是世界上根本就没有的东西",
+        "name": "早乙女死目莉2.0",
+        "pinned_tweet_id": "2059646950455279640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063196138987995136/5SVYRVyv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 408,
+          "following_count": 200,
+          "like_count": 111,
+          "listed_count": 1,
+          "media_count": 47,
+          "tweet_count": 680
+        },
+        "username": "DrankghostU",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-26T13:53:43.000Z",
+        "description": "Streamer & Content Creator\n📮 質問はこちら → https://t.co/xIS90RoKPB\n📧 Business / commissions → DM\n唯一のアカウントです",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "qntwx.cn/Sakurai",
+                "end": 61,
+                "expanded_url": "https://qntwx.cn/Sakurai",
+                "start": 38,
+                "url": "https://t.co/xIS90RoKPB"
+              }
+            ]
+          }
+        },
+        "id": "1872279523506655232",
+        "location": "日本 东京",
+        "name": "落雪",
+        "pinned_tweet_id": "2037456011330834806",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054076993550077952/AVdAEhIP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 168,
+          "like_count": 2218,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 96
+        },
+        "username": "ChunRi25175",
+        "verified": false
+      }
+    ]
+  }
+}

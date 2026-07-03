@@ -1,0 +1,342 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064001908348739584",
+        "3_2064001908340412416",
+        "3_2064001908407414784",
+        "3_2064001908441059328"
+      ]
+    },
+    "author_id": "1409516495571501066",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1334945143208611841",
+          "name": "GL"
+        }
+      }
+    ],
+    "conversation_id": "2064001916104019994",
+    "created_at": "2026-06-08T15:09:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T16:09:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064001916104019994"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 45,
+          "start": 42,
+          "tag": "日常"
+        },
+        {
+          "end": 49,
+          "start": 46,
+          "tag": "百合"
+        },
+        {
+          "end": 55,
+          "start": 50,
+          "tag": "yuri"
+        },
+        {
+          "end": 60,
+          "start": 56,
+          "tag": "ジト目"
+        },
+        {
+          "end": 66,
+          "start": 61,
+          "tag": "メンヘラ"
+        },
+        {
+          "end": 75,
+          "start": 68,
+          "tag": "メンヘラ女子"
+        },
+        {
+          "end": 85,
+          "start": 76,
+          "tag": "彼女募集じゃない"
+        },
+        {
+          "end": 93,
+          "start": 86,
+          "tag": "推し同担拒否"
+        },
+        {
+          "end": 106,
+          "start": 94,
+          "tag": "日常垢さんと繋がりたい"
+        },
+        {
+          "end": 113,
+          "start": 108,
+          "tag": "創作百合"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Vm8rhngmYq",
+          "end": 137,
+          "expanded_url": "https://x.com/DrankghostU/status/2064001916104019994/photo/1",
+          "media_key": "3_2064001908348739584",
+          "start": 114,
+          "url": "https://t.co/Vm8rhngmYq"
+        },
+        {
+          "display_url": "pic.x.com/Vm8rhngmYq",
+          "end": 137,
+          "expanded_url": "https://x.com/DrankghostU/status/2064001916104019994/photo/1",
+          "media_key": "3_2064001908340412416",
+          "start": 114,
+          "url": "https://t.co/Vm8rhngmYq"
+        },
+        {
+          "display_url": "pic.x.com/Vm8rhngmYq",
+          "end": 137,
+          "expanded_url": "https://x.com/DrankghostU/status/2064001916104019994/photo/1",
+          "media_key": "3_2064001908407414784",
+          "start": 114,
+          "url": "https://t.co/Vm8rhngmYq"
+        },
+        {
+          "display_url": "pic.x.com/Vm8rhngmYq",
+          "end": 137,
+          "expanded_url": "https://x.com/DrankghostU/status/2064001916104019994/photo/1",
+          "media_key": "3_2064001908441059328",
+          "start": 114,
+          "url": "https://t.co/Vm8rhngmYq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064001916104019994",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "一觉醒来，十年的友人成了我的女友。\n\n……所以，该如何解释我有两个女朋友的事？\n\n #日常 #百合 #yuri #ジト目 #メンヘラ  #メンヘラ女子 #彼女募集じゃない #推し同担拒否 #日常垢さんと繋がりたい ⁠#創作百合 https://t.co/Vm8rhngmYq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2064001908348739584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKTOzNLa4AAuVuz.jpg",
+        "width": 118
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2064001908340412416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKTOzNJb0AAd5mr.jpg",
+        "width": 110
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2064001908407414784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKTOzNZaMAAEB37.jpg",
+        "width": 98
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2064001908441059328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKTOzNhbkAAg2-W.jpg",
+        "width": 292
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064001908348739584",
+            "3_2064001908340412416",
+            "3_2064001908407414784",
+            "3_2064001908441059328"
+          ]
+        },
+        "author_id": "1409516495571501066",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1334945143208611841",
+              "name": "GL"
+            }
+          }
+        ],
+        "conversation_id": "2064001916104019994",
+        "created_at": "2026-06-08T15:09:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T16:09:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064001916104019994"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 45,
+              "start": 42,
+              "tag": "日常"
+            },
+            {
+              "end": 49,
+              "start": 46,
+              "tag": "百合"
+            },
+            {
+              "end": 55,
+              "start": 50,
+              "tag": "yuri"
+            },
+            {
+              "end": 60,
+              "start": 56,
+              "tag": "ジト目"
+            },
+            {
+              "end": 66,
+              "start": 61,
+              "tag": "メンヘラ"
+            },
+            {
+              "end": 75,
+              "start": 68,
+              "tag": "メンヘラ女子"
+            },
+            {
+              "end": 85,
+              "start": 76,
+              "tag": "彼女募集じゃない"
+            },
+            {
+              "end": 93,
+              "start": 86,
+              "tag": "推し同担拒否"
+            },
+            {
+              "end": 106,
+              "start": 94,
+              "tag": "日常垢さんと繋がりたい"
+            },
+            {
+              "end": 113,
+              "start": 108,
+              "tag": "創作百合"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Vm8rhngmYq",
+              "end": 137,
+              "expanded_url": "https://x.com/DrankghostU/status/2064001916104019994/photo/1",
+              "media_key": "3_2064001908348739584",
+              "start": 114,
+              "url": "https://t.co/Vm8rhngmYq"
+            },
+            {
+              "display_url": "pic.x.com/Vm8rhngmYq",
+              "end": 137,
+              "expanded_url": "https://x.com/DrankghostU/status/2064001916104019994/photo/1",
+              "media_key": "3_2064001908340412416",
+              "start": 114,
+              "url": "https://t.co/Vm8rhngmYq"
+            },
+            {
+              "display_url": "pic.x.com/Vm8rhngmYq",
+              "end": 137,
+              "expanded_url": "https://x.com/DrankghostU/status/2064001916104019994/photo/1",
+              "media_key": "3_2064001908407414784",
+              "start": 114,
+              "url": "https://t.co/Vm8rhngmYq"
+            },
+            {
+              "display_url": "pic.x.com/Vm8rhngmYq",
+              "end": 137,
+              "expanded_url": "https://x.com/DrankghostU/status/2064001916104019994/photo/1",
+              "media_key": "3_2064001908441059328",
+              "start": 114,
+              "url": "https://t.co/Vm8rhngmYq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064001916104019994",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一觉醒来，十年的友人成了我的女友。\n\n……所以，该如何解释我有两个女朋友的事？\n\n #日常 #百合 #yuri #ジト目 #メンヘラ  #メンヘラ女子 #彼女募集じゃない #推し同担拒否 #日常垢さんと繋がりたい ⁠#創作百合 https://t.co/Vm8rhngmYq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-06-28T14:18:23.000Z",
+        "description": "𓆩♡𓆪 死目莉 𓆩♡𓆪\n 🩹 | 双相情感障碍• 𝖠𝖣𝖧𝖣 • 重焦 • 繪師 \n\n🎀没有喜欢死目莉的觉悟的人请不要靠近死目莉⚠️😸…",
+        "id": "1409516495571501066",
+        "location": "我想要的是世界上根本就没有的东西",
+        "name": "早乙女死目莉2.0",
+        "pinned_tweet_id": "2059646950455279640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063196138987995136/5SVYRVyv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 373,
+          "following_count": 198,
+          "like_count": 98,
+          "listed_count": 1,
+          "media_count": 46,
+          "tweet_count": 603
+        },
+        "username": "DrankghostU",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "",
+  "username": "@DrankghostU",
+  "bio": "",
+  "location": "",
+  "link": "",
+  "avatar": "avatar/avatar.jpg",
+  "banner": "avatar/1500x500.jpg",
+  "pinned": "",
+  "bio_entities": {
+    "mentions": [
+      {
+        "end": 26,
+        "start": 11,
+        "username": "SaotomeShimeri"
+      }
+    ]
+  }
+}

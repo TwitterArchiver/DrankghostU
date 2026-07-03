@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1409516495571501066",
+    "conversation_id": "2062561098990227482",
+    "created_at": "2026-06-04T18:03:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T19:03:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062596174922883220"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1409546044124262405",
+          "start": 0,
+          "username": "fsj9806"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062596174922883220",
+    "in_reply_to_user_id": "1409546044124262405",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062579920564289629",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fsj9806 这就是我此行的目的👿🥴坏蛋死目莉正在攻击你的x！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1409516495571501066",
+        "conversation_id": "2062561098990227482",
+        "created_at": "2026-06-04T18:03:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T19:03:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062596174922883220"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1409546044124262405",
+              "start": 0,
+              "username": "fsj9806"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062596174922883220",
+        "in_reply_to_user_id": "1409546044124262405",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062579920564289629",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fsj9806 这就是我此行的目的👿🥴坏蛋死目莉正在攻击你的x！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1409546044124262405",
+        "conversation_id": "2062561098990227482",
+        "created_at": "2026-06-04T16:59:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T17:59:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062579920564289629"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1409516495571501066",
+              "start": 0,
+              "username": "DrankghostU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062579920564289629",
+        "in_reply_to_user_id": "1409516495571501066",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062561098990227482",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DrankghostU 我要被萌哭了.."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-06-28T14:18:23.000Z",
+        "description": "被msk气哭了。\n前世@SaotomeShimeri\n女宝互关熟了可以恰v \n男性推油请给恶魔死目莉的熔炼炉投入52cny喵😤\n没有喜欢死目莉的觉悟的人不能靠近死目莉！😤😤",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 11,
+                "username": "SaotomeShimeri"
+              }
+            ]
+          }
+        },
+        "id": "1409516495571501066",
+        "name": "早乙女死目莉2.0",
+        "pinned_tweet_id": "2062521015922749816",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058389276015120384/ihPt3Trh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 314,
+          "following_count": 180,
+          "like_count": 70,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 391
+        },
+        "username": "DrankghostU",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-28T16:15:59.000Z",
+        "description": "=零點\nshtwt相關慎入\n偶爾會發些畫\n回關私信(^_^) \n我最近都特別無聊.歡迎找我玩",
+        "id": "1409546044124262405",
+        "name": "负视界",
+        "pinned_tweet_id": "1830440397098926144",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057124018960883712/E2XEiMh2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 253,
+          "following_count": 791,
+          "like_count": 2772,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 137
+        },
+        "username": "fsj9806",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1409516495571501066",
+    "conversation_id": "2061240821068742826",
+    "created_at": "2026-06-01T00:18:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T01:18:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061240821068742826"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2001626837332692996",
+          "start": 3,
+          "username": "yintianseln"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061240821068742826",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061040700355981506",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yintianseln: 我自残的时候也会想到她。想让她看着我割。然后把刀给她让她给我割。我们再抱一起流泪。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1409516495571501066",
+        "conversation_id": "2061240821068742826",
+        "created_at": "2026-06-01T00:18:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T01:18:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061240821068742826"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2001626837332692996",
+              "start": 3,
+              "username": "yintianseln"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061240821068742826",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061040700355981506",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yintianseln: 我自残的时候也会想到她。想让她看着我割。然后把刀给她让她给我割。我们再抱一起流泪。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2001626837332692996",
+        "conversation_id": "2061040700355981506",
+        "created_at": "2026-05-31T11:02:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T12:02:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061040700355981506"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061040700355981506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我自残的时候也会想到她。想让她看着我割。然后把刀给她让她给我割。我们再抱一起流泪。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-06-28T14:18:23.000Z",
+        "description": "被msk气哭了。\n前世@SaotomeShimeri\n女宝互关熟了可以恰v \n男性推油请给恶魔死目莉的熔炼炉投入52cny喵😤\n没有喜欢死目莉的觉悟的人不能靠近死目莉！😤😤",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 11,
+                "username": "SaotomeShimeri"
+              }
+            ]
+          }
+        },
+        "id": "1409516495571501066",
+        "name": "早乙女死目莉2.0",
+        "pinned_tweet_id": "2059646950455279640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058389276015120384/ihPt3Trh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 197,
+          "following_count": 166,
+          "like_count": 61,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 237
+        },
+        "username": "DrankghostU",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-18T12:14:16.000Z",
+        "description": "le｜同类请找我互fo",
+        "id": "2001626837332692996",
+        "name": "小猫才写日记",
+        "pinned_tweet_id": "2055658511431057635",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055659016597237760/zii1Gj8j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 54,
+          "like_count": 91,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 111
+        },
+        "username": "yintianseln",
+        "verified": false
+      }
+    ]
+  }
+}

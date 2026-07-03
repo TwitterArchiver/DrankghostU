@@ -1,0 +1,349 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1409516495571501066",
+    "conversation_id": "2059977855199551700",
+    "created_at": "2026-05-28T12:39:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T13:39:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059977855199551700"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1840708439544352768",
+          "start": 0,
+          "username": "seiunn04"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/pj_sekai/statu…",
+          "end": 50,
+          "expanded_url": "https://twitter.com/pj_sekai/status/2059598176747942265",
+          "start": 27,
+          "url": "https://t.co/9aZz8K43Ee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059977855199551700",
+    "in_reply_to_user_id": "1840708439544352768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059598176747942265",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@seiunn04 烤批过来给我打这首。我最爱的术曲 https://t.co/9aZz8K43Ee"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2059598106241695744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJUpkL6agAAn7US.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1409516495571501066",
+        "conversation_id": "2059977855199551700",
+        "created_at": "2026-05-28T12:39:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T13:39:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059977855199551700"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1840708439544352768",
+              "start": 0,
+              "username": "seiunn04"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/pj_sekai/statu…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/pj_sekai/status/2059598176747942265",
+              "start": 27,
+              "url": "https://t.co/9aZz8K43Ee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059977855199551700",
+        "in_reply_to_user_id": "1840708439544352768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059598176747942265",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@seiunn04 烤批过来给我打这首。我最爱的术曲 https://t.co/9aZz8K43Ee"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059598106241695744"
+          ]
+        },
+        "author_id": "1158668053183266816",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1370105546607534081",
+              "name": "Project Sekai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1370105546607534081",
+              "name": "Project Sekai"
+            }
+          }
+        ],
+        "conversation_id": "2059598176747942265",
+        "created_at": "2026-05-27T11:30:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T12:30:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059598176747942265"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 63,
+              "start": 55,
+              "tag": "プロセカ放送局"
+            }
+          ],
+          "urls": [
+            {
+              "description": "2026年5月27日（水）19時30分より「プロセカ放送局 #32」を実施いたします。「プロセカ放送局 #32」では、『プロジェクト...",
+              "display_url": "youtube.com/live/Qp1NiXSxg…",
+              "end": 54,
+              "expanded_url": "https://youtube.com/live/Qp1NiXSxg0Y",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/2059471303971581960/qpOE1uXz?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2059471303971581960/qpOE1uXz?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 31,
+              "status": 200,
+              "title": "プロジェクトセカイ プロセカ放送局 #32",
+              "unwound_url": "https://www.youtube.com/live/Qp1NiXSxg0Y",
+              "url": "https://t.co/otsrb9Ef7i"
+            },
+            {
+              "display_url": "pic.x.com/spW8Oh3I86",
+              "end": 87,
+              "expanded_url": "https://x.com/pj_sekai/status/2059598176747942265/photo/1",
+              "media_key": "3_2059598106241695744",
+              "start": 64,
+              "url": "https://t.co/spW8Oh3I86"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059598176747942265",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2229,
+          "impression_count": 2127635,
+          "like_count": 67322,
+          "quote_count": 5769,
+          "reply_count": 218,
+          "retweet_count": 14674
+        },
+        "reply_settings": "everyone",
+        "text": "🎶楽曲追加情報✨\n\n『プロポーズ』を追加💿\n\n📺番組生配信中：https://t.co/otsrb9Ef7i\n#プロセカ放送局 https://t.co/spW8Oh3I86"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-06-28T14:18:23.000Z",
+        "description": "被msk气哭了。\n前世@SaotomeShimeri\n女宝互关熟了可以恰v \n男性推油请给恶魔死目莉的熔炼炉投入52cny喵😤\n没有喜欢死目莉的觉悟的人不能靠近死目莉！😤😤",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 11,
+                "username": "SaotomeShimeri"
+              }
+            ]
+          }
+        },
+        "id": "1409516495571501066",
+        "name": "早乙女死目莉2.0",
+        "pinned_tweet_id": "2059646950455279640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058389276015120384/ihPt3Trh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 149,
+          "like_count": 56,
+          "listed_count": 7,
+          "media_count": 22,
+          "tweet_count": 148
+        },
+        "username": "DrankghostU",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-30T11:01:10.000Z",
+        "description": "雨上がりの一番星",
+        "id": "1840708439544352768",
+        "location": "Davis,CA",
+        "name": "测地线上的魔法使",
+        "pinned_tweet_id": "1970613742728867938",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028540981914853376/ru-GqwEY_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 316,
+          "following_count": 1290,
+          "like_count": 14876,
+          "listed_count": 1,
+          "media_count": 120,
+          "tweet_count": 3399
+        },
+        "username": "seiunn04",
+        "verified": true
+      },
+      {
+        "created_at": "2019-08-06T09:16:05.000Z",
+        "description": "SEGA×Colorful Paletteが贈る、スマートフォンリズムゲーム #プロセカ 公式アカウント\nクリスタルをお得に買える公式ストアはこちら：https://t.co/zacMyTdlWW",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 44,
+                "start": 39,
+                "tag": "プロセカ"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "pjsekai.sega.jp/webstore",
+                "end": 98,
+                "expanded_url": "https://pjsekai.sega.jp/webstore",
+                "start": 75,
+                "url": "https://t.co/zacMyTdlWW"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "app.adjust.com/iaq3ido",
+                "end": 23,
+                "expanded_url": "https://app.adjust.com/iaq3ido",
+                "start": 0,
+                "url": "https://t.co/joevC53VDM"
+              }
+            ]
+          }
+        },
+        "id": "1158668053183266816",
+        "name": "プロジェクトセカイ カラフルステージ！ feat. 初音ミク【プロセカ】",
+        "pinned_tweet_id": "1839874318832152732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854064399478398976/W-uuO8DW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2304853,
+          "following_count": 617,
+          "like_count": 27,
+          "listed_count": 8914,
+          "media_count": 14173,
+          "tweet_count": 19235
+        },
+        "url": "https://t.co/joevC53VDM",
+        "username": "pj_sekai",
+        "verified": true
+      }
+    ]
+  }
+}

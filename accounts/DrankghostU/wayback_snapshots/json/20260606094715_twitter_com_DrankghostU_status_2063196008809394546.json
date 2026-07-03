@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1409516495571501066",
+    "conversation_id": "2063196008809394546",
+    "created_at": "2026-06-06T09:47:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T10:47:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063196008809394546"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/bisco91395061/…",
+          "end": 61,
+          "expanded_url": "https://twitter.com/bisco91395061/status/2063191796797292872",
+          "start": 38,
+          "url": "https://t.co/eNFljDOgAd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063196008809394546",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063191796797292872",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我草我怎么才看到？！？！？？咋这么萌？！？！？？？？我草我爱这个菜菜警官。 https://t.co/eNFljDOgAd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1833,
+        "media_key": "3_2063191584473255936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKHt0JgakAA8HC3.jpg",
+        "width": 1575
+      },
+      {
+        "height": 929,
+        "media_key": "3_2063191584481632256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKHt0JiaYAAZKih.jpg",
+        "width": 930
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1409516495571501066",
+        "conversation_id": "2063196008809394546",
+        "created_at": "2026-06-06T09:47:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T10:47:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063196008809394546"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bisco91395061/…",
+              "end": 61,
+              "expanded_url": "https://twitter.com/bisco91395061/status/2063191796797292872",
+              "start": 38,
+              "url": "https://t.co/eNFljDOgAd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063196008809394546",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063191796797292872",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我草我怎么才看到？！？！？？咋这么萌？！？！？？？？我草我爱这个菜菜警官。 https://t.co/eNFljDOgAd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063191584473255936",
+            "3_2063191584481632256"
+          ]
+        },
+        "author_id": "1564990471327215619",
+        "conversation_id": "2063191796797292872",
+        "created_at": "2026-06-06T09:30:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T10:30:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063191796797292872"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Bpa3LQSIAd",
+              "end": 61,
+              "expanded_url": "https://x.com/bisco91395061/status/2063191796797292872/photo/1",
+              "media_key": "3_2063191584473255936",
+              "start": 38,
+              "url": "https://t.co/Bpa3LQSIAd"
+            },
+            {
+              "display_url": "pic.x.com/Bpa3LQSIAd",
+              "end": 61,
+              "expanded_url": "https://x.com/bisco91395061/status/2063191796797292872/photo/1",
+              "media_key": "3_2063191584481632256",
+              "start": 38,
+              "url": "https://t.co/Bpa3LQSIAd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063191796797292872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这期还是给互关的py，是给死目莉的🤟\n还有互关想找我互绘吗直接私信我就好啦 https://t.co/Bpa3LQSIAd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-06-28T14:18:23.000Z",
+        "description": "𓆩♡𓆪 死目莉 𓆩♡𓆪\n🩹 | 双相情感障碍 • 𝖠𝖣𝖧𝖣 • 重焦 • 💊🔪🩸\n\n🎀没有喜欢死目莉的觉悟就不要靠近死目莉。\n💕女宝互关熟了可以恰v \n🫧男性推油请给恶魔死目莉的熔炼炉投入52cny喵😤",
+        "id": "1409516495571501066",
+        "location": "我想要的是世界上根本就没有的东西",
+        "name": "早乙女死目莉2.0",
+        "pinned_tweet_id": "2063162560157720985",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058389276015120384/ihPt3Trh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 340,
+          "following_count": 186,
+          "like_count": 84,
+          "listed_count": 1,
+          "media_count": 37,
+          "tweet_count": 449
+        },
+        "username": "DrankghostU",
+        "verified": true
+      },
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜同类互fo❤️大欢迎｜生理心理女 别再问了｜直fo是喜欢泥🤲❤️",
+        "id": "1564990471327215619",
+        "location": "🚪52/188",
+        "name": "菜菜警官",
+        "pinned_tweet_id": "2050266190665388506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 448,
+          "following_count": 179,
+          "like_count": 7227,
+          "listed_count": 1,
+          "media_count": 82,
+          "tweet_count": 969
+        },
+        "username": "bisco91395061",
+        "verified": false
+      }
+    ]
+  }
+}

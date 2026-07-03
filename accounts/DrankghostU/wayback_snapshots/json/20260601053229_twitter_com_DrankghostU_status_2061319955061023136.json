@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1409516495571501066",
+    "conversation_id": "2061286028879478885",
+    "created_at": "2026-06-01T05:32:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T06:32:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061319955061023136"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2001626837332692996",
+          "start": 0,
+          "username": "yintianseln"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061319955061023136",
+    "in_reply_to_user_id": "2001626837332692996",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061306219793416539",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yintianseln 宝宝呜呜呜呜呜呜🥲🥲🥲🥲🥲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1409516495571501066",
+        "conversation_id": "2061286028879478885",
+        "created_at": "2026-06-01T05:32:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T06:32:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061319955061023136"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2001626837332692996",
+              "start": 0,
+              "username": "yintianseln"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061319955061023136",
+        "in_reply_to_user_id": "2001626837332692996",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061306219793416539",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yintianseln 宝宝呜呜呜呜呜呜🥲🥲🥲🥲🥲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2001626837332692996",
+        "conversation_id": "2061286028879478885",
+        "created_at": "2026-06-01T04:37:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T05:37:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061306219793416539"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1409516495571501066",
+              "start": 0,
+              "username": "DrankghostU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061306219793416539",
+        "in_reply_to_user_id": "1409516495571501066",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061286028879478885",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DrankghostU 太萌了啊宝宝！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-06-28T14:18:23.000Z",
+        "description": "被msk气哭了。\n前世@SaotomeShimeri\n女宝互关熟了可以恰v \n男性推油请给恶魔死目莉的熔炼炉投入52cny喵😤\n没有喜欢死目莉的觉悟的人不能靠近死目莉！😤😤",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 11,
+                "username": "SaotomeShimeri"
+              }
+            ]
+          }
+        },
+        "id": "1409516495571501066",
+        "name": "早乙女死目莉2.0",
+        "pinned_tweet_id": "2059646950455279640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058389276015120384/ihPt3Trh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 215,
+          "following_count": 175,
+          "like_count": 62,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 249
+        },
+        "username": "DrankghostU",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-18T12:14:16.000Z",
+        "description": "le｜同类请找我互fo",
+        "id": "2001626837332692996",
+        "name": "小猫才写日记",
+        "pinned_tweet_id": "2055658511431057635",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055659016597237760/zii1Gj8j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 53,
+          "like_count": 91,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 114
+        },
+        "username": "yintianseln",
+        "verified": false
+      }
+    ]
+  }
+}

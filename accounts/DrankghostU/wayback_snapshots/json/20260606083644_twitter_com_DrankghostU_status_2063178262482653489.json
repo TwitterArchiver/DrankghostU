@@ -1,0 +1,106 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1409516495571501066",
+    "conversation_id": "2063178262482653489",
+    "created_at": "2026-06-06T08:36:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T09:36:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063178262482653489"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2063178262482653489",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "我不懂。我说真的我不懂。我不喜欢出题给人做阅读理解。我说过大家每天想自己的事情就已经很累了。所以我从来不想逼别人或者是单纯地让别人来解读我，让别人来猜我在想什么。\n\n就是单纯地觉得【麻烦了】，不想麻烦别人所以不想。就是不想。\n\n我的推文在那里，被我写出来，可能想表达什么。但是它在那就只是在那。\n\n有人能懂吗。所以主动去和人交流和发推，是根本不一样的，\n\n人类和人类的交流应该是建立在【彼此信任】的基础上的。\n\n我不想【主动】【寻求理解】\n我不想【展现自己的弱点】\n我不想【传达负能量】\n\n所以我就是单纯地【没有做】。\n直截了当又伤人地说就是，说了也没用，交流了也没用，因为就是没用，解决不了任何事情。\n心灵的理解和情感支持固然重要，但是如果没办法实际地解决问题，那么一切将会变得无用无解无意义。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我不懂。我说真的我不懂。我不喜欢出题给人做阅读理解。我说过大家每天想自己的事情就已经很累了。所以我从来不想逼别人或者是单纯地让别人来解读我，让别人来猜我在想什么。\n\n就是单纯地觉得【麻烦了】，不想麻烦别人所以不想。就是不想。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1409516495571501066",
+        "conversation_id": "2063178262482653489",
+        "created_at": "2026-06-06T08:36:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T09:36:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063178262482653489"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063178262482653489",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我不懂。我说真的我不懂。我不喜欢出题给人做阅读理解。我说过大家每天想自己的事情就已经很累了。所以我从来不想逼别人或者是单纯地让别人来解读我，让别人来猜我在想什么。\n\n就是单纯地觉得【麻烦了】，不想麻烦别人所以不想。就是不想。\n\n我的推文在那里，被我写出来，可能想表达什么。但是它在那就只是在那。\n\n有人能懂吗。所以主动去和人交流和发推，是根本不一样的，\n\n人类和人类的交流应该是建立在【彼此信任】的基础上的。\n\n我不想【主动】【寻求理解】\n我不想【展现自己的弱点】\n我不想【传达负能量】\n\n所以我就是单纯地【没有做】。\n直截了当又伤人地说就是，说了也没用，交流了也没用，因为就是没用，解决不了任何事情。\n心灵的理解和情感支持固然重要，但是如果没办法实际地解决问题，那么一切将会变得无用无解无意义。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不懂。我说真的我不懂。我不喜欢出题给人做阅读理解。我说过大家每天想自己的事情就已经很累了。所以我从来不想逼别人或者是单纯地让别人来解读我，让别人来猜我在想什么。\n\n就是单纯地觉得【麻烦了】，不想麻烦别人所以不想。就是不想。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-06-28T14:18:23.000Z",
+        "description": "被msk气哭了。\n前世@SaotomeShimeri\n女宝互关熟了可以恰v \n男性推油请给恶魔死目莉的熔炼炉投入52cny喵😤\n没有喜欢死目莉的觉悟的人不能靠近死目莉！😤😤",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 11,
+                "username": "SaotomeShimeri"
+              }
+            ]
+          }
+        },
+        "id": "1409516495571501066",
+        "name": "早乙女死目莉2.0",
+        "pinned_tweet_id": "2063162560157720985",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058389276015120384/ihPt3Trh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 340,
+          "following_count": 186,
+          "like_count": 83,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 442
+        },
+        "username": "DrankghostU",
+        "verified": true
+      }
+    ]
+  }
+}

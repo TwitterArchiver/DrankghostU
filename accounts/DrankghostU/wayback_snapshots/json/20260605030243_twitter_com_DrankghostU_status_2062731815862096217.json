@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1409516495571501066",
+    "conversation_id": "2062731815862096217",
+    "created_at": "2026-06-05T03:02:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T04:02:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062731815862096217"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2056307790264590336",
+          "start": 3,
+          "username": "dooaisuan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062731815862096217",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062725560498094159",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dooaisuan: 我是小酸。\n2.0封号七天 请帮我转转加这个号联系！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1409516495571501066",
+        "conversation_id": "2062731815862096217",
+        "created_at": "2026-06-05T03:02:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T04:02:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062731815862096217"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2056307790264590336",
+              "start": 3,
+              "username": "dooaisuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062731815862096217",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062725560498094159",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dooaisuan: 我是小酸。\n2.0封号七天 请帮我转转加这个号联系！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2056307790264590336",
+        "conversation_id": "2062725560498094159",
+        "created_at": "2026-06-05T02:37:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T03:37:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062725560498094159"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062725560498094159",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我是小酸。\n2.0封号七天 请帮我转转加这个号联系！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-06-28T14:18:23.000Z",
+        "description": "被msk气哭了。\n前世@SaotomeShimeri\n女宝互关熟了可以恰v \n男性推油请给恶魔死目莉的熔炼炉投入52cny喵😤\n没有喜欢死目莉的觉悟的人不能靠近死目莉！😤😤",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 11,
+                "username": "SaotomeShimeri"
+              }
+            ]
+          }
+        },
+        "id": "1409516495571501066",
+        "name": "早乙女死目莉2.0",
+        "pinned_tweet_id": "2062521015922749816",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058389276015120384/ihPt3Trh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 318,
+          "following_count": 184,
+          "like_count": 72,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 403
+        },
+        "username": "DrankghostU",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-18T09:36:23.000Z",
+        "description": "od ｜自伤 ｜bpd\n地雷女 喜欢我请给我钱",
+        "id": "2056307790264590336",
+        "name": "狗爹酸酸3.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062723945766518784/XJLwy4kx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 0,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 3
+        },
+        "username": "dooaisuan",
+        "verified": false
+      }
+    ]
+  }
+}

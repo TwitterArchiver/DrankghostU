@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1409516495571501066",
+    "conversation_id": "2062533999801807204",
+    "created_at": "2026-06-04T13:56:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T14:56:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062533999801807204"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/boqiaoahm4/sta…",
+          "end": 151,
+          "expanded_url": "https://twitter.com/boqiaoahm4/status/2062533224358908207",
+          "start": 128,
+          "url": "https://t.co/Rnf2RuUvUW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062533999801807204",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062533224358908207",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "想到好多女人了，说实话我真的好喜欢看我拿出刀伸出手让她们划我的手的时候，好喜欢看她们的那个时刻的，无法用语言去描述的表情………\n恍惚间只是觉得好美啊？那样的你看着我的时候，好美啊？你的眼睛，眼神，这一刻是只属于我的哦\n那个时候的我的爱意一定是浓度巅峰的吧 https://t.co/Rnf2RuUvUW"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1409516495571501066",
+        "conversation_id": "2062533999801807204",
+        "created_at": "2026-06-04T13:56:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T14:56:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062533999801807204"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/boqiaoahm4/sta…",
+              "end": 151,
+              "expanded_url": "https://twitter.com/boqiaoahm4/status/2062533224358908207",
+              "start": 128,
+              "url": "https://t.co/Rnf2RuUvUW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062533999801807204",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062533224358908207",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "想到好多女人了，说实话我真的好喜欢看我拿出刀伸出手让她们划我的手的时候，好喜欢看她们的那个时刻的，无法用语言去描述的表情………\n恍惚间只是觉得好美啊？那样的你看着我的时候，好美啊？你的眼睛，眼神，这一刻是只属于我的哦\n那个时候的我的爱意一定是浓度巅峰的吧 https://t.co/Rnf2RuUvUW"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057425772198215680",
+        "conversation_id": "2062533224358908207",
+        "created_at": "2026-06-04T13:53:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T14:53:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062533224358908207"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062533224358908207",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "被喜欢的人拿烟头烫、在他躁狂发作的时候主动伸出手让他割 心情不好的时候可以揪着他的头发往墙上撞 卧槽这样的关系好幸福"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-06-28T14:18:23.000Z",
+        "description": "被msk气哭了。\n前世@SaotomeShimeri\n女宝互关熟了可以恰v \n男性推油请给恶魔死目莉的熔炼炉投入52cny喵😤\n没有喜欢死目莉的觉悟的人不能靠近死目莉！😤😤",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 11,
+                "username": "SaotomeShimeri"
+              }
+            ]
+          }
+        },
+        "id": "1409516495571501066",
+        "name": "早乙女死目莉2.0",
+        "pinned_tweet_id": "2062521015922749816",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058389276015120384/ihPt3Trh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 304,
+          "following_count": 177,
+          "like_count": 68,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 332
+        },
+        "username": "DrankghostU",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉\n前世@dzzzzz467732\n查成分回fo\n提问箱https://t.co/Al4Mvhwm7Y\n没人我会很尴尬的🥺",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 8,
+                "username": "dzzzzz467732"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 55,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 32,
+                "url": "https://t.co/Al4Mvhwm7Y"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 343,
+          "following_count": 181,
+          "like_count": 743,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 573
+        },
+        "username": "boqiaoahm4",
+        "verified": false
+      }
+    ]
+  }
+}

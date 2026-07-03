@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1409516495571501066",
+    "conversation_id": "2070838537315024973",
+    "created_at": "2026-06-27T12:32:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T13:32:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070847707841974409"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1997986235915395072",
+          "start": 0,
+          "username": "Amanojyaku815"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070847707841974409",
+    "in_reply_to_user_id": "1997986235915395072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070839505427587431",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Amanojyaku815 宝宝直接加我企鹅或者画+都可以！需要的话可以私信我企鹅号"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1409516495571501066",
+        "conversation_id": "2070838537315024973",
+        "created_at": "2026-06-27T12:32:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T13:32:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070847707841974409"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1997986235915395072",
+              "start": 0,
+              "username": "Amanojyaku815"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070847707841974409",
+        "in_reply_to_user_id": "1997986235915395072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070839505427587431",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Amanojyaku815 宝宝直接加我企鹅或者画+都可以！需要的话可以私信我企鹅号"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997986235915395072",
+        "conversation_id": "2070838537315024973",
+        "created_at": "2026-06-27T11:59:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T12:59:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070839505427587431"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1409516495571501066",
+              "start": 0,
+              "username": "DrankghostU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070839505427587431",
+        "in_reply_to_user_id": "1409516495571501066",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070838537315024973",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DrankghostU 哦不对面咋这样。。然后想问一下怎样可以约老师的稿好想吃&gt;&lt;"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-06-28T14:18:23.000Z",
+        "description": "𓆩♡𓆪 死目莉 𓆩♡𓆪\n 🩹 | 双相情感障碍• 𝖠𝖣𝖧𝖣 • 重焦 • 繪師 \n\n🎀没有喜欢死目莉的觉悟的人请不要靠近死目莉⚠️😸…",
+        "id": "1409516495571501066",
+        "location": "我想要的是世界上根本就没有的东西",
+        "name": "早乙女死目莉2.0",
+        "pinned_tweet_id": "2059646950455279640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063196138987995136/5SVYRVyv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 449,
+          "following_count": 199,
+          "like_count": 145,
+          "listed_count": 1,
+          "media_count": 56,
+          "tweet_count": 814
+        },
+        "url": "",
+        "username": "DrankghostU",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-08T11:07:03.000Z",
+        "description": "精神状态不好不必在意/关注就是喜欢你/餐券可以互fo",
+        "id": "1997986235915395072",
+        "name": "死凶·天邪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997986331134402560/xUwep-h4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 50,
+          "like_count": 25,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 9
+        },
+        "url": "",
+        "username": "Amanojyaku815",
+        "verified": false
+      }
+    ]
+  }
+}

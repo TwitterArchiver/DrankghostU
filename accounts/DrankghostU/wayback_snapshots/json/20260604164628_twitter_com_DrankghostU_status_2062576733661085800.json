@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1409516495571501066",
+    "conversation_id": "2062576733661085800",
+    "created_at": "2026-06-04T16:46:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T17:46:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062576733661085800"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/omotiii8/statu…",
+          "end": 49,
+          "expanded_url": "https://twitter.com/omotiii8/status/2062129697434329488",
+          "start": 26,
+          "url": "https://t.co/xm7u7MeFgO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062576733661085800",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062129697434329488",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我草有点道理（思考）（迷思）🫪🫪🫪🫪🫪🫪🫪🫪🫪🫪🫪 https://t.co/xm7u7MeFgO"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1409516495571501066",
+        "conversation_id": "2062576733661085800",
+        "created_at": "2026-06-04T16:46:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T17:46:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062576733661085800"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/omotiii8/statu…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/omotiii8/status/2062129697434329488",
+              "start": 26,
+              "url": "https://t.co/xm7u7MeFgO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062576733661085800",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062129697434329488",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我草有点道理（思考）（迷思）🫪🫪🫪🫪🫪🫪🫪🫪🫪🫪🫪 https://t.co/xm7u7MeFgO"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1373651647348449280",
+        "conversation_id": "2062129697434329488",
+        "created_at": "2026-06-03T11:10:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T12:09:54.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062129644854481081",
+          "2062129697434329488"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062129697434329488",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10342,
+          "impression_count": 2348801,
+          "like_count": 93345,
+          "quote_count": 1746,
+          "reply_count": 159,
+          "retweet_count": 11785
+        },
+        "reply_settings": "everyone",
+        "text": "「この人がいないと生きていけない」\nは依存だけど\n「この人がいない人生を生きたくない」\nは愛だと思うんです。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-06-28T14:18:23.000Z",
+        "description": "被msk气哭了。\n前世@SaotomeShimeri\n女宝互关熟了可以恰v \n男性推油请给恶魔死目莉的熔炼炉投入52cny喵😤\n没有喜欢死目莉的觉悟的人不能靠近死目莉！😤😤",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 11,
+                "username": "SaotomeShimeri"
+              }
+            ]
+          }
+        },
+        "id": "1409516495571501066",
+        "name": "早乙女死目莉2.0",
+        "pinned_tweet_id": "2062521015922749816",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058389276015120384/ihPt3Trh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 311,
+          "following_count": 180,
+          "like_count": 69,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 382
+        },
+        "username": "DrankghostU",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-21T15:05:09.000Z",
+        "description": "\"私も言葉届けたい\"と思いこのアカウント作りました。 誰かの心に届きますように。",
+        "id": "1373651647348449280",
+        "location": "日本",
+        "name": "おもち",
+        "pinned_tweet_id": "1924640616316862563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1373653068680634371/zWpfgWCo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30264,
+          "following_count": 7,
+          "like_count": 6459,
+          "listed_count": 48,
+          "media_count": 58,
+          "tweet_count": 4725
+        },
+        "username": "omotiii8",
+        "verified": true
+      }
+    ]
+  }
+}

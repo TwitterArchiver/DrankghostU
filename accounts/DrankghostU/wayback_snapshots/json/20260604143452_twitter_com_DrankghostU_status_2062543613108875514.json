@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1409516495571501066",
+    "conversation_id": "2062542929101779148",
+    "created_at": "2026-06-04T14:34:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T15:34:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062543613108875514"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2051536884799803392",
+          "start": 0,
+          "username": "Dyzilidz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062543613108875514",
+    "in_reply_to_user_id": "2051536884799803392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062543162888044726",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Dyzilidz 劳资操死你亲爹呀快点给老子退款 不然你的下场就是和我今天🍊里报的那个减除一样知道了吗？😸"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1409516495571501066",
+        "conversation_id": "2062542929101779148",
+        "created_at": "2026-06-04T14:34:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T15:34:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062543613108875514"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2051536884799803392",
+              "start": 0,
+              "username": "Dyzilidz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062543613108875514",
+        "in_reply_to_user_id": "2051536884799803392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062543162888044726",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dyzilidz 劳资操死你亲爹呀快点给老子退款 不然你的下场就是和我今天🍊里报的那个减除一样知道了吗？😸"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2051536884799803392",
+        "conversation_id": "2062542929101779148",
+        "created_at": "2026-06-04T14:33:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T15:33:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062543162888044726"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062543162888044726",
+        "in_reply_to_user_id": "2051536884799803392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062542929101779148",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "要药的这下真没辙了 你们的药钱被欧意这个傻逼东西吞了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-06-28T14:18:23.000Z",
+        "description": "被msk气哭了。\n前世@SaotomeShimeri\n女宝互关熟了可以恰v \n男性推油请给恶魔死目莉的熔炼炉投入52cny喵😤\n没有喜欢死目莉的觉悟的人不能靠近死目莉！😤😤",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 11,
+                "username": "SaotomeShimeri"
+              }
+            ]
+          }
+        },
+        "id": "1409516495571501066",
+        "name": "早乙女死目莉2.0",
+        "pinned_tweet_id": "2062521015922749816",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058389276015120384/ihPt3Trh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 305,
+          "following_count": 178,
+          "like_count": 68,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 348
+        },
+        "username": "DrankghostU",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-05T05:38:59.000Z",
+        "description": "购买私信哦宝宝们我很温柔的 08/女/od/割手\n没有TG的也不要着急呀宝宝们 私信我就可以啦\n⬇️是tg频道哦\nTg购买频道 https://t.co/EQNgit63OK\n双相情感障碍 抑郁症 我需要钱买抗抑郁药吃",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+a_Fi9g9IfoQzZ…",
+                "end": 87,
+                "expanded_url": "https://t.me/+a_Fi9g9IfoQzZWI1",
+                "start": 64,
+                "url": "https://t.co/EQNgit63OK"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+a_Fi9g9IfoQzZ…",
+                "end": 23,
+                "expanded_url": "https://t.me/+a_Fi9g9IfoQzZWI1",
+                "start": 0,
+                "url": "https://t.co/EQNgit63OK"
+              }
+            ]
+          }
+        },
+        "id": "2051536884799803392",
+        "location": "温柔の日",
+        "name": "Misaaa",
+        "pinned_tweet_id": "2061685435664114138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062155251554369536/8J-cbAgs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 61,
+          "like_count": 16,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 38
+        },
+        "url": "https://t.co/EQNgit63OK",
+        "username": "Dyzilidz",
+        "verified": false
+      }
+    ]
+  }
+}

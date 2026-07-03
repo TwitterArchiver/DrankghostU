@@ -1,0 +1,472 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062733756289667072",
+        "3_2062733756302282752",
+        "3_2062733756247781376",
+        "3_2062733756331618304"
+      ]
+    },
+    "author_id": "1409516495571501066",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Comics",
+          "id": "847521144173350912",
+          "name": "Comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1334945143208611841",
+          "name": "GL"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1431017969627271169",
+          "name": "Short comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A genre for books, like Fiction",
+          "id": "85",
+          "name": "Book Genre"
+        },
+        "entity": {
+          "description": "Comics",
+          "id": "847521144173350912",
+          "name": "Comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Comics",
+          "id": "847521144173350912",
+          "name": "Comics"
+        }
+      }
+    ],
+    "conversation_id": "2062761588331872379",
+    "created_at": "2026-06-05T05:01:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T06:01:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062761588331872379"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 51,
+          "start": 46,
+          "tag": "创作漫画"
+        },
+        {
+          "end": 57,
+          "start": 52,
+          "tag": "百合漫画"
+        },
+        {
+          "end": 64,
+          "start": 58,
+          "tag": "双極性障害"
+        },
+        {
+          "end": 69,
+          "start": 65,
+          "tag": "躁郁症"
+        },
+        {
+          "end": 73,
+          "start": 70,
+          "tag": "GL"
+        },
+        {
+          "end": 81,
+          "start": 74,
+          "tag": "エッセイ漫画"
+        },
+        {
+          "end": 86,
+          "start": 82,
+          "tag": "病み垢"
+        },
+        {
+          "end": 98,
+          "start": 88,
+          "tag": "病み垢と繋がりたい"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zPd570Hc39",
+          "end": 122,
+          "expanded_url": "https://x.com/DrankghostU/status/2062761588331872379/photo/1",
+          "media_key": "3_2062733756289667072",
+          "start": 99,
+          "url": "https://t.co/zPd570Hc39"
+        },
+        {
+          "display_url": "pic.x.com/zPd570Hc39",
+          "end": 122,
+          "expanded_url": "https://x.com/DrankghostU/status/2062761588331872379/photo/1",
+          "media_key": "3_2062733756302282752",
+          "start": 99,
+          "url": "https://t.co/zPd570Hc39"
+        },
+        {
+          "display_url": "pic.x.com/zPd570Hc39",
+          "end": 122,
+          "expanded_url": "https://x.com/DrankghostU/status/2062761588331872379/photo/1",
+          "media_key": "3_2062733756247781376",
+          "start": 99,
+          "url": "https://t.co/zPd570Hc39"
+        },
+        {
+          "display_url": "pic.x.com/zPd570Hc39",
+          "end": 122,
+          "expanded_url": "https://x.com/DrankghostU/status/2062761588331872379/photo/1",
+          "media_key": "3_2062733756331618304",
+          "start": 99,
+          "url": "https://t.co/zPd570Hc39"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062761588331872379",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "已经变成黑历史的…刚和家妻在一起时我画的漫画。\n\n…一觉醒来【十年好友】成了我女友的事。\n\n#创作漫画 #百合漫画 #双極性障害 #躁郁症 #GL #エッセイ漫画 #病み垢  #病み垢と繋がりたい https://t.co/zPd570Hc39"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2062733756289667072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKBNbCnaUAAcJob.jpg",
+        "width": 118
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2062733756302282752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKBNbCqa0AA1TFP.jpg",
+        "width": 110
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2062733756247781376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKBNbCdbMAABB0l.jpg",
+        "width": 98
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2062733756331618304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKBNbCxacAA6a80.jpg",
+        "width": 292
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062733756289667072",
+            "3_2062733756302282752",
+            "3_2062733756247781376",
+            "3_2062733756331618304"
+          ]
+        },
+        "author_id": "1409516495571501066",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1334945143208611841",
+              "name": "GL"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1431017969627271169",
+              "name": "Short comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          }
+        ],
+        "conversation_id": "2062761588331872379",
+        "created_at": "2026-06-05T05:01:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T06:01:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062761588331872379"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 51,
+              "start": 46,
+              "tag": "创作漫画"
+            },
+            {
+              "end": 57,
+              "start": 52,
+              "tag": "百合漫画"
+            },
+            {
+              "end": 64,
+              "start": 58,
+              "tag": "双極性障害"
+            },
+            {
+              "end": 69,
+              "start": 65,
+              "tag": "躁郁症"
+            },
+            {
+              "end": 73,
+              "start": 70,
+              "tag": "GL"
+            },
+            {
+              "end": 81,
+              "start": 74,
+              "tag": "エッセイ漫画"
+            },
+            {
+              "end": 86,
+              "start": 82,
+              "tag": "病み垢"
+            },
+            {
+              "end": 98,
+              "start": 88,
+              "tag": "病み垢と繋がりたい"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zPd570Hc39",
+              "end": 122,
+              "expanded_url": "https://x.com/DrankghostU/status/2062761588331872379/photo/1",
+              "media_key": "3_2062733756289667072",
+              "start": 99,
+              "url": "https://t.co/zPd570Hc39"
+            },
+            {
+              "display_url": "pic.x.com/zPd570Hc39",
+              "end": 122,
+              "expanded_url": "https://x.com/DrankghostU/status/2062761588331872379/photo/1",
+              "media_key": "3_2062733756302282752",
+              "start": 99,
+              "url": "https://t.co/zPd570Hc39"
+            },
+            {
+              "display_url": "pic.x.com/zPd570Hc39",
+              "end": 122,
+              "expanded_url": "https://x.com/DrankghostU/status/2062761588331872379/photo/1",
+              "media_key": "3_2062733756247781376",
+              "start": 99,
+              "url": "https://t.co/zPd570Hc39"
+            },
+            {
+              "display_url": "pic.x.com/zPd570Hc39",
+              "end": 122,
+              "expanded_url": "https://x.com/DrankghostU/status/2062761588331872379/photo/1",
+              "media_key": "3_2062733756331618304",
+              "start": 99,
+              "url": "https://t.co/zPd570Hc39"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062761588331872379",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "已经变成黑历史的…刚和家妻在一起时我画的漫画。\n\n…一觉醒来【十年好友】成了我女友的事。\n\n#创作漫画 #百合漫画 #双極性障害 #躁郁症 #GL #エッセイ漫画 #病み垢  #病み垢と繋がりたい https://t.co/zPd570Hc39"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-06-28T14:18:23.000Z",
+        "description": "被msk气哭了。\n前世@SaotomeShimeri\n女宝互关熟了可以恰v \n男性推油请给恶魔死目莉的熔炼炉投入52cny喵😤\n没有喜欢死目莉的觉悟的人不能靠近死目莉！😤😤",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 11,
+                "username": "SaotomeShimeri"
+              }
+            ]
+          }
+        },
+        "id": "1409516495571501066",
+        "name": "早乙女死目莉2.0",
+        "pinned_tweet_id": "2062521015922749816",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058389276015120384/ihPt3Trh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 324,
+          "following_count": 184,
+          "like_count": 72,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 404
+        },
+        "username": "DrankghostU",
+        "verified": false
+      }
+    ]
+  }
+}

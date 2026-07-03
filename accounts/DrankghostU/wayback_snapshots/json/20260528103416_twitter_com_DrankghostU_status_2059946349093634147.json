@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1409516495571501066",
+    "conversation_id": "2059854969755603309",
+    "created_at": "2026-05-28T10:34:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T11:34:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059946349093634147"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1430976467131842564",
+          "start": 0,
+          "username": "_muguopick"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059946349093634147",
+    "in_reply_to_user_id": "1430976467131842564",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059854969755603309",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_muguopick 还有人类吗😂对面死了没"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2059854960561659904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJYTLE0aoAAVdbA.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2059854960842723328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJYTLF3bUAAOzs_.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2059854960557481984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJYTLEza4AAlKcE.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2059854960561713152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJYTLE0bcAAniia.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1409516495571501066",
+        "conversation_id": "2059854969755603309",
+        "created_at": "2026-05-28T10:34:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T11:34:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059946349093634147"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1430976467131842564",
+              "start": 0,
+              "username": "_muguopick"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059946349093634147",
+        "in_reply_to_user_id": "1430976467131842564",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059854969755603309",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_muguopick 还有人类吗😂对面死了没"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059854960561659904",
+            "3_2059854960842723328",
+            "3_2059854960557481984",
+            "3_2059854960561713152"
+          ]
+        },
+        "author_id": "1430976467131842564",
+        "conversation_id": "2059854969755603309",
+        "created_at": "2026-05-28T04:31:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T05:31:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059854969755603309"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bCnW82OK6W",
+              "end": 30,
+              "expanded_url": "https://x.com/_muguopick/status/2059854969755603309/photo/1",
+              "media_key": "3_2059854960561659904",
+              "start": 7,
+              "url": "https://t.co/bCnW82OK6W"
+            },
+            {
+              "display_url": "pic.x.com/bCnW82OK6W",
+              "end": 30,
+              "expanded_url": "https://x.com/_muguopick/status/2059854969755603309/photo/1",
+              "media_key": "3_2059854960842723328",
+              "start": 7,
+              "url": "https://t.co/bCnW82OK6W"
+            },
+            {
+              "display_url": "pic.x.com/bCnW82OK6W",
+              "end": 30,
+              "expanded_url": "https://x.com/_muguopick/status/2059854969755603309/photo/1",
+              "media_key": "3_2059854960557481984",
+              "start": 7,
+              "url": "https://t.co/bCnW82OK6W"
+            },
+            {
+              "display_url": "pic.x.com/bCnW82OK6W",
+              "end": 30,
+              "expanded_url": "https://x.com/_muguopick/status/2059854969755603309/photo/1",
+              "media_key": "3_2059854960561713152",
+              "start": 7,
+              "url": "https://t.co/bCnW82OK6W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059854969755603309",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 1021,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我无家可归了 https://t.co/bCnW82OK6W"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-06-28T14:18:23.000Z",
+        "description": "被msk气哭了。\n前世@SaotomeShimeri\n女宝互关熟了可以恰v \n男性推油请给恶魔死目莉的熔炼炉投入52cny喵😤\n没有喜欢死目莉的觉悟的人不能靠近死目莉！😤😤",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 11,
+                "username": "SaotomeShimeri"
+              }
+            ]
+          }
+        },
+        "id": "1409516495571501066",
+        "name": "早乙女死目莉2.0",
+        "pinned_tweet_id": "2059646950455279640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058389276015120384/ihPt3Trh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 147,
+          "like_count": 54,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 118
+        },
+        "username": "DrankghostU",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-26T19:32:44.000Z",
+        "description": "🎵l//虚弱人格@infps_offical //神出鬼没的奇怪乐手//工作室试运营中 录混工作接单中 请私信//精神康复中 在尝试努力活着 提问箱📪https://t.co/AW5EeaIkPh",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 8,
+                "username": "infps_offical"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/_muguopick",
+                "end": 98,
+                "expanded_url": "https://ngl.link/_muguopick",
+                "start": 75,
+                "url": "https://t.co/AW5EeaIkPh"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/7344798",
+                "end": 23,
+                "expanded_url": "http://space.bilibili.com/7344798",
+                "start": 0,
+                "url": "https://t.co/0GBs33t2fR"
+              }
+            ]
+          }
+        },
+        "id": "1430976467131842564",
+        "location": "北京",
+        "name": "Ringoo Kino树莓果酱🐭",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955993400064532483/IIKW_npp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1252,
+          "following_count": 435,
+          "like_count": 2786,
+          "listed_count": 4,
+          "media_count": 519,
+          "tweet_count": 3122
+        },
+        "url": "https://t.co/0GBs33t2fR",
+        "username": "_muguopick",
+        "verified": false
+      }
+    ]
+  }
+}

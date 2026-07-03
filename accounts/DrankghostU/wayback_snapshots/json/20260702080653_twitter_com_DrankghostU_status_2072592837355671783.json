@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1409516495571501066",
+    "conversation_id": "2072592837355671783",
+    "created_at": "2026-07-02T08:06:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T09:06:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072592837355671783"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1644392174249984000",
+          "start": 3,
+          "username": "yuy_yyy_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072592837355671783",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6569
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071967269664805100",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yuy_yyy_: 女の子は女らしいものが好き、例えば………女❗️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1409516495571501066",
+        "conversation_id": "2072592837355671783",
+        "created_at": "2026-07-02T08:06:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T09:06:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072592837355671783"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1644392174249984000",
+              "start": 3,
+              "username": "yuy_yyy_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072592837355671783",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6569
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071967269664805100",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yuy_yyy_: 女の子は女らしいものが好き、例えば………女❗️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1644392174249984000",
+        "conversation_id": "2071967269664805100",
+        "created_at": "2026-06-30T14:41:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T15:41:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071967269664805100"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071967269664805100",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2513,
+          "impression_count": 1682987,
+          "like_count": 82044,
+          "quote_count": 692,
+          "reply_count": 46,
+          "retweet_count": 6570
+        },
+        "reply_settings": "everyone",
+        "text": "女の子は女らしいものが好き、例えば………女❗️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-06-28T14:18:23.000Z",
+        "description": "𓆩♡𓆪 死目莉 𓆩♡𓆪\n 🩹 | 双相情感障碍• 𝖠𝖣𝖧𝖣 • 重焦 • 繪師 \n\n🎀没有喜欢死目莉的觉悟的人请不要靠近死目莉⚠️😸…",
+        "id": "1409516495571501066",
+        "location": "我想要的是世界上根本就没有的东西",
+        "name": "早乙女死目莉2.0",
+        "pinned_tweet_id": "2059646950455279640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063196138987995136/5SVYRVyv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 479,
+          "following_count": 203,
+          "like_count": 171,
+          "listed_count": 1,
+          "media_count": 62,
+          "tweet_count": 863
+        },
+        "url": "",
+        "username": "DrankghostU",
+        "verified": true
+      },
+      {
+        "created_at": "2023-04-07T17:30:29.000Z",
+        "description": "ゆたです 創作と百合と趣味┊︎ skeb【版権✖︎】▶︎https://t.co/I6vJ2DNrrv",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@yuy_yyy_",
+                "end": 51,
+                "expanded_url": "https://skeb.jp/@yuy_yyy_",
+                "start": 28,
+                "url": "https://t.co/I6vJ2DNrrv"
+              }
+            ]
+          }
+        },
+        "id": "1644392174249984000",
+        "name": "侑田",
+        "pinned_tweet_id": "2045161090129223702",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1829583597956943872/UHYqLRNf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2766,
+          "following_count": 107,
+          "like_count": 4361,
+          "listed_count": 17,
+          "media_count": 141,
+          "tweet_count": 1261
+        },
+        "url": "",
+        "username": "yuy_yyy_",
+        "verified": false
+      }
+    ]
+  }
+}

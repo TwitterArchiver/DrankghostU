@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059925639726280704"
+      ],
+      "media_source_tweet_id": [
+        "2059925649650041125"
+      ]
+    },
+    "author_id": "1409516495571501066",
+    "conversation_id": "2059978306066288972",
+    "created_at": "2026-05-28T12:41:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T13:41:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059978306066288972"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2027237303085879296",
+          "start": 3,
+          "username": "DailyYuri"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Cd369s1sVc",
+          "end": 38,
+          "expanded_url": "https://x.com/DailyYuri/status/2059925649650041125/photo/1",
+          "media_key": "3_2059925639726280704",
+          "start": 15,
+          "url": "https://t.co/Cd369s1sVc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059978306066288972",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 234
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059925649650041125",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DailyYuri: https://t.co/Cd369s1sVc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1482,
+        "media_key": "3_2059925639726280704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJZTdJOasAAxUch.jpg",
+        "width": 1038
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059925639726280704"
+          ],
+          "media_source_tweet_id": [
+            "2059925649650041125"
+          ]
+        },
+        "author_id": "1409516495571501066",
+        "conversation_id": "2059978306066288972",
+        "created_at": "2026-05-28T12:41:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T13:41:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059978306066288972"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2027237303085879296",
+              "start": 3,
+              "username": "DailyYuri"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Cd369s1sVc",
+              "end": 38,
+              "expanded_url": "https://x.com/DailyYuri/status/2059925649650041125/photo/1",
+              "media_key": "3_2059925639726280704",
+              "start": 15,
+              "url": "https://t.co/Cd369s1sVc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059978306066288972",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 234
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059925649650041125",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DailyYuri: https://t.co/Cd369s1sVc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059925639726280704"
+          ]
+        },
+        "author_id": "2027237303085879296",
+        "conversation_id": "2059925649650041125",
+        "created_at": "2026-05-28T09:12:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T10:12:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059925649650041125"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Cd369s1sVc",
+              "end": 23,
+              "expanded_url": "https://x.com/DailyYuri/status/2059925649650041125/photo/1",
+              "media_key": "3_2059925639726280704",
+              "start": 0,
+              "url": "https://t.co/Cd369s1sVc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059925649650041125",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 588,
+          "impression_count": 51355,
+          "like_count": 5733,
+          "quote_count": 8,
+          "reply_count": 5,
+          "retweet_count": 234
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Cd369s1sVc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-06-28T14:18:23.000Z",
+        "description": "被msk气哭了。\n前世@SaotomeShimeri\n女宝互关熟了可以恰v \n男性推油请给恶魔死目莉的熔炼炉投入52cny喵😤\n没有喜欢死目莉的觉悟的人不能靠近死目莉！😤😤",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 11,
+                "username": "SaotomeShimeri"
+              }
+            ]
+          }
+        },
+        "id": "1409516495571501066",
+        "name": "早乙女死目莉2.0",
+        "pinned_tweet_id": "2059646950455279640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058389276015120384/ihPt3Trh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 149,
+          "like_count": 56,
+          "listed_count": 7,
+          "media_count": 22,
+          "tweet_count": 150
+        },
+        "username": "DrankghostU",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-27T04:20:20.000Z",
+        "description": "Just Posting Yuri Daily",
+        "id": "2027237303085879296",
+        "name": "Daily Yuri",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034676613888319491/H9CIalbt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12958,
+          "following_count": 54,
+          "like_count": 191,
+          "listed_count": 9,
+          "media_count": 121,
+          "tweet_count": 214
+        },
+        "username": "DailyYuri",
+        "verified": false
+      }
+    ]
+  }
+}

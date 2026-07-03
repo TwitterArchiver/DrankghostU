@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1409516495571501066",
+    "conversation_id": "2065326986055028810",
+    "created_at": "2026-06-12T06:55:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T07:55:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065326986055028810"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2065326986055028810",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我觉得脑子好痛 我这几天一直在眼睛冒星星我不明白可能是我吃太少了 然后我感觉我淡淡的又有点烦躁 我还是觉得破坏欲好强想攻击想攻击 为什么一切都那么麻烦为什么不能有人帮我把所有事情做好那样我就什么都不用想了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1409516495571501066",
+        "conversation_id": "2065326986055028810",
+        "created_at": "2026-06-12T06:55:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T07:55:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065326986055028810"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065326986055028810",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得脑子好痛 我这几天一直在眼睛冒星星我不明白可能是我吃太少了 然后我感觉我淡淡的又有点烦躁 我还是觉得破坏欲好强想攻击想攻击 为什么一切都那么麻烦为什么不能有人帮我把所有事情做好那样我就什么都不用想了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-06-28T14:18:23.000Z",
+        "description": "𓆩♡𓆪 死目莉 𓆩♡𓆪\n 🩹 | 双相情感障碍• 𝖠𝖣𝖧𝖣 • 重焦 • 繪師 \n\n🎀没有喜欢死目莉的觉悟的人请不要靠近死目莉⚠️😸…",
+        "id": "1409516495571501066",
+        "location": "我想要的是世界上根本就没有的东西",
+        "name": "早乙女死目莉2.0",
+        "pinned_tweet_id": "2059646950455279640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063196138987995136/5SVYRVyv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 407,
+          "following_count": 202,
+          "like_count": 109,
+          "listed_count": 1,
+          "media_count": 47,
+          "tweet_count": 664
+        },
+        "username": "DrankghostU",
+        "verified": true
+      }
+    ]
+  }
+}

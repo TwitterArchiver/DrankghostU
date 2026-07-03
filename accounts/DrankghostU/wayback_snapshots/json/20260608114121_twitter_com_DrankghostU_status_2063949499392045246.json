@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1409516495571501066",
+    "conversation_id": "2063906797405212813",
+    "created_at": "2026-06-08T11:41:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T12:41:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063949499392045246"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "2036523006412070912",
+          "start": 0,
+          "username": "Ob0gu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063949499392045246",
+    "in_reply_to_user_id": "2036523006412070912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063933360188387366",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ob0gu 宝宝我们是不是加过了，你啥时候在线"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1409516495571501066",
+        "conversation_id": "2063906797405212813",
+        "created_at": "2026-06-08T11:41:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T12:41:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063949499392045246"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "2036523006412070912",
+              "start": 0,
+              "username": "Ob0gu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063949499392045246",
+        "in_reply_to_user_id": "2036523006412070912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063933360188387366",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ob0gu 宝宝我们是不是加过了，你啥时候在线"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2036523006412070912",
+        "conversation_id": "2063906797405212813",
+        "created_at": "2026-06-08T10:37:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T11:37:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063933360188387366"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1409516495571501066",
+              "start": 0,
+              "username": "DrankghostU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063933360188387366",
+        "in_reply_to_user_id": "1409516495571501066",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063906797405212813",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DrankghostU 来呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-06-28T14:18:23.000Z",
+        "description": "𓆩♡𓆪 死目莉 𓆩♡𓆪\n~双相情感障碍 • 𝖠𝖣𝖧𝖣 • 重焦 • 💊🔪🩸🎨\n🚫AI绘画绝对禁止。\n\n喜欢说废话，把推特当备忘录发。\n\n🎀没有喜欢死目莉的觉悟就不要靠近死目莉。\n💕女宝互关熟了可以恰v \n🫧男性推油请给恶魔死目莉的熔炼炉投入52cny喵😤",
+        "id": "1409516495571501066",
+        "location": "我想要的是世界上根本就没有的东西",
+        "name": "早乙女死目莉2.0",
+        "pinned_tweet_id": "2059646950455279640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063196138987995136/5SVYRVyv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 370,
+          "following_count": 196,
+          "like_count": 96,
+          "listed_count": 1,
+          "media_count": 44,
+          "tweet_count": 584
+        },
+        "username": "DrankghostU",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-24T19:20:23.000Z",
+        "description": "一个药曲，一个小画师，一个小女孩，一个鼠王，一个被制裁之人。",
+        "id": "2036523006412070912",
+        "name": "O",
+        "pinned_tweet_id": "2057628304497418584",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057416642356027392/shgd3UXr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 48,
+          "like_count": 173,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 126
+        },
+        "username": "Ob0gu",
+        "verified": false
+      }
+    ]
+  }
+}

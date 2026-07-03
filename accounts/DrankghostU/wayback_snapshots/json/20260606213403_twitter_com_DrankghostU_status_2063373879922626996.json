@@ -1,0 +1,141 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1409516495571501066",
+    "conversation_id": "2063372653038297174",
+    "created_at": "2026-06-06T21:34:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T22:34:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063373879922626996"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2063373879922626996",
+    "in_reply_to_user_id": "1409516495571501066",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063372653038297174",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我忘了。我忘了一切。一切都不存在了。我忘了过去的人，我忘了过去的事，我忘了是谁和我擦肩而过忘了谁找我说过话谁和我打过招呼我忘了我忘了一切。我忘了我的痛苦。我忘了我的悲伤。忘却一切就能够切断让人痛苦的根源\n\n那么【回忆】就是，【痛苦】在抽芽"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1409516495571501066",
+        "conversation_id": "2063372653038297174",
+        "created_at": "2026-06-06T21:34:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T22:34:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063373879922626996"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063373879922626996",
+        "in_reply_to_user_id": "1409516495571501066",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063372653038297174",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我忘了。我忘了一切。一切都不存在了。我忘了过去的人，我忘了过去的事，我忘了是谁和我擦肩而过忘了谁找我说过话谁和我打过招呼我忘了我忘了一切。我忘了我的痛苦。我忘了我的悲伤。忘却一切就能够切断让人痛苦的根源\n\n那么【回忆】就是，【痛苦】在抽芽"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1409516495571501066",
+        "conversation_id": "2063372653038297174",
+        "created_at": "2026-06-06T21:29:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T22:29:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063372653038297174"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063372653038297174",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "“自从那件事之后……”那件事是哪件事呢\n有的时候我主动选择忘记的事情太多太多了。\n当那段记忆被取出来，我会有些解离，我感觉不到那个故事里的人是我。但是确实是我。\n我是主动选择失去记忆的，这是我的生存方法。如我想活着，首先我得失忆"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-06-28T14:18:23.000Z",
+        "description": "𓆩♡𓆪 死目莉 𓆩♡𓆪\n~双相情感障碍 • 𝖠𝖣𝖧𝖣 • 重焦 • 💊🔪🩸🎨\n🚫AI绘画绝对禁止。\n\n喜欢说废话，把推特当备忘录发。\n\n🎀没有喜欢死目莉的觉悟就不要靠近死目莉。\n💕女宝互关熟了可以恰v \n🫧男性推油请给恶魔死目莉的熔炼炉投入52cny喵😤",
+        "id": "1409516495571501066",
+        "location": "我想要的是世界上根本就没有的东西",
+        "name": "早乙女死目莉2.0",
+        "pinned_tweet_id": "2059646950455279640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063196138987995136/5SVYRVyv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 354,
+          "following_count": 188,
+          "like_count": 86,
+          "listed_count": 1,
+          "media_count": 40,
+          "tweet_count": 518
+        },
+        "username": "DrankghostU",
+        "verified": true
+      }
+    ]
+  }
+}

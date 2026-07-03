@@ -1,0 +1,104 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1409516495571501066",
+    "conversation_id": "2059666150661947903",
+    "created_at": "2026-05-27T16:00:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T17:00:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059666150661947903"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2059666150661947903",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "sns吃完了但我挂的是29号的号🙀🙀\n断sns的死目莉要发疯了喵🙀呜呜呜没有sns的夜晚好无趣\n但是我有右佐匹克隆……但是我吃这个没感觉（困意也没有（娱乐性也没有）u无趣之！\n今晚计划：画稿，吃氯硝西泮吃草酸艾司西酞普兰吃普瑞巴林，画通宵！！！！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1409516495571501066",
+        "conversation_id": "2059666150661947903",
+        "created_at": "2026-05-27T16:00:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T17:00:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059666150661947903"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059666150661947903",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "sns吃完了但我挂的是29号的号🙀🙀\n断sns的死目莉要发疯了喵🙀呜呜呜没有sns的夜晚好无趣\n但是我有右佐匹克隆……但是我吃这个没感觉（困意也没有（娱乐性也没有）u无趣之！\n今晚计划：画稿，吃氯硝西泮吃草酸艾司西酞普兰吃普瑞巴林，画通宵！！！！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-06-28T14:18:23.000Z",
+        "description": "被msk气哭了。\n前世@SaotomeShimeri",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 11,
+                "username": "SaotomeShimeri"
+              }
+            ]
+          }
+        },
+        "id": "1409516495571501066",
+        "name": "早乙女死目莉2.0",
+        "pinned_tweet_id": "2059646950455279640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058389276015120384/ihPt3Trh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 144,
+          "like_count": 51,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 67
+        },
+        "username": "DrankghostU",
+        "verified": false
+      }
+    ]
+  }
+}

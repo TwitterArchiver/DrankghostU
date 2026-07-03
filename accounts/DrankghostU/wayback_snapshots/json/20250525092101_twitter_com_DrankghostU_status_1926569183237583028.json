@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1409516495571501066",
+    "conversation_id": "1926568909659943061",
+    "created_at": "2025-05-25T09:21:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-25T10:21:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1926569183237583028"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 9,
+          "start": 0,
+          "tag": "neotokyo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1926569183237583028",
+    "in_reply_to_user_id": "1409516495571501066",
+    "lang": "qht",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1926568909659943061",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "#neotokyo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1926568900772130816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GryMNTXWcAAtdq-.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1409516495571501066",
+        "conversation_id": "1926568909659943061",
+        "created_at": "2025-05-25T09:21:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-25T10:21:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1926569183237583028"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 9,
+              "start": 0,
+              "tag": "neotokyo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926569183237583028",
+        "in_reply_to_user_id": "1409516495571501066",
+        "lang": "qht",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926568909659943061",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "#neotokyo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1926568900772130816"
+          ]
+        },
+        "author_id": "1409516495571501066",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303720909161689088",
+              "name": "Idols"
+            }
+          }
+        ],
+        "conversation_id": "1926568909659943061",
+        "created_at": "2025-05-25T09:19:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-25T10:19:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1926568909659943061"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 125,
+              "normalized_text": "成都",
+              "probability": 0.5538,
+              "start": 124,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1623268877374476288",
+              "start": 0,
+              "username": "namu_purin"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wKEBwOoBsY",
+              "end": 172,
+              "expanded_url": "https://x.com/DrankghostU/status/1926568909659943061/photo/1",
+              "media_key": "3_1926568900772130816",
+              "start": 149,
+              "url": "https://t.co/wKEBwOoBsY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926568909659943061",
+        "in_reply_to_user_id": "1623268877374476288",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@namu_purin 💜💕😈\nあなたが大好きです！昨日のようちゃんです-ようちゃんは小又と書くよ！だから昨日あなたにそのジェスチャーをさせました！\nこれは私の大好きなチェキです！！二人ともとっても可愛いですね…私はアイドルじゃないけど😞\n成都の特色料理を食べましたか？何を食べましたか？味は？🥺 https://t.co/wKEBwOoBsY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-06-28T14:18:23.000Z",
+        "description": "UWU",
+        "id": "1409516495571501066",
+        "name": "UNIKNA",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1731423142609100800/yPITf57c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 60,
+          "like_count": 42,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 25
+        },
+        "username": "DrankghostU",
+        "verified": false
+      }
+    ]
+  }
+}

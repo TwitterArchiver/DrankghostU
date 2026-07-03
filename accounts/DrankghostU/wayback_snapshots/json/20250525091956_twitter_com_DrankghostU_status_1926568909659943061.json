@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1926568900772130816"
+      ]
+    },
+    "author_id": "1409516495571501066",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1303720909161689088",
+          "name": "Idols"
+        }
+      }
+    ],
+    "conversation_id": "1926568909659943061",
+    "created_at": "2025-05-25T09:19:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-25T10:19:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1926568909659943061"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 125,
+          "normalized_text": "成都",
+          "probability": 0.5538,
+          "start": 124,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1623268877374476288",
+          "start": 0,
+          "username": "namu_purin"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wKEBwOoBsY",
+          "end": 172,
+          "expanded_url": "https://x.com/DrankghostU/status/1926568909659943061/photo/1",
+          "media_key": "3_1926568900772130816",
+          "start": 149,
+          "url": "https://t.co/wKEBwOoBsY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1926568909659943061",
+    "in_reply_to_user_id": "1623268877374476288",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "@namu_purin 💜💕😈\nあなたが大好きです！昨日のようちゃんです-ようちゃんは小又と書くよ！だから昨日あなたにそのジェスチャーをさせました！\nこれは私の大好きなチェキです！！二人ともとっても可愛いですね…私はアイドルじゃないけど😞\n成都の特色料理を食べましたか？何を食べましたか？味は？🥺 https://t.co/wKEBwOoBsY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1926568900772130816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GryMNTXWcAAtdq-.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1926568900772130816"
+          ]
+        },
+        "author_id": "1409516495571501066",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303720909161689088",
+              "name": "Idols"
+            }
+          }
+        ],
+        "conversation_id": "1926568909659943061",
+        "created_at": "2025-05-25T09:19:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-25T10:19:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1926568909659943061"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 125,
+              "normalized_text": "成都",
+              "probability": 0.5538,
+              "start": 124,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1623268877374476288",
+              "start": 0,
+              "username": "namu_purin"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wKEBwOoBsY",
+              "end": 172,
+              "expanded_url": "https://x.com/DrankghostU/status/1926568909659943061/photo/1",
+              "media_key": "3_1926568900772130816",
+              "start": 149,
+              "url": "https://t.co/wKEBwOoBsY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926568909659943061",
+        "in_reply_to_user_id": "1623268877374476288",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@namu_purin 💜💕😈\nあなたが大好きです！昨日のようちゃんです-ようちゃんは小又と書くよ！だから昨日あなたにそのジェスチャーをさせました！\nこれは私の大好きなチェキです！！二人ともとっても可愛いですね…私はアイドルじゃないけど😞\n成都の特色料理を食べましたか？何を食べましたか？味は？🥺 https://t.co/wKEBwOoBsY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-06-28T14:18:23.000Z",
+        "description": "UWU",
+        "id": "1409516495571501066",
+        "name": "UNIKNA",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1731423142609100800/yPITf57c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 60,
+          "like_count": 42,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 24
+        },
+        "username": "DrankghostU",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-08T10:34:38.000Z",
+        "description": "19さい！ネオトラ【@NEOTOKYOTRIBE 】むらさき 💜コンカフェ→@BiBiBiweb @INTERNETSCLUB にいるます🐈‍⬛派手髪ピアス✨#なむちゃんえらいさん",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 90,
+                "start": 79,
+                "tag": "なむちゃんえらいさん"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 24,
+                "start": 10,
+                "username": "NEOTOKYOTRIBE"
+              },
+              {
+                "end": 48,
+                "start": 38,
+                "username": "BiBiBiweb"
+              },
+              {
+                "end": 63,
+                "start": 49,
+                "username": "INTERNETSCLUB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/namutya",
+                "end": 23,
+                "expanded_url": "https://lit.link/namutya",
+                "start": 0,
+                "url": "https://t.co/4LJbTOxech"
+              }
+            ]
+          }
+        },
+        "id": "1623268877374476288",
+        "name": "なむ",
+        "pinned_tweet_id": "1921480666190860796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855552426197331968/IlSaL71h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2073,
+          "following_count": 62,
+          "like_count": 14296,
+          "listed_count": 19,
+          "media_count": 892,
+          "tweet_count": 5964
+        },
+        "url": "https://t.co/4LJbTOxech",
+        "username": "namu_purin",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063176014130229248"
+      ]
+    },
+    "author_id": "1409516495571501066",
+    "conversation_id": "2063176024406294592",
+    "created_at": "2026-06-06T08:27:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T09:27:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063176024406294592"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/yzR5FU0YHv",
+          "end": 31,
+          "expanded_url": "https://x.com/DrankghostU/status/2063176024406294592/photo/1",
+          "media_key": "3_2063176014130229248",
+          "start": 8,
+          "url": "https://t.co/yzR5FU0YHv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063176024406294592",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这他妈是人吗？ https://t.co/yzR5FU0YHv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1701,
+        "media_key": "3_2063176014130229248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKHfp1dWsAADYXC.jpg",
+        "width": 1100
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063176014130229248"
+          ]
+        },
+        "author_id": "1409516495571501066",
+        "conversation_id": "2063176024406294592",
+        "created_at": "2026-06-06T08:27:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T09:27:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063176024406294592"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yzR5FU0YHv",
+              "end": 31,
+              "expanded_url": "https://x.com/DrankghostU/status/2063176024406294592/photo/1",
+              "media_key": "3_2063176014130229248",
+              "start": 8,
+              "url": "https://t.co/yzR5FU0YHv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063176024406294592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这他妈是人吗？ https://t.co/yzR5FU0YHv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-06-28T14:18:23.000Z",
+        "description": "被msk气哭了。\n前世@SaotomeShimeri\n女宝互关熟了可以恰v \n男性推油请给恶魔死目莉的熔炼炉投入52cny喵😤\n没有喜欢死目莉的觉悟的人不能靠近死目莉！😤😤",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 11,
+                "username": "SaotomeShimeri"
+              }
+            ]
+          }
+        },
+        "id": "1409516495571501066",
+        "name": "早乙女死目莉2.0",
+        "pinned_tweet_id": "2063162560157720985",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058389276015120384/ihPt3Trh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 339,
+          "following_count": 186,
+          "like_count": 83,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 439
+        },
+        "username": "DrankghostU",
+        "verified": true
+      }
+    ]
+  }
+}

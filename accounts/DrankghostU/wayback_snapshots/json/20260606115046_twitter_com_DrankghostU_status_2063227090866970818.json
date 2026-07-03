@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1409516495571501066",
+    "conversation_id": "2063227090866970818",
+    "created_at": "2026-06-06T11:50:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T12:50:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063227090866970818"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/summerkanna/st…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/summerkanna/status/2062801632535212203",
+          "start": 12,
+          "url": "https://t.co/pLB0R1YA0X"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063227090866970818",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062801632535212203",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我草啊😹😹神啊救救我吧 https://t.co/pLB0R1YA0X"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2062801614688395264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKCLI62aoAAUYz1.jpg",
+        "width": 2002
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1409516495571501066",
+        "conversation_id": "2063227090866970818",
+        "created_at": "2026-06-06T11:50:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T12:50:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063227090866970818"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/summerkanna/st…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/summerkanna/status/2062801632535212203",
+              "start": 12,
+              "url": "https://t.co/pLB0R1YA0X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063227090866970818",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062801632535212203",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我草啊😹😹神啊救救我吧 https://t.co/pLB0R1YA0X"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062801614688395264"
+          ]
+        },
+        "author_id": "1536879871694999553",
+        "conversation_id": "2062801632535212203",
+        "created_at": "2026-06-05T07:40:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T08:40:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062801632535212203"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4JeFSLSeeT",
+              "end": 31,
+              "expanded_url": "https://x.com/Summerkanna/status/2062801632535212203/photo/1",
+              "media_key": "3_2062801614688395264",
+              "start": 8,
+              "url": "https://t.co/4JeFSLSeeT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062801632535212203",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 42,
+          "impression_count": 56721,
+          "like_count": 2022,
+          "quote_count": 12,
+          "reply_count": 57,
+          "retweet_count": 77
+        },
+        "reply_settings": "everyone",
+        "text": "....... https://t.co/4JeFSLSeeT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-06-28T14:18:23.000Z",
+        "description": "𓆩♡𓆪 死目莉 𓆩♡𓆪\n🩹 | 双相情感障碍 • 𝖠𝖣𝖧𝖣 • 重焦 • 💊🔪🩸\n喜欢说废话，把推特当备忘录发。\n\n🎀没有喜欢死目莉的觉悟就不要靠近死目莉。\n💕女宝互关熟了可以恰v \n🫧男性推油请给恶魔死目莉的熔炼炉投入52cny喵😤",
+        "id": "1409516495571501066",
+        "location": "我想要的是世界上根本就没有的东西",
+        "name": "早乙女死目莉2.0",
+        "pinned_tweet_id": "2059646950455279640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063196138987995136/5SVYRVyv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 341,
+          "following_count": 185,
+          "like_count": 84,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 475
+        },
+        "username": "DrankghostU",
+        "verified": true
+      },
+      {
+        "created_at": "2022-06-15T01:15:55.000Z",
+        "description": "一位在魔界練習偽聲實況的轉貼迷因陰角魅魔大叔\nFA:#晴天繪 直播:#天晴放送 FN:#Master\n棉花糖:https://t.co/O6HztSuX6j\n圖奇:https://t.co/YkKOU5z2az",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 30,
+                "start": 26,
+                "tag": "晴天繪"
+              },
+              {
+                "end": 39,
+                "start": 34,
+                "tag": "天晴放送"
+              },
+              {
+                "end": 50,
+                "start": 43,
+                "tag": "Master"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/seitenkanna",
+                "end": 78,
+                "expanded_url": "http://marshmallow-qa.com/seitenkanna",
+                "start": 55,
+                "url": "https://t.co/O6HztSuX6j"
+              },
+              {
+                "display_url": "twitch.tv/seitenkanna",
+                "end": 105,
+                "expanded_url": "https://www.twitch.tv/seitenkanna",
+                "start": 82,
+                "url": "https://t.co/YkKOU5z2az"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@seiten_kanna",
+                "end": 23,
+                "expanded_url": "http://youtube.com/@seiten_kanna",
+                "start": 0,
+                "url": "https://t.co/SRtlcPGY3c"
+              }
+            ]
+          }
+        },
+        "id": "1536879871694999553",
+        "location": "魔界",
+        "name": "晴天カンナ@轉貼迷因Vtuber",
+        "pinned_tweet_id": "2057001329034412123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055941908778909696/RLsrOHnL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9924,
+          "following_count": 932,
+          "like_count": 21932,
+          "listed_count": 49,
+          "media_count": 5375,
+          "tweet_count": 16742
+        },
+        "url": "https://t.co/SRtlcPGY3c",
+        "username": "Summerkanna",
+        "verified": true
+      }
+    ]
+  }
+}

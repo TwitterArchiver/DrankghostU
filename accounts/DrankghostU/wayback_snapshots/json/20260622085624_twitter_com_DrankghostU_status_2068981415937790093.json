@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1409516495571501066",
+    "conversation_id": "2068981415937790093",
+    "created_at": "2026-06-22T08:56:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T09:56:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068981415937790093"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2068981415937790093",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好缺钱好需要钱为什么没有躺在床上就能自动获得钱的办法！感觉真的穷的好想找工作但是果然还是画画最适合我。好怀念去年这个时候的自己虽然每天累死累活但是至少能赚很多钱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1409516495571501066",
+        "conversation_id": "2068981415937790093",
+        "created_at": "2026-06-22T08:56:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T09:56:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068981415937790093"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068981415937790093",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好缺钱好需要钱为什么没有躺在床上就能自动获得钱的办法！感觉真的穷的好想找工作但是果然还是画画最适合我。好怀念去年这个时候的自己虽然每天累死累活但是至少能赚很多钱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-06-28T14:18:23.000Z",
+        "description": "𓆩♡𓆪 死目莉 𓆩♡𓆪\n 🩹 | 双相情感障碍• 𝖠𝖣𝖧𝖣 • 重焦 • 繪師 \n\n🎀没有喜欢死目莉的觉悟的人请不要靠近死目莉⚠️😸…",
+        "id": "1409516495571501066",
+        "location": "我想要的是世界上根本就没有的东西",
+        "name": "早乙女死目莉2.0",
+        "pinned_tweet_id": "2059646950455279640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063196138987995136/5SVYRVyv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 448,
+          "following_count": 201,
+          "like_count": 126,
+          "listed_count": 1,
+          "media_count": 50,
+          "tweet_count": 764
+        },
+        "url": "",
+        "username": "DrankghostU",
+        "verified": true
+      }
+    ]
+  }
+}

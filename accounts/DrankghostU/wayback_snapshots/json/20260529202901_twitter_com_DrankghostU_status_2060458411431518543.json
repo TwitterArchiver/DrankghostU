@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060458402745036803"
+      ]
+    },
+    "author_id": "1409516495571501066",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2060458411431518543",
+    "created_at": "2026-05-29T20:29:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T21:29:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060458411431518543"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/YPWFD64bXH",
+          "end": 98,
+          "expanded_url": "https://x.com/DrankghostU/status/2060458411431518543/photo/1",
+          "media_key": "3_2060458402745036803",
+          "start": 75,
+          "url": "https://t.co/YPWFD64bXH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060458411431518543",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这是死目莉和单主的聊天截图喵！！是回头常客然后发现单主竟然是精神病同类喵🙀🙀🙀🙀\n然后和单主小女孩打了一个半小时电话互诉衷肠抱团取暖互舔伤口………… https://t.co/YPWFD64bXH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1126,
+        "media_key": "3_2060458402745036803",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJg4ACIWMAMj-9t.jpg",
+        "width": 845
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060458402745036803"
+          ]
+        },
+        "author_id": "1409516495571501066",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2060458411431518543",
+        "created_at": "2026-05-29T20:29:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T21:29:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060458411431518543"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YPWFD64bXH",
+              "end": 98,
+              "expanded_url": "https://x.com/DrankghostU/status/2060458411431518543/photo/1",
+              "media_key": "3_2060458402745036803",
+              "start": 75,
+              "url": "https://t.co/YPWFD64bXH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060458411431518543",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是死目莉和单主的聊天截图喵！！是回头常客然后发现单主竟然是精神病同类喵🙀🙀🙀🙀\n然后和单主小女孩打了一个半小时电话互诉衷肠抱团取暖互舔伤口………… https://t.co/YPWFD64bXH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-06-28T14:18:23.000Z",
+        "description": "被msk气哭了。\n前世@SaotomeShimeri\n女宝互关熟了可以恰v \n男性推油请给恶魔死目莉的熔炼炉投入52cny喵😤\n没有喜欢死目莉的觉悟的人不能靠近死目莉！😤😤",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 11,
+                "username": "SaotomeShimeri"
+              }
+            ]
+          }
+        },
+        "id": "1409516495571501066",
+        "name": "早乙女死目莉2.0",
+        "pinned_tweet_id": "2059646950455279640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058389276015120384/ihPt3Trh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 193,
+          "following_count": 165,
+          "like_count": 59,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 204
+        },
+        "username": "DrankghostU",
+        "verified": false
+      }
+    ]
+  }
+}

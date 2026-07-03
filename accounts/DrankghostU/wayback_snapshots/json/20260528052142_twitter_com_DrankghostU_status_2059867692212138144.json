@@ -1,0 +1,104 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1409516495571501066",
+    "conversation_id": "2059867692212138144",
+    "created_at": "2026-05-28T05:21:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T06:21:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059867692212138144"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2059867692212138144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "一来就性骚扰的男的别想白恰我v😹😹你们都是乐乐吗？我之前都不开门槛的被骚扰麻了总之就是男性想恰v请先请死目莉一顿疯狂星期四喵😹😹😹我的发演都不演了。\n不介意互关找我聊天，欢迎互关戳我小窗，但是不要性骚扰求求你们！（此处指定男性）死目莉不喜欢！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1409516495571501066",
+        "conversation_id": "2059867692212138144",
+        "created_at": "2026-05-28T05:21:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T06:21:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059867692212138144"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059867692212138144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一来就性骚扰的男的别想白恰我v😹😹你们都是乐乐吗？我之前都不开门槛的被骚扰麻了总之就是男性想恰v请先请死目莉一顿疯狂星期四喵😹😹😹我的发演都不演了。\n不介意互关找我聊天，欢迎互关戳我小窗，但是不要性骚扰求求你们！（此处指定男性）死目莉不喜欢！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-06-28T14:18:23.000Z",
+        "description": "被msk气哭了。\n前世@SaotomeShimeri\n女宝互关熟了可以恰v \n男性推油请给恶魔死目莉的熔炼炉投入52cny喵😤\n没有喜欢死目莉的觉悟的人不能靠近死目莉！😤😤",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 11,
+                "username": "SaotomeShimeri"
+              }
+            ]
+          }
+        },
+        "id": "1409516495571501066",
+        "name": "早乙女死目莉2.0",
+        "pinned_tweet_id": "2059646950455279640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058389276015120384/ihPt3Trh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 158,
+          "following_count": 146,
+          "like_count": 52,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 103
+        },
+        "username": "DrankghostU",
+        "verified": false
+      }
+    ]
+  }
+}

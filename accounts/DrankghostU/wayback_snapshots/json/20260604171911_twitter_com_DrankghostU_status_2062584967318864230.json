@@ -1,0 +1,104 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1409516495571501066",
+    "conversation_id": "2062584967318864230",
+    "created_at": "2026-06-04T17:19:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T18:19:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062584967318864230"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2062584967318864230",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我想起人给我占卜：你身边怎么小姑娘不断🤨😳🤔😦？？\n\n我😹死目莉百口莫辩了！无力抗拒了！窝没有啊！！！！真的没有啊！！？\n我只是喜欢和可爱小女孩纯聊天无任何浪漫幻想啊！！🙀🙀😹😹\n话说要是有浪漫幻想才奇怪吧我感觉我对亲密关系的挑选很严格……？也不是吧\n看眼缘（？）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1409516495571501066",
+        "conversation_id": "2062584967318864230",
+        "created_at": "2026-06-04T17:19:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T18:19:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062584967318864230"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062584967318864230",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我想起人给我占卜：你身边怎么小姑娘不断🤨😳🤔😦？？\n\n我😹死目莉百口莫辩了！无力抗拒了！窝没有啊！！！！真的没有啊！！？\n我只是喜欢和可爱小女孩纯聊天无任何浪漫幻想啊！！🙀🙀😹😹\n话说要是有浪漫幻想才奇怪吧我感觉我对亲密关系的挑选很严格……？也不是吧\n看眼缘（？）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-06-28T14:18:23.000Z",
+        "description": "被msk气哭了。\n前世@SaotomeShimeri\n女宝互关熟了可以恰v \n男性推油请给恶魔死目莉的熔炼炉投入52cny喵😤\n没有喜欢死目莉的觉悟的人不能靠近死目莉！😤😤",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 11,
+                "username": "SaotomeShimeri"
+              }
+            ]
+          }
+        },
+        "id": "1409516495571501066",
+        "name": "早乙女死目莉2.0",
+        "pinned_tweet_id": "2062521015922749816",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058389276015120384/ihPt3Trh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 312,
+          "following_count": 180,
+          "like_count": 69,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 387
+        },
+        "username": "DrankghostU",
+        "verified": false
+      }
+    ]
+  }
+}

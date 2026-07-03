@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1409516495571501066",
+    "conversation_id": "2059870771590369372",
+    "created_at": "2026-05-28T05:33:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T06:33:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059870771590369372"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/allen972776077…",
+          "end": 76,
+          "expanded_url": "https://twitter.com/allen9727760773/status/2059869730098536584",
+          "start": 53,
+          "url": "https://t.co/HohFZ4jAPh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059870771590369372",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059869730098536584",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "磕苯海索的乐子你们够了没😂墙内lyp赶紧o那个苯海索感康苯海拉明o死去吧o肾衰竭肝衰竭去吧😂😂😂😂😂乐子 https://t.co/HohFZ4jAPh"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1409516495571501066",
+        "conversation_id": "2059870771590369372",
+        "created_at": "2026-05-28T05:33:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T06:33:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059870771590369372"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/allen972776077…",
+              "end": 76,
+              "expanded_url": "https://twitter.com/allen9727760773/status/2059869730098536584",
+              "start": 53,
+              "url": "https://t.co/HohFZ4jAPh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059870771590369372",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059869730098536584",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "磕苯海索的乐子你们够了没😂墙内lyp赶紧o那个苯海索感康苯海拉明o死去吧o肾衰竭肝衰竭去吧😂😂😂😂😂乐子 https://t.co/HohFZ4jAPh"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1947850335760093187",
+        "conversation_id": "2059869730098536584",
+        "created_at": "2026-05-28T05:29:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T06:29:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059869730098536584"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/VmikufansV/sta…",
+              "end": 70,
+              "expanded_url": "https://twitter.com/VmikufansV/status/2059814159907541246",
+              "start": 47,
+              "url": "https://t.co/dQEUYCCXmB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059869730098536584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059814159907541246",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我实在搞不懂，这个b幻觉到底有啥好玩的，我一直以为你们是冲着欣快去吃的，没想到是冲着幻觉去的 https://t.co/dQEUYCCXmB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-06-28T14:18:23.000Z",
+        "description": "被msk气哭了。\n前世@SaotomeShimeri\n女宝互关熟了可以恰v \n男性推油请给恶魔死目莉的熔炼炉投入52cny喵😤\n没有喜欢死目莉的觉悟的人不能靠近死目莉！😤😤",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 11,
+                "username": "SaotomeShimeri"
+              }
+            ]
+          }
+        },
+        "id": "1409516495571501066",
+        "name": "早乙女死目莉2.0",
+        "pinned_tweet_id": "2059646950455279640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058389276015120384/ihPt3Trh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 146,
+          "like_count": 52,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 109
+        },
+        "username": "DrankghostU",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-23T02:44:57.000Z",
+        "description": "oder 心理学 玄学 (八字 六爻 奇门 塔罗) 药理学 English\n欢迎找窝聊天哦～我会好好安慰你的！\npr ym在售 有需要的直接私\nhttps://t.co/2PlWz3O3g6\n欢迎匿名提问",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/llen28538",
+                "end": 95,
+                "expanded_url": "https://ngl.link/llen28538",
+                "start": 72,
+                "url": "https://t.co/2PlWz3O3g6"
+              }
+            ]
+          }
+        },
+        "id": "1947850335760093187",
+        "location": "阿比斯第七层",
+        "name": "王Allen",
+        "pinned_tweet_id": "2035335043586134510",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947850392127344640/G68OC7Yf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 132,
+          "like_count": 210,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 837
+        },
+        "username": "Allen9727760773",
+        "verified": false
+      }
+    ]
+  }
+}

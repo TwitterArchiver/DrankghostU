@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1409516495571501066",
+    "conversation_id": "2070799048785940831",
+    "created_at": "2026-06-27T10:51:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T11:51:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070822293505454353"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1847153221900685312",
+          "start": 0,
+          "username": "wtfkanwogansha"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070822293505454353",
+    "in_reply_to_user_id": "1847153221900685312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070799048785940831",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wtfkanwogansha 窝的妈妈"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2070799038581178368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLz0wQfaAAAzJGm.jpg",
+        "width": 1524
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2070799038572879872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLz0wQdbYAAIhrF.jpg",
+        "width": 1078
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1409516495571501066",
+        "conversation_id": "2070799048785940831",
+        "created_at": "2026-06-27T10:51:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T11:51:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070822293505454353"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1847153221900685312",
+              "start": 0,
+              "username": "wtfkanwogansha"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070822293505454353",
+        "in_reply_to_user_id": "1847153221900685312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070799048785940831",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wtfkanwogansha 窝的妈妈"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070799038581178368",
+            "3_2070799038572879872"
+          ]
+        },
+        "author_id": "1847153221900685312",
+        "conversation_id": "2070799048785940831",
+        "created_at": "2026-06-27T09:19:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T10:19:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070799048785940831"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xIH3DugaQy",
+              "end": 23,
+              "expanded_url": "https://x.com/wtfkanwogansha/status/2070799048785940831/photo/1",
+              "media_key": "3_2070799038581178368",
+              "start": 0,
+              "url": "https://t.co/xIH3DugaQy"
+            },
+            {
+              "display_url": "pic.x.com/xIH3DugaQy",
+              "end": 23,
+              "expanded_url": "https://x.com/wtfkanwogansha/status/2070799048785940831/photo/1",
+              "media_key": "3_2070799038572879872",
+              "start": 0,
+              "url": "https://t.co/xIH3DugaQy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070799048785940831",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 416,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/xIH3DugaQy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-06-28T14:18:23.000Z",
+        "description": "𓆩♡𓆪 死目莉 𓆩♡𓆪\n 🩹 | 双相情感障碍• 𝖠𝖣𝖧𝖣 • 重焦 • 繪師 \n\n🎀没有喜欢死目莉的觉悟的人请不要靠近死目莉⚠️😸…",
+        "id": "1409516495571501066",
+        "location": "我想要的是世界上根本就没有的东西",
+        "name": "早乙女死目莉2.0",
+        "pinned_tweet_id": "2059646950455279640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063196138987995136/5SVYRVyv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 447,
+          "following_count": 199,
+          "like_count": 145,
+          "listed_count": 1,
+          "media_count": 55,
+          "tweet_count": 812
+        },
+        "url": "",
+        "username": "DrankghostU",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-18T05:50:33.000Z",
+        "description": "我，我，我，我。",
+        "id": "1847153221900685312",
+        "name": "ダメ女",
+        "pinned_tweet_id": "1939932328668565864",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070301092878143488/Pdd_zmmF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2846,
+          "following_count": 626,
+          "like_count": 1333,
+          "listed_count": 3,
+          "media_count": 36,
+          "tweet_count": 1675
+        },
+        "url": "",
+        "username": "wtfkanwogansha",
+        "verified": false
+      }
+    ]
+  }
+}

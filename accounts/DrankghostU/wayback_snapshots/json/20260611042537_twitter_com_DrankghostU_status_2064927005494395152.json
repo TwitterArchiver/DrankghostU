@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1409516495571501066",
+    "conversation_id": "2064927005494395152",
+    "created_at": "2026-06-11T04:25:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T05:25:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064927005494395152"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/_desire2/statu…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/_desire2/status/2064400665867382869",
+          "start": 4,
+          "url": "https://t.co/nYg9ccOsFz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064927005494395152",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064400665867382869",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "代。。 https://t.co/nYg9ccOsFz"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1409516495571501066",
+        "conversation_id": "2064927005494395152",
+        "created_at": "2026-06-11T04:25:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T05:25:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064927005494395152"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/_desire2/statu…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/_desire2/status/2064400665867382869",
+              "start": 4,
+              "url": "https://t.co/nYg9ccOsFz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064927005494395152",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064400665867382869",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "代。。 https://t.co/nYg9ccOsFz"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1633926462184263685",
+        "conversation_id": "2064400665867382869",
+        "created_at": "2026-06-09T17:34:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T18:34:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064400665867382869"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064400665867382869",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 68,
+          "impression_count": 83318,
+          "like_count": 1397,
+          "quote_count": 34,
+          "reply_count": 144,
+          "retweet_count": 58
+        },
+        "reply_settings": "everyone",
+        "text": "接吻不闭眼的有两种情况，掌控欲强侵略性强的和根本没反应过来的小狗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-06-28T14:18:23.000Z",
+        "description": "𓆩♡𓆪 死目莉 𓆩♡𓆪\n 🩹 | 双相情感障碍• 𝖠𝖣𝖧𝖣 • 重焦 • 繪師 \n\n🎀没有喜欢死目莉的觉悟的人请不要靠近死目莉⚠️😸…",
+        "id": "1409516495571501066",
+        "location": "我想要的是世界上根本就没有的东西",
+        "name": "早乙女死目莉2.0",
+        "pinned_tweet_id": "2059646950455279640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063196138987995136/5SVYRVyv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 399,
+          "following_count": 201,
+          "like_count": 107,
+          "listed_count": 1,
+          "media_count": 47,
+          "tweet_count": 648
+        },
+        "username": "DrankghostU",
+        "verified": true
+      },
+      {
+        "created_at": "2023-03-09T20:23:20.000Z",
+        "description": "“我与我周旋久，宁作我”",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_desire22",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_desire22",
+                "start": 0,
+                "url": "https://t.co/VF2aHx0ln6"
+              }
+            ]
+          }
+        },
+        "id": "1633926462184263685",
+        "location": "海王星",
+        "name": "只鱼",
+        "pinned_tweet_id": "1876657992218882190",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892237025035816960/Ja0GfowM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2814,
+          "following_count": 405,
+          "like_count": 14684,
+          "listed_count": 13,
+          "media_count": 1656,
+          "tweet_count": 7837
+        },
+        "url": "https://t.co/VF2aHx0ln6",
+        "username": "_Desire2",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2071159454712872961"
+      ]
+    },
+    "author_id": "1409516495571501066",
+    "conversation_id": "2071159578138693900",
+    "created_at": "2026-06-28T09:11:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T10:11:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071159578138693900"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 30,
+          "start": 26,
+          "tag": "雰囲気"
+        },
+        {
+          "end": 38,
+          "start": 32,
+          "tag": "自撮り界隈"
+        },
+        {
+          "end": 52,
+          "start": 40,
+          "tag": "病み垢さんと繋がりたい"
+        },
+        {
+          "end": 65,
+          "start": 53,
+          "tag": "地雷系女子と繋がりたい"
+        },
+        {
+          "end": 73,
+          "start": 66,
+          "tag": "承認欲求の塊"
+        },
+        {
+          "end": 92,
+          "start": 75,
+          "tag": "雰囲気嫌いじゃないよって人いいね"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/z8LPayLENO",
+          "end": 117,
+          "expanded_url": "https://x.com/DrankghostU/status/2071159578138693900/photo/1",
+          "media_key": "16_2071159454712872961",
+          "start": 94,
+          "url": "https://t.co/z8LPayLENO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071159578138693900",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "每日一想死目莉 每日一爱死目莉 每日一赞扬死目莉！\n#雰囲気 ⁠#自撮り界隈\n⁠#病み垢さんと繋がりたい\n#地雷系女子と繋がりたい\n#承認欲求の塊\n⁠#雰囲気嫌いじゃないよって人いいね⁠ https://t.co/z8LPayLENO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 480,
+        "media_key": "16_2071159454712872961",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HL48jPNaQAEZ7uY.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HL48jPNaQAEZ7uY.mp4"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2071159454712872961"
+          ]
+        },
+        "author_id": "1409516495571501066",
+        "conversation_id": "2071159578138693900",
+        "created_at": "2026-06-28T09:11:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T10:11:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071159578138693900"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 30,
+              "start": 26,
+              "tag": "雰囲気"
+            },
+            {
+              "end": 38,
+              "start": 32,
+              "tag": "自撮り界隈"
+            },
+            {
+              "end": 52,
+              "start": 40,
+              "tag": "病み垢さんと繋がりたい"
+            },
+            {
+              "end": 65,
+              "start": 53,
+              "tag": "地雷系女子と繋がりたい"
+            },
+            {
+              "end": 73,
+              "start": 66,
+              "tag": "承認欲求の塊"
+            },
+            {
+              "end": 92,
+              "start": 75,
+              "tag": "雰囲気嫌いじゃないよって人いいね"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/z8LPayLENO",
+              "end": 117,
+              "expanded_url": "https://x.com/DrankghostU/status/2071159578138693900/photo/1",
+              "media_key": "16_2071159454712872961",
+              "start": 94,
+              "url": "https://t.co/z8LPayLENO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071159578138693900",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "每日一想死目莉 每日一爱死目莉 每日一赞扬死目莉！\n#雰囲気 ⁠#自撮り界隈\n⁠#病み垢さんと繋がりたい\n#地雷系女子と繋がりたい\n#承認欲求の塊\n⁠#雰囲気嫌いじゃないよって人いいね⁠ https://t.co/z8LPayLENO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-06-28T14:18:23.000Z",
+        "description": "𓆩♡𓆪 死目莉 𓆩♡𓆪\n 🩹 | 双相情感障碍• 𝖠𝖣𝖧𝖣 • 重焦 • 繪師 \n\n🎀没有喜欢死目莉的觉悟的人请不要靠近死目莉⚠️😸…",
+        "id": "1409516495571501066",
+        "location": "我想要的是世界上根本就没有的东西",
+        "name": "早乙女死目莉2.0",
+        "pinned_tweet_id": "2059646950455279640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063196138987995136/5SVYRVyv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 460,
+          "following_count": 201,
+          "like_count": 148,
+          "listed_count": 1,
+          "media_count": 58,
+          "tweet_count": 824
+        },
+        "url": "",
+        "username": "DrankghostU",
+        "verified": true
+      }
+    ]
+  }
+}

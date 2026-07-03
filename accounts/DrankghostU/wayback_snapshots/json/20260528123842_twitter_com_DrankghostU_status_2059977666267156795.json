@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059977656502812676"
+      ]
+    },
+    "author_id": "1409516495571501066",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2059977666267156795",
+    "created_at": "2026-05-28T12:38:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T13:38:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059977666267156795"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Mxu0zGA30H",
+          "end": 38,
+          "expanded_url": "https://x.com/DrankghostU/status/2059977666267156795/photo/1",
+          "media_key": "3_2059977656502812676",
+          "start": 15,
+          "url": "https://t.co/Mxu0zGA30H"
+        },
+        {
+          "display_url": "x.com/papizr2008/sta…",
+          "end": 62,
+          "expanded_url": "https://twitter.com/papizr2008/status/2059676679673684353",
+          "start": 39,
+          "url": "https://t.co/89Jx3VBprB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059977666267156795",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059676679673684353",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "一次通关😼死目莉是月抛达人喵 https://t.co/Mxu0zGA30H https://t.co/89Jx3VBprB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2059977656502812676",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJaCw60XgAQHJH1.jpg",
+        "width": 945
+      },
+      {
+        "height": 722,
+        "media_key": "3_2059676640113004546",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJVw_dYbEAInzVB.png",
+        "width": 524
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059977656502812676"
+          ]
+        },
+        "author_id": "1409516495571501066",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2059977666267156795",
+        "created_at": "2026-05-28T12:38:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T13:38:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059977666267156795"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Mxu0zGA30H",
+              "end": 38,
+              "expanded_url": "https://x.com/DrankghostU/status/2059977666267156795/photo/1",
+              "media_key": "3_2059977656502812676",
+              "start": 15,
+              "url": "https://t.co/Mxu0zGA30H"
+            },
+            {
+              "display_url": "x.com/papizr2008/sta…",
+              "end": 62,
+              "expanded_url": "https://twitter.com/papizr2008/status/2059676679673684353",
+              "start": 39,
+              "url": "https://t.co/89Jx3VBprB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059977666267156795",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059676679673684353",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "一次通关😼死目莉是月抛达人喵 https://t.co/Mxu0zGA30H https://t.co/89Jx3VBprB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059676640113004546"
+          ]
+        },
+        "author_id": "1973086003545161728",
+        "conversation_id": "2059676679673684353",
+        "created_at": "2026-05-27T16:42:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T17:42:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059676679673684353"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "arathustr.github.io/fun/3/",
+              "end": 55,
+              "expanded_url": "https://arathustr.github.io/fun/3/",
+              "start": 32,
+              "status": 200,
+              "title": "月抛模拟器 (Final Edition)",
+              "unwound_url": "https://arathustr.github.io/fun/3/",
+              "url": "https://t.co/7wcL1mNWpp"
+            },
+            {
+              "display_url": "pic.x.com/j62ZgQ39ft",
+              "end": 79,
+              "expanded_url": "https://x.com/papiZR2008/status/2059676679673684353/photo/1",
+              "media_key": "3_2059676640113004546",
+              "start": 56,
+              "url": "https://t.co/j62ZgQ39ft"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059676679673684353",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1768,
+          "impression_count": 477639,
+          "like_count": 3024,
+          "quote_count": 37,
+          "reply_count": 285,
+          "retweet_count": 251
+        },
+        "reply_settings": "everyone",
+        "text": "这游戏把我性压抑治好了\n纯纯死里逃生\n推荐列表玩一下\n\n传送门：https://t.co/7wcL1mNWpp https://t.co/j62ZgQ39ft"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-06-28T14:18:23.000Z",
+        "description": "被msk气哭了。\n前世@SaotomeShimeri\n女宝互关熟了可以恰v \n男性推油请给恶魔死目莉的熔炼炉投入52cny喵😤\n没有喜欢死目莉的觉悟的人不能靠近死目莉！😤😤",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 11,
+                "username": "SaotomeShimeri"
+              }
+            ]
+          }
+        },
+        "id": "1409516495571501066",
+        "name": "早乙女死目莉2.0",
+        "pinned_tweet_id": "2059646950455279640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058389276015120384/ihPt3Trh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 149,
+          "like_count": 56,
+          "listed_count": 7,
+          "media_count": 22,
+          "tweet_count": 147
+        },
+        "username": "DrankghostU",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-30T18:02:57.000Z",
+        "description": "才不是puppy/请勿认亲/欢迎夸夸/私信前先关注.\n06 / 158 / 79.\n可以叫蒸蒸or小蒸.\n感谢视奸，祝你开心.",
+        "id": "1973086003545161728",
+        "location": "距离 11.64 km",
+        "name": "papi帕皮蒸蒸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975108945267372032/cy5MmZH-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4668,
+          "following_count": 89,
+          "like_count": 9280,
+          "listed_count": 6,
+          "media_count": 89,
+          "tweet_count": 682
+        },
+        "username": "papiZR2008",
+        "verified": false
+      }
+    ]
+  }
+}

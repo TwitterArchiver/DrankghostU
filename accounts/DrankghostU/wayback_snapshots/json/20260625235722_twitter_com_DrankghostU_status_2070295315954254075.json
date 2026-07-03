@@ -1,0 +1,135 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070295307079069696"
+      ]
+    },
+    "author_id": "1409516495571501066",
+    "conversation_id": "2070295315954254075",
+    "created_at": "2026-06-25T23:57:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T00:57:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070295315954254075"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/zZMjzwza1r",
+          "end": 43,
+          "expanded_url": "https://x.com/DrankghostU/status/2070295315954254075/photo/1",
+          "media_key": "3_2070295307079069696",
+          "start": 20,
+          "url": "https://t.co/zZMjzwza1r"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070295315954254075",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "呵呵救护车的第一视角我是第三次体验了。 https://t.co/zZMjzwza1r"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2070295307079069696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLsqnOabMAA_teK.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070295307079069696"
+          ]
+        },
+        "author_id": "1409516495571501066",
+        "conversation_id": "2070295315954254075",
+        "created_at": "2026-06-25T23:57:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T00:57:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070295315954254075"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zZMjzwza1r",
+              "end": 43,
+              "expanded_url": "https://x.com/DrankghostU/status/2070295315954254075/photo/1",
+              "media_key": "3_2070295307079069696",
+              "start": 20,
+              "url": "https://t.co/zZMjzwza1r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070295315954254075",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "呵呵救护车的第一视角我是第三次体验了。 https://t.co/zZMjzwza1r"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-06-28T14:18:23.000Z",
+        "description": "𓆩♡𓆪 死目莉 𓆩♡𓆪\n 🩹 | 双相情感障碍• 𝖠𝖣𝖧𝖣 • 重焦 • 繪師 \n\n🎀没有喜欢死目莉的觉悟的人请不要靠近死目莉⚠️😸…",
+        "id": "1409516495571501066",
+        "location": "我想要的是世界上根本就没有的东西",
+        "name": "早乙女死目莉2.0",
+        "pinned_tweet_id": "2059646950455279640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063196138987995136/5SVYRVyv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 445,
+          "following_count": 199,
+          "like_count": 129,
+          "listed_count": 1,
+          "media_count": 54,
+          "tweet_count": 775
+        },
+        "url": "",
+        "username": "DrankghostU",
+        "verified": true
+      }
+    ]
+  }
+}

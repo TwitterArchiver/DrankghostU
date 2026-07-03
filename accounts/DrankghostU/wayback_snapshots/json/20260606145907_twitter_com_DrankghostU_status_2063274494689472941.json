@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1409516495571501066",
+    "conversation_id": "2063274494689472941",
+    "created_at": "2026-06-06T14:59:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T15:59:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063274494689472941"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hanabitaminc/s…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/hanabitaminc/status/2063210682150174848",
+          "start": 4,
+          "url": "https://t.co/YGHCTQr5WK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063274494689472941",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063210682150174848",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "色情！ https://t.co/YGHCTQr5WK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2829,
+        "media_key": "3_2063210676630474752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKH_LdVaUAACuju.jpg",
+        "width": 2000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1409516495571501066",
+        "conversation_id": "2063274494689472941",
+        "created_at": "2026-06-06T14:59:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T15:59:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063274494689472941"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hanabitaminc/s…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/hanabitaminc/status/2063210682150174848",
+              "start": 4,
+              "url": "https://t.co/YGHCTQr5WK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063274494689472941",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063210682150174848",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "色情！ https://t.co/YGHCTQr5WK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063210676630474752"
+          ]
+        },
+        "author_id": "1266206715839606784",
+        "conversation_id": "2063210682150174848",
+        "created_at": "2026-06-06T10:45:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T11:45:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063210682150174848"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ITx6pBdRM5",
+              "end": 34,
+              "expanded_url": "https://x.com/hanabitaminc/status/2063210682150174848/photo/1",
+              "media_key": "3_2063210676630474752",
+              "start": 11,
+              "url": "https://t.co/ITx6pBdRM5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063210682150174848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 73,
+          "impression_count": 12425,
+          "like_count": 1071,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 64
+        },
+        "reply_settings": "everyone",
+        "text": "好きなお顔詰め合わせ https://t.co/ITx6pBdRM5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-06-28T14:18:23.000Z",
+        "description": "𓆩♡𓆪 死目莉 𓆩♡𓆪\n~双相情感障碍 • 𝖠𝖣𝖧𝖣 • 重焦 • 💊🔪🩸🎨\n🚫AI绘画\n\n喜欢说废话，把推特当备忘录发。\n\n🎀没有喜欢死目莉的觉悟就不要靠近死目莉。\n💕女宝互关熟了可以恰v \n🫧男性推油请给恶魔死目莉的熔炼炉投入52cny喵😤",
+        "id": "1409516495571501066",
+        "location": "我想要的是世界上根本就没有的东西",
+        "name": "早乙女死目莉2.0",
+        "pinned_tweet_id": "2059646950455279640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063196138987995136/5SVYRVyv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 347,
+          "following_count": 186,
+          "like_count": 85,
+          "listed_count": 1,
+          "media_count": 40,
+          "tweet_count": 499
+        },
+        "username": "DrankghostU",
+        "verified": true
+      },
+      {
+        "created_at": "2020-05-29T03:17:22.000Z",
+        "description": "人間が好きです \n (現在、ご依頼とDMでのお返事できかねます)\n🐶→@hanabitaminb\nインスタ→ https://t.co/AmlunMW4by",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 35,
+                "username": "hanabitaminb"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "instagram.com/hanabitaminc?i…",
+                "end": 78,
+                "expanded_url": "https://www.instagram.com/hanabitaminc?igsh=MWRicWF1YzZuMGN6MA%3D%3D&utm_source=qr",
+                "start": 55,
+                "url": "https://t.co/AmlunMW4by"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/53144689",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/53144689",
+                "start": 0,
+                "url": "https://t.co/72PdX51Udv"
+              }
+            ]
+          }
+        },
+        "id": "1266206715839606784",
+        "location": "ぽかぽかホットカーペットランド",
+        "name": "花巻 花郎COMITIA156🐶P50a",
+        "pinned_tweet_id": "2062118511909245283",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1610904608439959553/GjAHGmmh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131004,
+          "following_count": 141,
+          "like_count": 55665,
+          "listed_count": 810,
+          "media_count": 305,
+          "tweet_count": 38980
+        },
+        "url": "https://t.co/72PdX51Udv",
+        "username": "hanabitaminc",
+        "verified": false
+      }
+    ]
+  }
+}

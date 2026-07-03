@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057247821699641344"
+      ],
+      "media_source_tweet_id": [
+        "2057247830901928371"
+      ]
+    },
+    "author_id": "1409516495571501066",
+    "conversation_id": "2060243579675492421",
+    "created_at": "2026-05-29T06:15:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T07:15:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060243579675492421"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1547310338328080384",
+          "start": 3,
+          "username": "gaoliang0808"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Nk62LAnX6n",
+          "end": 117,
+          "expanded_url": "https://x.com/gaoliang0808/status/2057247830901928371/photo/1",
+          "media_key": "3_2057247821699641344",
+          "start": 94,
+          "url": "https://t.co/Nk62LAnX6n"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060243579675492421",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 23
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057247830901928371",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gaoliang0808: 因大号被封的原因找不到原贴评论 为了确保推上5.30能够重新开奖重新抽一次 在tg群和推上都抽两个人 推上转帖➕点赞➕关注➕评论参与即可 5.30开奖 https://t.co/Nk62LAnX6n"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2160,
+        "media_key": "3_2057247821699641344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIzP_ntacAAI7YO.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057247821699641344"
+          ],
+          "media_source_tweet_id": [
+            "2057247830901928371"
+          ]
+        },
+        "author_id": "1409516495571501066",
+        "conversation_id": "2060243579675492421",
+        "created_at": "2026-05-29T06:15:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T07:15:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060243579675492421"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1547310338328080384",
+              "start": 3,
+              "username": "gaoliang0808"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Nk62LAnX6n",
+              "end": 117,
+              "expanded_url": "https://x.com/gaoliang0808/status/2057247830901928371/photo/1",
+              "media_key": "3_2057247821699641344",
+              "start": 94,
+              "url": "https://t.co/Nk62LAnX6n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060243579675492421",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 23
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057247830901928371",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @gaoliang0808: 因大号被封的原因找不到原贴评论 为了确保推上5.30能够重新开奖重新抽一次 在tg群和推上都抽两个人 推上转帖➕点赞➕关注➕评论参与即可 5.30开奖 https://t.co/Nk62LAnX6n"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057247821699641344"
+          ]
+        },
+        "author_id": "1547310338328080384",
+        "conversation_id": "2057247830901928371",
+        "created_at": "2026-05-20T23:51:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T00:51:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057247830901928371"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Nk62LAnX6n",
+              "end": 99,
+              "expanded_url": "https://x.com/gaoliang0808/status/2057247830901928371/photo/1",
+              "media_key": "3_2057247821699641344",
+              "start": 76,
+              "url": "https://t.co/Nk62LAnX6n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057247830901928371",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1244,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 24,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "因大号被封的原因找不到原贴评论 为了确保推上5.30能够重新开奖重新抽一次 在tg群和推上都抽两个人 推上转帖➕点赞➕关注➕评论参与即可 5.30开奖 https://t.co/Nk62LAnX6n"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-06-28T14:18:23.000Z",
+        "description": "被msk气哭了。\n前世@SaotomeShimeri\n女宝互关熟了可以恰v \n男性推油请给恶魔死目莉的熔炼炉投入52cny喵😤\n没有喜欢死目莉的觉悟的人不能靠近死目莉！😤😤",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 11,
+                "username": "SaotomeShimeri"
+              }
+            ]
+          }
+        },
+        "id": "1409516495571501066",
+        "name": "早乙女死目莉2.0",
+        "pinned_tweet_id": "2059646950455279640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058389276015120384/ihPt3Trh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182,
+          "following_count": 164,
+          "like_count": 59,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 182
+        },
+        "username": "DrankghostU",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-13T20:02:05.000Z",
+        "description": "这里是道心 有卖烟 是oder。可互fo 喜欢的我会回fo 对电子烟有需要可联系我呀 戒药中 互fo直关就可有的时候没看到就私  转帖点点赞就行啦 花粉聚集地https://t.co/5hrXf0TC6k",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/hinakofor1",
+                "end": 102,
+                "expanded_url": "https://t.me/hinakofor1",
+                "start": 79,
+                "url": "https://t.co/5hrXf0TC6k"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/dddlg520",
+                "end": 23,
+                "expanded_url": "https://t.me/dddlg520",
+                "start": 0,
+                "url": "https://t.co/Au75Hgnn6Q"
+              }
+            ]
+          }
+        },
+        "id": "1547310338328080384",
+        "location": "卢布朗咖啡厅",
+        "name": "破滅道心（小花导）",
+        "pinned_tweet_id": "2034336433172086904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018955454953766912/ZTCWEOYB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141,
+          "following_count": 367,
+          "like_count": 1749,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 223
+        },
+        "url": "https://t.co/Au75Hgnn6Q",
+        "username": "gaoliang0808",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1409516495571501066",
+    "conversation_id": "2063162560157720985",
+    "created_at": "2026-06-06T09:10:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T10:10:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063186646690849040"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2063186646690849040",
+    "in_reply_to_user_id": "1409516495571501066",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063162560157720985",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "5.充电线。很多的充电线。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1409516495571501066",
+        "conversation_id": "2063162560157720985",
+        "created_at": "2026-06-06T09:10:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T10:10:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063186646690849040"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063186646690849040",
+        "in_reply_to_user_id": "1409516495571501066",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063162560157720985",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "5.充电线。很多的充电线。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1409516495571501066",
+        "conversation_id": "2063162560157720985",
+        "created_at": "2026-06-06T07:34:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T08:34:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063162560157720985"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063162560157720985",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "死目莉极力推荐的adhd好物list\n【如果你是一个adhd患者那么你的家里一定要有这些】\n\n1.胸贴（比起穿脱内衣这个更方便，我相信很多人一定能懂为什么。）\n\n2.湿巾（清理和打扫一切都很麻烦，这个很好用）\n\n3.很多个提醒你“现在该做什么”的闹钟\n（我无法专注工作，所以和人连麦，让信任的人一直提醒你，或者让电子闹钟提醒你，都很好用。）"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 102,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "死目莉极力推荐的adhd好物list\n【如果你是一个adhd患者那么你的家里一定要有这些】\n\n1.胸贴（比起穿脱内衣这个更方便，我相信很多人一定能懂为什么。）\n\n2.湿巾（清理和打扫一切都很麻烦，这个很好用）\n\n3.很多个提醒你“现在该做什么”的闹钟"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-06-28T14:18:23.000Z",
+        "description": "被msk气哭了。\n前世@SaotomeShimeri\n女宝互关熟了可以恰v \n男性推油请给恶魔死目莉的熔炼炉投入52cny喵😤\n没有喜欢死目莉的觉悟的人不能靠近死目莉！😤😤",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 11,
+                "username": "SaotomeShimeri"
+              }
+            ]
+          }
+        },
+        "id": "1409516495571501066",
+        "name": "早乙女死目莉2.0",
+        "pinned_tweet_id": "2063162560157720985",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058389276015120384/ihPt3Trh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 340,
+          "following_count": 186,
+          "like_count": 83,
+          "listed_count": 1,
+          "media_count": 37,
+          "tweet_count": 447
+        },
+        "username": "DrankghostU",
+        "verified": true
+      }
+    ]
+  }
+}

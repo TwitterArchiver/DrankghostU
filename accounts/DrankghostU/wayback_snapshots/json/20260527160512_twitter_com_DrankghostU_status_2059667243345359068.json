@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1409516495571501066",
+    "conversation_id": "2059667243345359068",
+    "created_at": "2026-05-27T16:05:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T17:05:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059667243345359068"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/aromiiii07/sta…",
+          "end": 74,
+          "expanded_url": "https://twitter.com/aromiiii07/status/2059628987513721274",
+          "start": 51,
+          "url": "https://t.co/Tw5YzRMu0i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059667243345359068",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059628987513721274",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "嗯 看到有人离去我会感到一种 难以言表的心情 不想去陈述了 总之希望大家都安好 哪怕有了来世也要安好 https://t.co/Tw5YzRMu0i"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1409516495571501066",
+        "conversation_id": "2059667243345359068",
+        "created_at": "2026-05-27T16:05:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T17:05:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059667243345359068"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/aromiiii07/sta…",
+              "end": 74,
+              "expanded_url": "https://twitter.com/aromiiii07/status/2059628987513721274",
+              "start": 51,
+              "url": "https://t.co/Tw5YzRMu0i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059667243345359068",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059628987513721274",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "嗯 看到有人离去我会感到一种 难以言表的心情 不想去陈述了 总之希望大家都安好 哪怕有了来世也要安好 https://t.co/Tw5YzRMu0i"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2056442288617009152",
+        "conversation_id": "2059628987513721274",
+        "created_at": "2026-05-27T13:33:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T14:33:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059628987513721274"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059628987513721274",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我讨厌自杀潮……为什么，为什么大家都走了呢……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-06-28T14:18:23.000Z",
+        "description": "被msk气哭了。\n前世@SaotomeShimeri",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 11,
+                "username": "SaotomeShimeri"
+              }
+            ]
+          }
+        },
+        "id": "1409516495571501066",
+        "name": "早乙女死目莉2.0",
+        "pinned_tweet_id": "2059646950455279640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058389276015120384/ihPt3Trh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 144,
+          "like_count": 51,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 70
+        },
+        "username": "DrankghostU",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-18T18:31:23.000Z",
+        "description": "♀丨高中牲丨ODer丨中抑丨🔪丨4i丨Gentle Dom丨ed丨特摄丨狗压抑丨偶尔摄政丨无政府主义   ▷▷▷可以叫我无机盐或者一一酱，欢迎互fo呀~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "miyu.link/aromiiii",
+                "end": 23,
+                "expanded_url": "https://miyu.link/aromiiii",
+                "start": 0,
+                "url": "https://t.co/hgkVhYpZkM"
+              }
+            ]
+          }
+        },
+        "id": "2056442288617009152",
+        "location": "エターナル",
+        "name": "共晶無機鹽=ᗜωᗜ=",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056699281776705536/kj3oo5Lo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 162,
+          "like_count": 56,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 120
+        },
+        "url": "https://t.co/hgkVhYpZkM",
+        "username": "aromiiii07",
+        "verified": false
+      }
+    ]
+  }
+}

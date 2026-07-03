@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1409516495571501066",
+    "conversation_id": "2062577877707850036",
+    "created_at": "2026-06-04T16:51:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T17:51:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062577877707850036"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yuerqwq/status…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/yuerqwq/status/2062159867826352393",
+          "start": 8,
+          "url": "https://t.co/Rb0IY9Xz8p"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062577877707850036",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062159867826352393",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我的每一个夜晚 https://t.co/Rb0IY9Xz8p"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 957,
+        "media_key": "3_2062129854175498240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ4oLT7b0AAkOeK.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1409516495571501066",
+        "conversation_id": "2062577877707850036",
+        "created_at": "2026-06-04T16:51:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T17:51:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062577877707850036"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yuerqwq/status…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/yuerqwq/status/2062159867826352393",
+              "start": 8,
+              "url": "https://t.co/Rb0IY9Xz8p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062577877707850036",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062159867826352393",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我的每一个夜晚 https://t.co/Rb0IY9Xz8p"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062129854175498240"
+          ]
+        },
+        "author_id": "1962302660541079552",
+        "conversation_id": "2062159867826352393",
+        "created_at": "2026-06-03T13:10:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T14:10:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062159867826352393"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4TS83twAO0",
+              "end": 34,
+              "expanded_url": "https://x.com/yuerQwQ/status/2062159867826352393/photo/1",
+              "media_key": "3_2062129854175498240",
+              "start": 11,
+              "url": "https://t.co/4TS83twAO0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062159867826352393",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 7040,
+          "like_count": 396,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 89
+        },
+        "reply_settings": "everyone",
+        "text": "我在凌晨一点就这样： https://t.co/4TS83twAO0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-06-28T14:18:23.000Z",
+        "description": "被msk气哭了。\n前世@SaotomeShimeri\n女宝互关熟了可以恰v \n男性推油请给恶魔死目莉的熔炼炉投入52cny喵😤\n没有喜欢死目莉的觉悟的人不能靠近死目莉！😤😤",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 11,
+                "username": "SaotomeShimeri"
+              }
+            ]
+          }
+        },
+        "id": "1409516495571501066",
+        "name": "早乙女死目莉2.0",
+        "pinned_tweet_id": "2062521015922749816",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058389276015120384/ihPt3Trh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 311,
+          "following_count": 180,
+          "like_count": 69,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 385
+        },
+        "username": "DrankghostU",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁/2008 08 08/职高/hrt 2026.4.17  🏳️‍⚧️/无证含糖🍥/修正马主义☭/民主青年🇹🇼/水贴🤪/广东/近视/178身高体重115/蓝v互fo                                                          小白羽的未来在哪里呢……",
+        "id": "1962302660541079552",
+        "name": "yuer🍥",
+        "pinned_tweet_id": "2062322312133886446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1307,
+          "following_count": 1005,
+          "like_count": 11301,
+          "listed_count": 0,
+          "media_count": 297,
+          "tweet_count": 2293
+        },
+        "username": "yuerQwQ",
+        "verified": true
+      }
+    ]
+  }
+}

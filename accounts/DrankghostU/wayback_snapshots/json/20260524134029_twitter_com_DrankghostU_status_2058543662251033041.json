@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1409516495571501066",
+    "conversation_id": "2058543662251033041",
+    "created_at": "2026-05-24T13:40:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T14:40:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058543662251033041"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2044884002948214784",
+          "start": 3,
+          "username": "ZaZa89ta"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058543662251033041",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 30
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045979341532889594",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ZaZa89ta: 100fo抽奖第一弹🎉\n一等奖：五盒pr80\n\n二等将：三盒pr80\n\n三等奖：两盒pr80\n\n参与奖三个：一盒pr80\n\n参与条件 点赞关注and转贴\n\n到时候我会拉群在tg群抽  \n\n爱大家💗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1409516495571501066",
+        "conversation_id": "2058543662251033041",
+        "created_at": "2026-05-24T13:40:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T14:40:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058543662251033041"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2044884002948214784",
+              "start": 3,
+              "username": "ZaZa89ta"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058543662251033041",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 30
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045979341532889594",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ZaZa89ta: 100fo抽奖第一弹🎉\n一等奖：五盒pr80\n\n二等将：三盒pr80\n\n三等奖：两盒pr80\n\n参与奖三个：一盒pr80\n\n参与条件 点赞关注and转贴\n\n到时候我会拉群在tg群抽  \n\n爱大家💗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044884002948214784",
+        "conversation_id": "2045979341532889594",
+        "created_at": "2026-04-19T21:34:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T22:34:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045979341532889594"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045979341532889594",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4078,
+          "like_count": 63,
+          "quote_count": 0,
+          "reply_count": 22,
+          "retweet_count": 30
+        },
+        "reply_settings": "everyone",
+        "text": "100fo抽奖第一弹🎉\n一等奖：五盒pr80\n\n二等将：三盒pr80\n\n三等奖：两盒pr80\n\n参与奖三个：一盒pr80\n\n参与条件 点赞关注and转贴\n\n到时候我会拉群在tg群抽  \n\n爱大家💗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-06-28T14:18:23.000Z",
+        "description": "被msk气哭了。\n前世@SaotomeShimeri",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 11,
+                "username": "SaotomeShimeri"
+              }
+            ]
+          }
+        },
+        "id": "1409516495571501066",
+        "name": "早乙女死目莉2.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058389276015120384/ihPt3Trh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 75,
+          "like_count": 40,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 19
+        },
+        "username": "DrankghostU",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-16T21:02:17.000Z",
+        "description": "我只是希望我的生活好一点",
+        "id": "2044884002948214784",
+        "name": "ZaZa",
+        "pinned_tweet_id": "2045110549869134017",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045097880177049600/8055mIda_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 39,
+          "like_count": 170,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 137
+        },
+        "username": "ZaZa89ta",
+        "verified": false
+      }
+    ]
+  }
+}

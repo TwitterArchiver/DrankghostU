@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1409516495571501066",
+    "conversation_id": "2063226474908295346",
+    "created_at": "2026-06-06T11:48:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T12:48:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063226474908295346"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mg500n/status/…",
+          "end": 95,
+          "expanded_url": "https://twitter.com/mg500n/status/2063225906202820717",
+          "start": 72,
+          "url": "https://t.co/OSTgB6OBSC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063226474908295346",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063225906202820717",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我他吗在想是不是这几天的那个什么磁场什么乱七八糟的总之就是有神秘因素作祟导致的精神不安潮。我觉得很哈人不仅仅是孝生连不高孝的人也不安。这很可怕 https://t.co/OSTgB6OBSC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2063225897948471296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKINBdKa4AA6h4J.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1409516495571501066",
+        "conversation_id": "2063226474908295346",
+        "created_at": "2026-06-06T11:48:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T12:48:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063226474908295346"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mg500n/status/…",
+              "end": 95,
+              "expanded_url": "https://twitter.com/mg500n/status/2063225906202820717",
+              "start": 72,
+              "url": "https://t.co/OSTgB6OBSC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063226474908295346",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063225906202820717",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我他吗在想是不是这几天的那个什么磁场什么乱七八糟的总之就是有神秘因素作祟导致的精神不安潮。我觉得很哈人不仅仅是孝生连不高孝的人也不安。这很可怕 https://t.co/OSTgB6OBSC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063225897948471296"
+          ]
+        },
+        "author_id": "1800455049468149760",
+        "conversation_id": "2063225906202820717",
+        "created_at": "2026-06-06T11:46:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T12:46:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063225906202820717"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ksSyDsBPOk",
+              "end": 41,
+              "expanded_url": "https://x.com/Mg500N/status/2063225906202820717/photo/1",
+              "media_key": "3_2063225897948471296",
+              "start": 18,
+              "url": "https://t.co/ksSyDsBPOk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063225906202820717",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "每次到高考之前都压力暴大\n后遗症了 https://t.co/ksSyDsBPOk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-06-28T14:18:23.000Z",
+        "description": "𓆩♡𓆪 死目莉 𓆩♡𓆪\n🩹 | 双相情感障碍 • 𝖠𝖣𝖧𝖣 • 重焦 • 💊🔪🩸\n喜欢说废话，把推特当备忘录发。\n\n🎀没有喜欢死目莉的觉悟就不要靠近死目莉。\n💕女宝互关熟了可以恰v \n🫧男性推油请给恶魔死目莉的熔炼炉投入52cny喵😤",
+        "id": "1409516495571501066",
+        "location": "我想要的是世界上根本就没有的东西",
+        "name": "早乙女死目莉2.0",
+        "pinned_tweet_id": "2059646950455279640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063196138987995136/5SVYRVyv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 341,
+          "following_count": 185,
+          "like_count": 84,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 474
+        },
+        "username": "DrankghostU",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-11T09:08:37.000Z",
+        "description": "06｜沪｜负能｜生心男｜中抑重焦｜戒割手中｜酒精｜尼古丁｜\n微查成分互fo致歉…",
+        "id": "1800455049468149760",
+        "name": "Yuk1iii",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049519305612820480/YXBxKtmK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 219,
+          "like_count": 612,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 204
+        },
+        "username": "Mg500N",
+        "verified": false
+      }
+    ]
+  }
+}

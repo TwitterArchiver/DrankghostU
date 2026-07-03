@@ -1,0 +1,480 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1409516495571501066",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10052304085",
+          "name": "宇宙よりも遠い場所"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      }
+    ],
+    "conversation_id": "2071636499234484585",
+    "created_at": "2026-06-29T16:46:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T17:46:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071636499234484585"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1992593536026583040",
+          "start": 3,
+          "username": "GenesicNinetail"
+        },
+        {
+          "end": 37,
+          "id": "1832339111405088769",
+          "start": 21,
+          "username": "septemberman123"
+        }
+      ],
+      "urls": [
+        {
+          "description": "私の青春が、動き出す！水瀬いのり、花澤香菜、井口裕香、早見沙織が演じる4人の女子高生が南極を目指す青春グラフィティ。いしづかあつ...",
+          "display_url": "youtu.be/jFgvK5BzGck?si…",
+          "end": 134,
+          "expanded_url": "https://youtu.be/jFgvK5BzGck?si=iASeJrLqYzj2m7wR",
+          "images": [
+            {
+              "height": 720,
+              "url": "https://pbs.twimg.com/news_img/2071260236514734080/TfO9MT5R?format=jpg&name=orig",
+              "width": 1280
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2071260236514734080/TfO9MT5R?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 111,
+          "status": 200,
+          "title": "オリジナルTVアニメ『宇宙よりも遠い場所』PV第2弾｜2018.01.02 ON AIR",
+          "unwound_url": "https://www.youtube.com/watch?si=iASeJrLqYzj2m7wR&v=jFgvK5BzGck&feature=youtu.be",
+          "url": "https://t.co/KxWDugqO21"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071636499234484585",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071260232823820799",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @GenesicNinetail: @septemberman123 オリジナルTVアニメ『宇宙よりも遠い場所』とにかく後半は泣けます。そして最後、心が暖かくなります。（個人差あり）\n見る価値はあると思いますよ〜\n\nhttps://t.co/KxWDugqO21 @You…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1409516495571501066",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10052304085",
+              "name": "宇宙よりも遠い場所"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "2071636499234484585",
+        "created_at": "2026-06-29T16:46:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T17:46:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071636499234484585"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1992593536026583040",
+              "start": 3,
+              "username": "GenesicNinetail"
+            },
+            {
+              "end": 37,
+              "id": "1832339111405088769",
+              "start": 21,
+              "username": "septemberman123"
+            }
+          ],
+          "urls": [
+            {
+              "description": "私の青春が、動き出す！水瀬いのり、花澤香菜、井口裕香、早見沙織が演じる4人の女子高生が南極を目指す青春グラフィティ。いしづかあつ...",
+              "display_url": "youtu.be/jFgvK5BzGck?si…",
+              "end": 134,
+              "expanded_url": "https://youtu.be/jFgvK5BzGck?si=iASeJrLqYzj2m7wR",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/2071260236514734080/TfO9MT5R?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2071260236514734080/TfO9MT5R?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 111,
+              "status": 200,
+              "title": "オリジナルTVアニメ『宇宙よりも遠い場所』PV第2弾｜2018.01.02 ON AIR",
+              "unwound_url": "https://www.youtube.com/watch?si=iASeJrLqYzj2m7wR&v=jFgvK5BzGck&feature=youtu.be",
+              "url": "https://t.co/KxWDugqO21"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071636499234484585",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071260232823820799",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @GenesicNinetail: @septemberman123 オリジナルTVアニメ『宇宙よりも遠い場所』とにかく後半は泣けます。そして最後、心が暖かくなります。（個人差あり）\n見る価値はあると思いますよ〜\n\nhttps://t.co/KxWDugqO21 @You…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992593536026583040",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10052304085",
+              "name": "宇宙よりも遠い場所"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "2071131827570626748",
+        "created_at": "2026-06-28T15:51:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T16:51:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071260232823820799"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1832339111405088769",
+              "start": 0,
+              "username": "septemberman123"
+            },
+            {
+              "end": 122,
+              "id": "10228272",
+              "start": 114,
+              "username": "YouTube"
+            }
+          ],
+          "urls": [
+            {
+              "description": "私の青春が、動き出す！水瀬いのり、花澤香菜、井口裕香、早見沙織が演じる4人の女子高生が南極を目指す青春グラフィティ。いしづかあつ...",
+              "display_url": "youtu.be/jFgvK5BzGck?si…",
+              "end": 113,
+              "expanded_url": "https://youtu.be/jFgvK5BzGck?si=iASeJrLqYzj2m7wR",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/2071260236514734080/TfO9MT5R?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2071260236514734080/TfO9MT5R?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 90,
+              "status": 200,
+              "title": "オリジナルTVアニメ『宇宙よりも遠い場所』PV第2弾｜2018.01.02 ON AIR",
+              "unwound_url": "https://www.youtube.com/watch?si=iASeJrLqYzj2m7wR&v=jFgvK5BzGck&feature=youtu.be",
+              "url": "https://t.co/KxWDugqO21"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071260232823820799",
+        "in_reply_to_user_id": "1832339111405088769",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1506,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071197338300002703",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@septemberman123 オリジナルTVアニメ『宇宙よりも遠い場所』とにかく後半は泣けます。そして最後、心が暖かくなります。（個人差あり）\n見る価値はあると思いますよ〜\n\nhttps://t.co/KxWDugqO21 @YouTubeより"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-06-28T14:18:23.000Z",
+        "description": "𓆩♡𓆪 死目莉 𓆩♡𓆪\n 🩹 | 双相情感障碍• 𝖠𝖣𝖧𝖣 • 重焦 • 繪師 \n\n🎀没有喜欢死目莉的觉悟的人请不要靠近死目莉⚠️😸…",
+        "id": "1409516495571501066",
+        "location": "我想要的是世界上根本就没有的东西",
+        "name": "早乙女死目莉2.0",
+        "pinned_tweet_id": "2059646950455279640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063196138987995136/5SVYRVyv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 466,
+          "following_count": 203,
+          "like_count": 167,
+          "listed_count": 1,
+          "media_count": 60,
+          "tweet_count": 841
+        },
+        "url": "",
+        "username": "DrankghostU",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-23T14:00:03.000Z",
+        "description": "ＦＦ１４は次の理由で休止中。身体と精神壊して鬱病に。無職になる。母親が大腸癌、軽い脳梗塞等の病気に。入退院繰り返しで介護してます。ちょっと大変。",
+        "id": "1992593536026583040",
+        "name": "Kimitoshi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992594327969947649/AWu3T3r6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 124,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 669
+        },
+        "url": "",
+        "username": "GenesicNinetail",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-07T08:44:34.000Z",
+        "description": "",
+        "id": "1832339111405088769",
+        "location": "水無月",
+        "name": "宇宙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928000471551332352/-l6bwuPI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1572,
+          "following_count": 923,
+          "like_count": 96407,
+          "listed_count": 5,
+          "media_count": 24,
+          "tweet_count": 693
+        },
+        "url": "",
+        "username": "septemberman123",
+        "verified": false
+      }
+    ]
+  }
+}

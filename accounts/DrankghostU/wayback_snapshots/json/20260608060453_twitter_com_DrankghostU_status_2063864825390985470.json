@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1409516495571501066",
+    "conversation_id": "2063864825390985470",
+    "created_at": "2026-06-08T06:04:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T07:04:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063864825390985470"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1670322365912461313",
+          "start": 3,
+          "username": "Seraphinexe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063864825390985470",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063840050086076465",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Seraphinexe: 我上推特只是为了碎碎念发泄情绪呀 不是来看你们对这个小女孩恶语相向的🥺👐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1409516495571501066",
+        "conversation_id": "2063864825390985470",
+        "created_at": "2026-06-08T06:04:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T07:04:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063864825390985470"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1670322365912461313",
+              "start": 3,
+              "username": "Seraphinexe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063864825390985470",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063840050086076465",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Seraphinexe: 我上推特只是为了碎碎念发泄情绪呀 不是来看你们对这个小女孩恶语相向的🥺👐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1670322365912461313",
+        "conversation_id": "2063840050086076465",
+        "created_at": "2026-06-08T04:26:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T05:26:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063840050086076465"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063840050086076465",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1790,
+          "like_count": 39,
+          "quote_count": 0,
+          "reply_count": 20,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我上推特只是为了碎碎念发泄情绪呀 不是来看你们对这个小女孩恶语相向的🥺👐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-06-28T14:18:23.000Z",
+        "description": "𓆩♡𓆪 死目莉 𓆩♡𓆪\n~双相情感障碍 • 𝖠𝖣𝖧𝖣 • 重焦 • 💊🔪🩸🎨\n🚫AI绘画绝对禁止。\n\n喜欢说废话，把推特当备忘录发。\n\n🎀没有喜欢死目莉的觉悟就不要靠近死目莉。\n💕女宝互关熟了可以恰v \n🫧男性推油请给恶魔死目莉的熔炼炉投入52cny喵😤",
+        "id": "1409516495571501066",
+        "location": "我想要的是世界上根本就没有的东西",
+        "name": "早乙女死目莉2.0",
+        "pinned_tweet_id": "2059646950455279640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063196138987995136/5SVYRVyv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 368,
+          "following_count": 196,
+          "like_count": 95,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 576
+        },
+        "username": "DrankghostU",
+        "verified": true
+      },
+      {
+        "created_at": "2023-06-18T06:47:55.000Z",
+        "description": "我想 哥哥这一页 应是 椿萱并茂 棠棣同馨",
+        "id": "1670322365912461313",
+        "location": "浙江杭州",
+        "name": "郁闷的土豆",
+        "pinned_tweet_id": "2062861683383828977",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026031566456229888/uONjuhmC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 111,
+          "like_count": 4527,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 206
+        },
+        "username": "Seraphinexe",
+        "verified": false
+      }
+    ]
+  }
+}

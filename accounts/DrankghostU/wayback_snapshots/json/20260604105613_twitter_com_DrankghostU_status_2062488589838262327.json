@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1409516495571501066",
+    "conversation_id": "2062453709452321047",
+    "created_at": "2026-06-04T10:56:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T11:56:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062488589838262327"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1736393672055549952",
+          "start": 0,
+          "username": "NakauMi_515"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062488589838262327",
+    "in_reply_to_user_id": "1736393672055549952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062476575422169425",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NakauMi_515 宝宝我这边的最后结果我在群里说了哦，我把群和记录全删了防止晶追踪"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1409516495571501066",
+        "conversation_id": "2062453709452321047",
+        "created_at": "2026-06-04T10:56:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T11:56:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062488589838262327"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1736393672055549952",
+              "start": 0,
+              "username": "NakauMi_515"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062488589838262327",
+        "in_reply_to_user_id": "1736393672055549952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062476575422169425",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NakauMi_515 宝宝我这边的最后结果我在群里说了哦，我把群和记录全删了防止晶追踪"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1736393672055549952",
+        "conversation_id": "2062453709452321047",
+        "created_at": "2026-06-04T10:08:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T11:08:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062476575422169425"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1409516495571501066",
+              "start": 0,
+              "username": "DrankghostU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062476575422169425",
+        "in_reply_to_user_id": "1409516495571501066",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062453709452321047",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DrankghostU 现在什么情况，我在ly维权群里"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-06-28T14:18:23.000Z",
+        "description": "被msk气哭了。\n前世@SaotomeShimeri\n女宝互关熟了可以恰v \n男性推油请给恶魔死目莉的熔炼炉投入52cny喵😤\n没有喜欢死目莉的觉悟的人不能靠近死目莉！😤😤",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 11,
+                "username": "SaotomeShimeri"
+              }
+            ]
+          }
+        },
+        "id": "1409516495571501066",
+        "name": "早乙女死目莉2.0",
+        "pinned_tweet_id": "2059646950455279640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058389276015120384/ihPt3Trh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 301,
+          "following_count": 177,
+          "like_count": 63,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 319
+        },
+        "username": "DrankghostU",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-17T14:31:40.000Z",
+        "description": "胃炎又犯了",
+        "id": "1736393672055549952",
+        "location": "Taiwan",
+        "name": "Kictlo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059277357949861888/uY18bLoA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 129,
+          "like_count": 82,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 67
+        },
+        "username": "NakauMi_515",
+        "verified": false
+      }
+    ]
+  }
+}

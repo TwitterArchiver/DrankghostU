@@ -1,0 +1,104 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1409516495571501066",
+    "conversation_id": "2059951217795608656",
+    "created_at": "2026-05-28T10:53:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T11:53:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059951217795608656"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2059951217795608656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "为什么不能一直看着我为什么不能专注于我为什么不能一直想着我的事情为什么你总是对我那么冷漠为什么为什么为什么你对一切都是一切关于我的事情都是敷衍的话语已经不想再听到了你的下一句话是什么我已经猜到了这样一点意思都没有了已经够了已经够了我恨死你了但是我爱你啊为什么感受不到呢？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1409516495571501066",
+        "conversation_id": "2059951217795608656",
+        "created_at": "2026-05-28T10:53:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T11:53:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059951217795608656"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059951217795608656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么不能一直看着我为什么不能专注于我为什么不能一直想着我的事情为什么你总是对我那么冷漠为什么为什么为什么你对一切都是一切关于我的事情都是敷衍的话语已经不想再听到了你的下一句话是什么我已经猜到了这样一点意思都没有了已经够了已经够了我恨死你了但是我爱你啊为什么感受不到呢？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-06-28T14:18:23.000Z",
+        "description": "被msk气哭了。\n前世@SaotomeShimeri\n女宝互关熟了可以恰v \n男性推油请给恶魔死目莉的熔炼炉投入52cny喵😤\n没有喜欢死目莉的觉悟的人不能靠近死目莉！😤😤",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 11,
+                "username": "SaotomeShimeri"
+              }
+            ]
+          }
+        },
+        "id": "1409516495571501066",
+        "name": "早乙女死目莉2.0",
+        "pinned_tweet_id": "2059646950455279640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058389276015120384/ihPt3Trh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 148,
+          "like_count": 54,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 125
+        },
+        "username": "DrankghostU",
+        "verified": false
+      }
+    ]
+  }
+}

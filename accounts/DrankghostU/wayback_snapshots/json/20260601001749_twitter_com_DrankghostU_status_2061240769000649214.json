@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1409516495571501066",
+    "conversation_id": "2061240769000649214",
+    "created_at": "2026-06-01T00:17:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T01:17:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061240769000649214"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/aru_ve_lut/sta…",
+          "end": 57,
+          "expanded_url": "https://twitter.com/aru_ve_lut/status/2060721563130077229",
+          "start": 34,
+          "url": "https://t.co/388eTfjG2v"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061240769000649214",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060721563130077229",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "死目莉每次都这样。每次都解离到真的死目了喵死目莉死目莉死目目目目莉 https://t.co/388eTfjG2v"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1409516495571501066",
+        "conversation_id": "2061240769000649214",
+        "created_at": "2026-06-01T00:17:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T01:17:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061240769000649214"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/aru_ve_lut/sta…",
+              "end": 57,
+              "expanded_url": "https://twitter.com/aru_ve_lut/status/2060721563130077229",
+              "start": 34,
+              "url": "https://t.co/388eTfjG2v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061240769000649214",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060721563130077229",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "死目莉每次都这样。每次都解离到真的死目了喵死目莉死目莉死目目目目莉 https://t.co/388eTfjG2v"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752259037566218240",
+        "conversation_id": "2060721563130077229",
+        "created_at": "2026-05-30T13:54:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T14:54:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060721563130077229"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060721563130077229",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3088,
+          "like_count": 62,
+          "quote_count": 3,
+          "reply_count": 14,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "解离到用一只眼睛刷推"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-06-28T14:18:23.000Z",
+        "description": "被msk气哭了。\n前世@SaotomeShimeri\n女宝互关熟了可以恰v \n男性推油请给恶魔死目莉的熔炼炉投入52cny喵😤\n没有喜欢死目莉的觉悟的人不能靠近死目莉！😤😤",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 11,
+                "username": "SaotomeShimeri"
+              }
+            ]
+          }
+        },
+        "id": "1409516495571501066",
+        "name": "早乙女死目莉2.0",
+        "pinned_tweet_id": "2059646950455279640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058389276015120384/ihPt3Trh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 197,
+          "following_count": 166,
+          "like_count": 61,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 236
+        },
+        "username": "DrankghostU",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-30T09:14:57.000Z",
+        "description": "atto/见晴miharu/081013/日常推/中文/En/日语学习中/intp-a/od/自残/休学/友跨/希望和大家交朋友/超级社恐/很温良的小女孩/欢迎互fo 直fo就是喜欢你",
+        "id": "1752259037566218240",
+        "name": "见晴",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045456632256290816/rzugZvz8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 212,
+          "following_count": 363,
+          "like_count": 1278,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 395
+        },
+        "username": "aru_ve_lut",
+        "verified": false
+      }
+    ]
+  }
+}

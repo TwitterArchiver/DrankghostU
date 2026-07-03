@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1409516495571501066",
+    "conversation_id": "2063415801018044922",
+    "created_at": "2026-06-07T00:20:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T01:20:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063415801018044922"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1806043502771593216",
+          "start": 3,
+          "username": "JustMonika97899"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063415801018044922",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 20
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024213765366173830",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JustMonika97899: 关于我：\n可以叫我莫/小莫/任何你喜欢的称呼 但是请不要用侮辱我的词汇\n已成年/泛性恋/社交苦手/熟了很粘人/碎碎念很多\n我很温良 也许会随机掉落金币（？\n这里的浓度大概只会有一些负能/自设/欧滴相关\n坐标新加坡/浙江\n下面几张都是我的…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2063415801018044922].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2063415801018044922",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2063415801018044922"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 746,
+        "media_key": "3_2024213741559250944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBdzrFcagAAApx_.jpg",
+        "width": 592
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2024213741546668032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBdzrFZagAAyuf0.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2024213741550915588",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBdzrFabUAQI-Z7.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2024213741538332673",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBdzrFXbUAEfrPj.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024213741559250944",
+            "3_2024213741546668032",
+            "3_2024213741550915588",
+            "3_2024213741538332673"
+          ]
+        },
+        "author_id": "1806043502771593216",
+        "conversation_id": "2024213765366173830",
+        "created_at": "2026-02-18T20:05:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T21:05:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024213765366173830"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qDEeWgJhvz",
+              "end": 177,
+              "expanded_url": "https://x.com/JustMonika97899/status/2024213765366173830/photo/1",
+              "media_key": "3_2024213741559250944",
+              "start": 154,
+              "url": "https://t.co/qDEeWgJhvz"
+            },
+            {
+              "display_url": "pic.x.com/qDEeWgJhvz",
+              "end": 177,
+              "expanded_url": "https://x.com/JustMonika97899/status/2024213765366173830/photo/1",
+              "media_key": "3_2024213741546668032",
+              "start": 154,
+              "url": "https://t.co/qDEeWgJhvz"
+            },
+            {
+              "display_url": "pic.x.com/qDEeWgJhvz",
+              "end": 177,
+              "expanded_url": "https://x.com/JustMonika97899/status/2024213765366173830/photo/1",
+              "media_key": "3_2024213741550915588",
+              "start": 154,
+              "url": "https://t.co/qDEeWgJhvz"
+            },
+            {
+              "display_url": "pic.x.com/qDEeWgJhvz",
+              "end": 177,
+              "expanded_url": "https://x.com/JustMonika97899/status/2024213765366173830/photo/1",
+              "media_key": "3_2024213741538332673",
+              "start": 154,
+              "url": "https://t.co/qDEeWgJhvz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024213765366173830",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5307,
+          "like_count": 50,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "关于我：\n可以叫我莫/小莫/任何你喜欢的称呼 但是请不要用侮辱我的词汇\n已成年/泛性恋/社交苦手/熟了很粘人/碎碎念很多\n我很温良 也许会随机掉落金币（？\n这里的浓度大概只会有一些负能/自设/欧滴相关\n坐标新加坡/浙江\n下面几张都是我的自设/我和亲友的互动 如果能被喜欢就太好了 欢迎互fo 直fo=喜欢你 https://t.co/qDEeWgJhvz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-06-28T14:18:23.000Z",
+        "description": "𓆩♡𓆪 死目莉 𓆩♡𓆪\n~双相情感障碍 • 𝖠𝖣𝖧𝖣 • 重焦 • 💊🔪🩸🎨\n🚫AI绘画绝对禁止。\n\n喜欢说废话，把推特当备忘录发。\n\n🎀没有喜欢死目莉的觉悟就不要靠近死目莉。\n💕女宝互关熟了可以恰v \n🫧男性推油请给恶魔死目莉的熔炼炉投入52cny喵😤",
+        "id": "1409516495571501066",
+        "location": "我想要的是世界上根本就没有的东西",
+        "name": "早乙女死目莉2.0",
+        "pinned_tweet_id": "2059646950455279640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063196138987995136/5SVYRVyv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 358,
+          "following_count": 188,
+          "like_count": 87,
+          "listed_count": 1,
+          "media_count": 40,
+          "tweet_count": 519
+        },
+        "username": "DrankghostU",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-26T19:15:08.000Z",
+        "description": "不键政，很温良，2006.04.08/顺女/泛性恋 本号大部分内容为欧滴/负能/自设稿件相关，直fo/点赞就是喜欢你，期待能和大家好好相处！戒割戒吐中…\n@Li_fu53036 为你而活 为你而死 为你而幸福",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 77,
+                "username": "Li_fu53036"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mo34905",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mo34905",
+                "start": 0,
+                "url": "https://t.co/tsQcuI9PwW"
+              }
+            ]
+          }
+        },
+        "id": "1806043502771593216",
+        "location": "祈愿你我幸福之地",
+        "name": "Just Monika aa aa a",
+        "pinned_tweet_id": "2024213765366173830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016276372227055617/A5CyiFOh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 253,
+          "following_count": 162,
+          "like_count": 756,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 382
+        },
+        "url": "https://t.co/tsQcuI9PwW",
+        "username": "JustMonika97899",
+        "verified": false
+      }
+    ]
+  }
+}

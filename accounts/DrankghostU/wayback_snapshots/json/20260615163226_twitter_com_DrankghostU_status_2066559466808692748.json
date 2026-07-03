@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1409516495571501066",
+    "conversation_id": "2065878722214019086",
+    "created_at": "2026-06-15T16:32:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T17:32:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066559466808692748"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1473328339213426688",
+          "start": 0,
+          "username": "linquan929"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066559466808692748",
+    "in_reply_to_user_id": "1473328339213426688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066507411175956930",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@linquan929 唉！人和人有的时候就是理解不来的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1409516495571501066",
+        "conversation_id": "2065878722214019086",
+        "created_at": "2026-06-15T16:32:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T17:32:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066559466808692748"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1473328339213426688",
+              "start": 0,
+              "username": "linquan929"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066559466808692748",
+        "in_reply_to_user_id": "1473328339213426688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066507411175956930",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@linquan929 唉！人和人有的时候就是理解不来的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473328339213426688",
+        "conversation_id": "2065878722214019086",
+        "created_at": "2026-06-15T13:05:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T14:05:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066507411175956930"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1409516495571501066",
+              "start": 0,
+              "username": "DrankghostU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066507411175956930",
+        "in_reply_to_user_id": "1409516495571501066",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065878722214019086",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DrankghostU 你很好，是你朋友不好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-06-28T14:18:23.000Z",
+        "description": "𓆩♡𓆪 死目莉 𓆩♡𓆪\n 🩹 | 双相情感障碍• 𝖠𝖣𝖧𝖣 • 重焦 • 繪師 \n\n🎀没有喜欢死目莉的觉悟的人请不要靠近死目莉⚠️😸…",
+        "id": "1409516495571501066",
+        "location": "我想要的是世界上根本就没有的东西",
+        "name": "早乙女死目莉2.0",
+        "pinned_tweet_id": "2059646950455279640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063196138987995136/5SVYRVyv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 425,
+          "following_count": 201,
+          "like_count": 114,
+          "listed_count": 1,
+          "media_count": 50,
+          "tweet_count": 722
+        },
+        "username": "DrankghostU",
+        "verified": true
+      },
+      {
+        "created_at": "2021-12-21T16:23:51.000Z",
+        "description": "取向是bi，4i。喜欢重口猎奇、大马眼、穿刺、注射、虐蛋、虐聚聚、sp。不是以上性癖的最好不要🙅私信我。发其他的都给我打钱！🚪500",
+        "id": "1473328339213426688",
+        "name": "做饭普拉斯",
+        "pinned_tweet_id": "1994845925223928118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999854330959294464/Lt9lEJaL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 350,
+          "following_count": 552,
+          "like_count": 13452,
+          "listed_count": 0,
+          "media_count": 641,
+          "tweet_count": 5584
+        },
+        "username": "linquan929",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062215324494393344"
+      ],
+      "media_source_tweet_id": [
+        "2062215330404184476"
+      ]
+    },
+    "author_id": "1409516495571501066",
+    "conversation_id": "2062767321220006108",
+    "created_at": "2026-06-05T05:23:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T06:23:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062767321220006108"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1288826887268003840",
+          "start": 3,
+          "username": "amiiyukii"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/v7l4dbImGx",
+          "end": 49,
+          "expanded_url": "https://x.com/amiiyukii/status/2062215330404184476/photo/1",
+          "media_key": "3_2062215324494393344",
+          "start": 26,
+          "url": "https://t.co/v7l4dbImGx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062767321220006108",
+    "lang": "fr",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2725
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062215330404184476",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @amiiyukii: 🎀🎨 charles https://t.co/v7l4dbImGx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1317,
+        "media_key": "3_2062215324494393344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ516Vra8AA8BZM.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062215324494393344"
+          ],
+          "media_source_tweet_id": [
+            "2062215330404184476"
+          ]
+        },
+        "author_id": "1409516495571501066",
+        "conversation_id": "2062767321220006108",
+        "created_at": "2026-06-05T05:23:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T06:23:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062767321220006108"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1288826887268003840",
+              "start": 3,
+              "username": "amiiyukii"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/v7l4dbImGx",
+              "end": 49,
+              "expanded_url": "https://x.com/amiiyukii/status/2062215330404184476/photo/1",
+              "media_key": "3_2062215324494393344",
+              "start": 26,
+              "url": "https://t.co/v7l4dbImGx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062767321220006108",
+        "lang": "fr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2725
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062215330404184476",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @amiiyukii: 🎀🎨 charles https://t.co/v7l4dbImGx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062215324494393344"
+          ]
+        },
+        "author_id": "1288826887268003840",
+        "conversation_id": "2062215330404184476",
+        "created_at": "2026-06-03T16:50:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T17:50:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062215330404184476"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/v7l4dbImGx",
+              "end": 34,
+              "expanded_url": "https://x.com/amiiyukii/status/2062215330404184476/photo/1",
+              "media_key": "3_2062215324494393344",
+              "start": 11,
+              "url": "https://t.co/v7l4dbImGx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062215330404184476",
+        "lang": "fr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1146,
+          "impression_count": 84856,
+          "like_count": 13083,
+          "quote_count": 27,
+          "reply_count": 15,
+          "retweet_count": 2725
+        },
+        "reply_settings": "everyone",
+        "text": "🎀🎨 charles https://t.co/v7l4dbImGx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-06-28T14:18:23.000Z",
+        "description": "被msk气哭了。\n前世@SaotomeShimeri\n女宝互关熟了可以恰v \n男性推油请给恶魔死目莉的熔炼炉投入52cny喵😤\n没有喜欢死目莉的觉悟的人不能靠近死目莉！😤😤",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 11,
+                "username": "SaotomeShimeri"
+              }
+            ]
+          }
+        },
+        "id": "1409516495571501066",
+        "name": "早乙女死目莉2.0",
+        "pinned_tweet_id": "2062521015922749816",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058389276015120384/ihPt3Trh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 324,
+          "following_count": 184,
+          "like_count": 80,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 404
+        },
+        "username": "DrankghostU",
+        "verified": true
+      },
+      {
+        "created_at": "2020-07-30T13:20:58.000Z",
+        "description": "hii im nako, this is primarily my art account |🎼❄️🎨🎀 en/中文 | for comms https://t.co/rdDvduj0bT | No AI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "nightcode25.carrd.co",
+                "end": 94,
+                "expanded_url": "https://nightcode25.carrd.co/",
+                "start": 71,
+                "url": "https://t.co/rdDvduj0bT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "rentry.co/mzmfmz",
+                "end": 23,
+                "expanded_url": "https://rentry.co/mzmfmz",
+                "start": 0,
+                "url": "https://t.co/2tji9CZgEC"
+              }
+            ]
+          }
+        },
+        "id": "1288826887268003840",
+        "location": "➡️",
+        "name": "🍊",
+        "pinned_tweet_id": "2049539216695242951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061425208947515393/Wv4gLupq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5957,
+          "following_count": 2148,
+          "like_count": 94440,
+          "listed_count": 58,
+          "media_count": 7366,
+          "tweet_count": 67567
+        },
+        "url": "https://t.co/2tji9CZgEC",
+        "username": "amiiyukii",
+        "verified": false
+      }
+    ]
+  }
+}

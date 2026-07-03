@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1409516495571501066",
+    "conversation_id": "2063186182293315627",
+    "created_at": "2026-06-06T10:28:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T11:28:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063206294920507560"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2063206294920507560",
+    "in_reply_to_user_id": "1409516495571501066",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063186182293315627",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "请尽快兑奖喵，本人记性不太好望见谅、😿希望大家吃得开心"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1409516495571501066",
+        "conversation_id": "2063186182293315627",
+        "created_at": "2026-06-06T10:28:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T11:28:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063206294920507560"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063206294920507560",
+        "in_reply_to_user_id": "1409516495571501066",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063186182293315627",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "请尽快兑奖喵，本人记性不太好望见谅、😿希望大家吃得开心"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1409516495571501066",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2063186182293315627",
+        "created_at": "2026-06-06T09:08:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T10:08:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063186182293315627"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 57,
+              "id": "1564990471327215619",
+              "start": 43,
+              "username": "bisco91395061"
+            },
+            {
+              "end": 78,
+              "id": "1881351051988934656",
+              "start": 68,
+              "username": "wowyouzhi"
+            },
+            {
+              "end": 100,
+              "id": "2053440829629624320",
+              "start": 90,
+              "username": "Mobailxzq"
+            },
+            {
+              "end": 123,
+              "id": "1826529463204806656",
+              "start": 116,
+              "username": "23099a"
+            },
+            {
+              "end": 142,
+              "id": "2038644495533723648",
+              "start": 131,
+              "username": "staryhrzzz"
+            },
+            {
+              "end": 190,
+              "id": "1603310799618859008",
+              "start": 176,
+              "username": "sanyangyunyun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063186182293315627",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 57,
+                "id": "1564990471327215619",
+                "start": 43,
+                "username": "bisco91395061"
+              },
+              {
+                "end": 78,
+                "id": "1881351051988934656",
+                "start": 68,
+                "username": "wowyouzhi"
+              },
+              {
+                "end": 100,
+                "id": "2053440829629624320",
+                "start": 90,
+                "username": "Mobailxzq"
+              },
+              {
+                "end": 123,
+                "id": "1826529463204806656",
+                "start": 116,
+                "username": "23099a"
+              },
+              {
+                "end": 142,
+                "id": "2038644495533723648",
+                "start": 131,
+                "username": "staryhrzzz"
+              },
+              {
+                "end": 190,
+                "id": "1603310799618859008",
+                "start": 176,
+                "username": "sanyangyunyun"
+              },
+              {
+                "end": 211,
+                "id": "2054187552265904130",
+                "start": 201,
+                "username": "AiZe18908"
+              },
+              {
+                "end": 235,
+                "id": "1946593949180993536",
+                "start": 221,
+                "username": "RogerDisboard"
+              },
+              {
+                "end": 287,
+                "id": "1619331344705916931",
+                "start": 275,
+                "username": "Mikasuda765"
+              },
+              {
+                "end": 310,
+                "id": "1997644719908884480",
+                "start": 298,
+                "username": "Oz_Garlandd"
+              },
+              {
+                "end": 336,
+                "id": "2047867480576794624",
+                "start": 325,
+                "username": "yuganbb823"
+              },
+              {
+                "end": 367,
+                "id": "1677549435662880769",
+                "start": 351,
+                "username": "shoulianshui123"
+              },
+              {
+                "end": 388,
+                "id": "1766270630100705280",
+                "start": 377,
+                "username": "TeYin46336"
+              },
+              {
+                "end": 424,
+                "id": "1409516495571501066",
+                "start": 412,
+                "username": "DrankghostU"
+              }
+            ]
+          },
+          "text": "使用grok开奖了喵😺😺\n\n🥇 麦辣鸡腿堡（5份，折现15cny或帮忙点餐）\n1.  @bisco91395061（菜菜警官）\n2.  @wowyouzhi（与诗。 月）\n3.  @Mobailxzq（和你的最后一次见面）\n4.  @23099a（☕）\n5.  @staryhrzzz（kyo）\n🍟 薯薯小食（3份，折现15cny或帮忙点餐）\n1.  @sanyangyunyun（云智风乃）\n2.  @AiZe18908（艾泽特）\n3.  @RogerDisboard（DISBOARDの神様Roger）\n🎟️ 安慰奖（5份，每份5.2）\n1.  @Mikasuda765（寄生铃兰）\n2.  @Oz_Garlandd（Gar1andd）\n3.  @yuganbb823（为何人生如此凄惨）\n4.  @shoulianshui123（收斂水）\n5.  @TeYin46336（角標睡眠kk_）\n\n中奖的朋友们：请尽快私信 @DrankghostU 报备（附上中奖截图或用户名），死目莉会安排发放喵"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 70,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "使用grok开奖了喵😺😺\n\n🥇 麦辣鸡腿堡（5份，折现15cny或帮忙点餐）\n1.  @bisco91395061（菜菜警官）\n2.  @wowyouzhi（与诗。 月）\n3.  @Mobailxzq（和你的最后一次见面）\n4.  @23099a（☕）\n5.  @staryhrzzz（kyo）\n🍟 薯薯小食（3份，折现15cny或帮忙点餐）\n1.  @sanyangyunyun（云智风乃）\n2."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-06-28T14:18:23.000Z",
+        "description": "𓆩♡𓆪 死目莉 𓆩♡𓆪\n🩹 | 双相情感障碍 • 𝖠𝖣𝖧𝖣 • 重焦 • 💊🔪🩸\n\n🎀没有喜欢死目莉的觉悟就不要靠近死目莉。\n💕女宝互关熟了可以恰v \n🫧男性推油请给恶魔死目莉的熔炼炉投入52cny喵😤",
+        "id": "1409516495571501066",
+        "location": "我想要的是世界上根本就没有的东西",
+        "name": "早乙女死目莉2.0",
+        "pinned_tweet_id": "2063162560157720985",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063196138987995136/5SVYRVyv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 340,
+          "following_count": 184,
+          "like_count": 84,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 458
+        },
+        "username": "DrankghostU",
+        "verified": false
+      }
+    ]
+  }
+}

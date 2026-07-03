@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1409516495571501066",
+    "conversation_id": "2060364260459348227",
+    "created_at": "2026-05-29T14:14:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T15:14:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060364260459348227"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1668581133427294208",
+          "start": 3,
+          "username": "OsatoW_trpg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060364260459348227",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3870
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059959739812040716",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @OsatoW_trpg: 媚薬ネタはえっちな目に遭うよりも薬物の過剰摂取による中毒症状の方が出て目眩吐き気嘔吐動悸息切れ頭痛意識混濁鼻血呼吸不良etc etc…になるのがよりえっちですよ(個人の感想"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1409516495571501066",
+        "conversation_id": "2060364260459348227",
+        "created_at": "2026-05-29T14:14:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T15:14:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060364260459348227"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1668581133427294208",
+              "start": 3,
+              "username": "OsatoW_trpg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060364260459348227",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3870
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059959739812040716",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @OsatoW_trpg: 媚薬ネタはえっちな目に遭うよりも薬物の過剰摂取による中毒症状の方が出て目眩吐き気嘔吐動悸息切れ頭痛意識混濁鼻血呼吸不良etc etc…になるのがよりえっちですよ(個人の感想"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668581133427294208",
+        "conversation_id": "2059959739812040716",
+        "created_at": "2026-05-28T11:27:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T12:27:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059959739812040716"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059959739812040716",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3510,
+          "impression_count": 607526,
+          "like_count": 20137,
+          "quote_count": 873,
+          "reply_count": 9,
+          "retweet_count": 3870
+        },
+        "reply_settings": "everyone",
+        "text": "媚薬ネタはえっちな目に遭うよりも薬物の過剰摂取による中毒症状の方が出て目眩吐き気嘔吐動悸息切れ頭痛意識混濁鼻血呼吸不良etc etc…になるのがよりえっちですよ(個人の感想"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-06-28T14:18:23.000Z",
+        "description": "被msk气哭了。\n前世@SaotomeShimeri\n女宝互关熟了可以恰v \n男性推油请给恶魔死目莉的熔炼炉投入52cny喵😤\n没有喜欢死目莉的觉悟的人不能靠近死目莉！😤😤",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 11,
+                "username": "SaotomeShimeri"
+              }
+            ]
+          }
+        },
+        "id": "1409516495571501066",
+        "name": "早乙女死目莉2.0",
+        "pinned_tweet_id": "2059646950455279640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058389276015120384/ihPt3Trh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191,
+          "following_count": 164,
+          "like_count": 60,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 200
+        },
+        "username": "DrankghostU",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-13T11:28:53.000Z",
+        "description": "砂糖水(@sugared_water01)のTRPG垢。TRPG(CoC)の話題やイラストはこちらに投げます。 稼働率は多分低め。20↑ DMの返信は急ぎのもの以外低速なことが多く大変申し訳ありません💦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 4,
+                "username": "sugared_water01"
+              }
+            ]
+          }
+        },
+        "id": "1668581133427294208",
+        "location": "icon:鳥砂さん",
+        "name": "砂糖水",
+        "pinned_tweet_id": "2006268489800245439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1743676504905777152/asdjqz_x_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3160,
+          "following_count": 1038,
+          "like_count": 104920,
+          "listed_count": 46,
+          "media_count": 869,
+          "tweet_count": 82273
+        },
+        "username": "OsatoW_trpg",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1409516495571501066",
+    "conversation_id": "2063163482342629835",
+    "created_at": "2026-06-06T07:38:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T08:38:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063163482342629835"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/11andpr8964896…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/11andpr89648964/status/2063150843495629312",
+          "start": 2,
+          "url": "https://t.co/BmkkKrrN74"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063163482342629835",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063150843495629312",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "嗯 https://t.co/BmkkKrrN74"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1409516495571501066",
+        "conversation_id": "2063163482342629835",
+        "created_at": "2026-06-06T07:38:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T08:38:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063163482342629835"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/11andpr8964896…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/11andpr89648964/status/2063150843495629312",
+              "start": 2,
+              "url": "https://t.co/BmkkKrrN74"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063163482342629835",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063150843495629312",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "嗯 https://t.co/BmkkKrrN74"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757603703811371008",
+        "conversation_id": "2062979424900014207",
+        "created_at": "2026-06-06T06:47:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T07:47:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063150843495629312"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1952345008478232576",
+              "start": 0,
+              "username": "Yu_071127"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063150843495629312",
+        "in_reply_to_user_id": "1952345008478232576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 43,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062979424900014207",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yu_071127 说喜欢地雷女的就是想法了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-06-28T14:18:23.000Z",
+        "description": "被msk气哭了。\n前世@SaotomeShimeri\n女宝互关熟了可以恰v \n男性推油请给恶魔死目莉的熔炼炉投入52cny喵😤\n没有喜欢死目莉的觉悟的人不能靠近死目莉！😤😤",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 11,
+                "username": "SaotomeShimeri"
+              }
+            ]
+          }
+        },
+        "id": "1409516495571501066",
+        "name": "早乙女死目莉2.0",
+        "pinned_tweet_id": "2062521015922749816",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058389276015120384/ihPt3Trh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 338,
+          "following_count": 186,
+          "like_count": 83,
+          "listed_count": 1,
+          "media_count": 35,
+          "tweet_count": 435
+        },
+        "username": "DrankghostU",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-14T03:12:45.000Z",
+        "description": "重度双相情感障碍患者 友跨 顺女 爱我请给我买普瑞巴林… 我爱普瑞 普瑞爱我 最喜欢的动物是小鸡𖤐HAIL SATAN.666𖤐",
+        "id": "1757603703811371008",
+        "location": "普瑞药效里",
+        "name": "11",
+        "pinned_tweet_id": "2059010602576834730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043146436347613185/S_9YQ-s3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1090,
+          "following_count": 809,
+          "like_count": 131,
+          "listed_count": 1,
+          "media_count": 149,
+          "tweet_count": 1465
+        },
+        "username": "11andpr89648964",
+        "verified": false
+      }
+    ]
+  }
+}

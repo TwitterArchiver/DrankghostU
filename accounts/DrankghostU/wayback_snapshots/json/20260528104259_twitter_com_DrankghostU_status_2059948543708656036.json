@@ -1,0 +1,144 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059948535743651843"
+      ]
+    },
+    "author_id": "1409516495571501066",
+    "conversation_id": "2059948543708656036",
+    "created_at": "2026-05-28T10:42:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T11:42:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059948543708656036"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/L2SOzZhuXw",
+          "end": 45,
+          "expanded_url": "https://x.com/DrankghostU/status/2059948543708656036/photo/1",
+          "media_key": "3_2059948535743651843",
+          "start": 22,
+          "url": "https://t.co/L2SOzZhuXw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059948543708656036",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "嗯本体攻击力这一块。我的评价是还有人类吗？ https://t.co/L2SOzZhuXw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 760,
+        "media_key": "3_2059948535743651843",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJZoR3iWIAMaQpG.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059948535743651843"
+          ]
+        },
+        "author_id": "1409516495571501066",
+        "conversation_id": "2059948543708656036",
+        "created_at": "2026-05-28T10:42:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T11:42:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059948543708656036"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/L2SOzZhuXw",
+              "end": 45,
+              "expanded_url": "https://x.com/DrankghostU/status/2059948543708656036/photo/1",
+              "media_key": "3_2059948535743651843",
+              "start": 22,
+              "url": "https://t.co/L2SOzZhuXw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059948543708656036",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "嗯本体攻击力这一块。我的评价是还有人类吗？ https://t.co/L2SOzZhuXw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-06-28T14:18:23.000Z",
+        "description": "被msk气哭了。\n前世@SaotomeShimeri\n女宝互关熟了可以恰v \n男性推油请给恶魔死目莉的熔炼炉投入52cny喵😤\n没有喜欢死目莉的觉悟的人不能靠近死目莉！😤😤",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 11,
+                "username": "SaotomeShimeri"
+              }
+            ]
+          }
+        },
+        "id": "1409516495571501066",
+        "name": "早乙女死目莉2.0",
+        "pinned_tweet_id": "2059646950455279640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058389276015120384/ihPt3Trh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 147,
+          "like_count": 54,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 120
+        },
+        "username": "DrankghostU",
+        "verified": false
+      }
+    ]
+  }
+}

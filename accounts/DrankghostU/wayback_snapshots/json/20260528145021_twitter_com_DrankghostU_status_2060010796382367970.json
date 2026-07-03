@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1409516495571501066",
+    "conversation_id": "2060010796382367970",
+    "created_at": "2026-05-28T14:50:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T15:50:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060010796382367970"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/drankghostu/st…",
+          "end": 67,
+          "expanded_url": "https://twitter.com/drankghostu/status/2059988192363712872",
+          "start": 44,
+          "url": "https://t.co/OlANlhSo2t"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060010796382367970",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059988192363712872",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "为森么你们转帖不评论呀😿\n 抽奖不足十人的话死目莉就当没人想要死目莉的涂鸦所以流产之！ https://t.co/OlANlhSo2t"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1234,
+        "media_key": "3_2059988176161177604",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJaMVPmXgAQjcjN.jpg",
+        "width": 1179
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2059988176165355522",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJaMVPnXQAIrHHx.jpg",
+        "width": 1424
+      },
+      {
+        "height": 1238,
+        "media_key": "3_2059988176156913670",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJaMVPlWcAYFxIF.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2059988176186269697",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJaMVPsWYAE8Xdt.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1409516495571501066",
+        "conversation_id": "2060010796382367970",
+        "created_at": "2026-05-28T14:50:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T15:50:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060010796382367970"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/drankghostu/st…",
+              "end": 67,
+              "expanded_url": "https://twitter.com/drankghostu/status/2059988192363712872",
+              "start": 44,
+              "url": "https://t.co/OlANlhSo2t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060010796382367970",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059988192363712872",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "为森么你们转帖不评论呀😿\n 抽奖不足十人的话死目莉就当没人想要死目莉的涂鸦所以流产之！ https://t.co/OlANlhSo2t"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059988176161177604",
+            "3_2059988176165355522",
+            "3_2059988176156913670",
+            "3_2059988176186269697"
+          ]
+        },
+        "author_id": "1409516495571501066",
+        "conversation_id": "2059988192363712872",
+        "created_at": "2026-05-28T13:20:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T14:20:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059988192363712872"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FNIQRDAbE2",
+              "end": 133,
+              "expanded_url": "https://x.com/DrankghostU/status/2059988192363712872/photo/1",
+              "media_key": "3_2059988176161177604",
+              "start": 110,
+              "url": "https://t.co/FNIQRDAbE2"
+            },
+            {
+              "display_url": "pic.x.com/FNIQRDAbE2",
+              "end": 133,
+              "expanded_url": "https://x.com/DrankghostU/status/2059988192363712872/photo/1",
+              "media_key": "3_2059988176165355522",
+              "start": 110,
+              "url": "https://t.co/FNIQRDAbE2"
+            },
+            {
+              "display_url": "pic.x.com/FNIQRDAbE2",
+              "end": 133,
+              "expanded_url": "https://x.com/DrankghostU/status/2059988192363712872/photo/1",
+              "media_key": "3_2059988176156913670",
+              "start": 110,
+              "url": "https://t.co/FNIQRDAbE2"
+            },
+            {
+              "display_url": "pic.x.com/FNIQRDAbE2",
+              "end": 133,
+              "expanded_url": "https://x.com/DrankghostU/status/2059988192363712872/photo/1",
+              "media_key": "3_2059988176186269697",
+              "start": 110,
+              "url": "https://t.co/FNIQRDAbE2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059988192363712872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 366,
+          "like_count": 13,
+          "quote_count": 2,
+          "reply_count": 6,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "爸爸妈妈爷爷奶奶哥哥姐姐我被骗了快400块钱我一直在哭。我来乞讨一下求投喂\n投喂窝的可以获得死目莉的小涂鸦。投喂多少画多少质量\n画风参考p234。\n100以下的投喂可能只是一些质量不高的线稿小涂鸦，作为死目莉的感谢！！ https://t.co/FNIQRDAbE2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-06-28T14:18:23.000Z",
+        "description": "被msk气哭了。\n前世@SaotomeShimeri\n女宝互关熟了可以恰v \n男性推油请给恶魔死目莉的熔炼炉投入52cny喵😤\n没有喜欢死目莉的觉悟的人不能靠近死目莉！😤😤",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 11,
+                "username": "SaotomeShimeri"
+              }
+            ]
+          }
+        },
+        "id": "1409516495571501066",
+        "name": "早乙女死目莉2.0",
+        "pinned_tweet_id": "2059646950455279640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058389276015120384/ihPt3Trh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 157,
+          "like_count": 59,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 174
+        },
+        "username": "DrankghostU",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1409516495571501066",
+    "conversation_id": "1926467105869701316",
+    "created_at": "2025-05-25T09:07:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-25T10:07:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1926565672798015631"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1623268877374476288",
+          "start": 0,
+          "username": "namu_purin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1926565672798015631",
+    "in_reply_to_user_id": "1623268877374476288",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1926467105869701316",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@namu_purin なむちゃんおはよー！ようちゃんです*^o^*今日の公演も頑張ってね~"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1409516495571501066",
+        "conversation_id": "1926467105869701316",
+        "created_at": "2025-05-25T09:07:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-25T10:07:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1926565672798015631"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1623268877374476288",
+              "start": 0,
+              "username": "namu_purin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926565672798015631",
+        "in_reply_to_user_id": "1623268877374476288",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926467105869701316",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@namu_purin なむちゃんおはよー！ようちゃんです*^o^*今日の公演も頑張ってね~"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1623268877374476288",
+        "conversation_id": "1926467105869701316",
+        "created_at": "2025-05-25T02:35:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-25T03:35:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1926467105869701316"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 7,
+              "normalized_text": "中国",
+              "probability": 0.7041,
+              "start": 6,
+              "type": "Place"
+            },
+            {
+              "end": 64,
+              "normalized_text": "中国",
+              "probability": 0.6692,
+              "start": 63,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "description": "ネオトラ 初の中国遠征in成都♪記念チェキどんどん世界進出するネオトラを応援♫❤︎サイン入り ランダム（衣装またはレア私服かも、？）海外遠征で楽しそうな推しメンの思い出チェキGETしてね❤︎まとめ買い特典❗️推しメン5枚又は、全メンバーコンプリートで▶︎ドデカサイン入りブロマイド+感謝メッセージ動画プレゼント✨詳細推しメン5枚▶︎推しメンドデカブロマイド(サイン付き)+推しメンからの感謝動画メンバー全員▶︎ネオトラメンバードデカブロマイド(メンバーサイン付き)+メンバー全員で感謝動画",
+              "display_url": "neotokyo.theshop.jp/items/10855282…",
+              "end": 106,
+              "expanded_url": "https://neotokyo.theshop.jp/items/108552820?fbclid=PAQ0xDSwKc_aRleHRuA2FlbQIxMQABp1yvBP9qPBwxNnD6x44Zsa-5VW1khSYhFw_5YxaR_wK4LaMUKOKKNwZdTNN8_aem_ott_Uy22hMyIv7qLmY6aMA",
+              "images": [
+                {
+                  "height": 1200,
+                  "url": "https://pbs.twimg.com/news_img/1925810678515863552/F0Z9eINk?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1925810678515863552/F0Z9eINk?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 83,
+              "status": 200,
+              "title": "中国遠征⭐️記念チェキ | NEOTOKYO-NETSHOP",
+              "unwound_url": "https://neotokyo.theshop.jp/items/108552820?fbclid=PAQ0xDSwKc_aRleHRuA2FlbQIxMQABp1yvBP9qPBwxNnD6x44Zsa-5VW1khSYhFw_5YxaR_wK4LaMUKOKKNwZdTNN8_aem_ott_Uy22hMyIv7qLmY6aMA",
+              "url": "https://t.co/IDYNsnSaPD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926467105869701316",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 568,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "おはよー！\n中国ライブ2日目૮⁔.  ̫ .⁔ა明日は帰るだけので実質最終日💧がんばるー🎶\nチェキ買うなら今のうちにだよ！中国限定だから超激レア✨絶対ゲットして！\n\nhttps://t.co/IDYNsnSaPD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-06-28T14:18:23.000Z",
+        "description": "UWU",
+        "id": "1409516495571501066",
+        "name": "UNIKNA",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1731423142609100800/yPITf57c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 60,
+          "like_count": 42,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 23
+        },
+        "username": "DrankghostU",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-08T10:34:38.000Z",
+        "description": "19さい！ネオトラ【@NEOTOKYOTRIBE 】むらさき 💜コンカフェ→@BiBiBiweb @INTERNETSCLUB にいるます🐈‍⬛派手髪ピアス✨#なむちゃんえらいさん",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 90,
+                "start": 79,
+                "tag": "なむちゃんえらいさん"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 24,
+                "start": 10,
+                "username": "NEOTOKYOTRIBE"
+              },
+              {
+                "end": 48,
+                "start": 38,
+                "username": "BiBiBiweb"
+              },
+              {
+                "end": 63,
+                "start": 49,
+                "username": "INTERNETSCLUB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/namutya",
+                "end": 23,
+                "expanded_url": "https://lit.link/namutya",
+                "start": 0,
+                "url": "https://t.co/4LJbTOxech"
+              }
+            ]
+          }
+        },
+        "id": "1623268877374476288",
+        "name": "なむ",
+        "pinned_tweet_id": "1921480666190860796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855552426197331968/IlSaL71h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2073,
+          "following_count": 62,
+          "like_count": 14295,
+          "listed_count": 19,
+          "media_count": 892,
+          "tweet_count": 5964
+        },
+        "url": "https://t.co/4LJbTOxech",
+        "username": "namu_purin",
+        "verified": false
+      }
+    ]
+  }
+}
