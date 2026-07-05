@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072450603465469953"
+      ],
+      "media_source_tweet_id": [
+        "2072450611996705001"
+      ]
+    },
+    "author_id": "1409516495571501066",
+    "conversation_id": "2072962354615333018",
+    "created_at": "2026-07-03T08:35:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T09:35:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072962354615333018"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1108143619771240448",
+          "start": 3,
+          "username": "daimao_nicochan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ig7c2EfYhY",
+          "end": 55,
+          "expanded_url": "https://x.com/daimao_nicochan/status/2072450611996705001/photo/1",
+          "media_key": "3_2072450603465469953",
+          "start": 32,
+          "url": "https://t.co/ig7c2EfYhY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072962354615333018",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 660
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072450611996705001",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @daimao_nicochan: 沙都子と梨花ちゃま🪽 https://t.co/ig7c2EfYhY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2072450603465469953",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMLS1_IacAEddaG.jpg",
+        "width": 1877
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072450603465469953"
+          ],
+          "media_source_tweet_id": [
+            "2072450611996705001"
+          ]
+        },
+        "author_id": "1409516495571501066",
+        "conversation_id": "2072962354615333018",
+        "created_at": "2026-07-03T08:35:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T09:35:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072962354615333018"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1108143619771240448",
+              "start": 3,
+              "username": "daimao_nicochan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ig7c2EfYhY",
+              "end": 55,
+              "expanded_url": "https://x.com/daimao_nicochan/status/2072450611996705001/photo/1",
+              "media_key": "3_2072450603465469953",
+              "start": 32,
+              "url": "https://t.co/ig7c2EfYhY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072962354615333018",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 660
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072450611996705001",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @daimao_nicochan: 沙都子と梨花ちゃま🪽 https://t.co/ig7c2EfYhY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072450603465469953"
+          ]
+        },
+        "author_id": "1108143619771240448",
+        "conversation_id": "2072450611996705001",
+        "created_at": "2026-07-01T22:41:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T23:41:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072450611996705001"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ig7c2EfYhY",
+              "end": 34,
+              "expanded_url": "https://x.com/daimao_nicochan/status/2072450611996705001/photo/1",
+              "media_key": "3_2072450603465469953",
+              "start": 11,
+              "url": "https://t.co/ig7c2EfYhY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072450611996705001",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 383,
+          "impression_count": 51895,
+          "like_count": 4754,
+          "quote_count": 6,
+          "reply_count": 1,
+          "retweet_count": 660
+        },
+        "reply_settings": "everyone",
+        "text": "沙都子と梨花ちゃま🪽 https://t.co/ig7c2EfYhY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-06-28T14:18:23.000Z",
+        "description": "𓆩♡𓆪 死目莉 𓆩♡𓆪\n 🩹 | 双相情感障碍• 𝖠𝖣𝖧𝖣 • 重焦 • 繪師 \n\n🎀没有喜欢死目莉的觉悟的人请不要靠近死目莉⚠️😸…",
+        "id": "1409516495571501066",
+        "location": "我想要的是世界上根本就没有的东西",
+        "name": "早乙女死目莉2.0",
+        "pinned_tweet_id": "2059646950455279640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063196138987995136/5SVYRVyv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 480,
+          "following_count": 202,
+          "like_count": 178,
+          "listed_count": 1,
+          "media_count": 65,
+          "tweet_count": 882
+        },
+        "url": "",
+        "username": "DrankghostU",
+        "verified": true
+      },
+      {
+        "created_at": "2019-03-19T23:10:02.000Z",
+        "description": "🐻様々な絵🐻全ての無断転載・無断使用・AI学習禁止\n #お茶請けはナトマキ\nhttps://t.co/L4HHdOVE1L Skeb→OC only",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 37,
+                "start": 27,
+                "tag": "お茶請けはナトマキ"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "lit.link/666kumamimi",
+                "end": 61,
+                "expanded_url": "https://lit.link/666kumamimi",
+                "start": 38,
+                "url": "https://t.co/L4HHdOVE1L"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@daimao_nicoch…",
+                "end": 23,
+                "expanded_url": "https://skeb.jp/@daimao_nicochan",
+                "start": 0,
+                "url": "https://t.co/VLsHgEn571"
+              }
+            ]
+          }
+        },
+        "id": "1108143619771240448",
+        "name": "又蔵",
+        "pinned_tweet_id": "1581695930004172802",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860376458889428992/4f1i3qzd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 979,
+          "following_count": 72,
+          "like_count": 9350,
+          "listed_count": 2,
+          "media_count": 889,
+          "tweet_count": 8425
+        },
+        "url": "https://t.co/VLsHgEn571",
+        "username": "daimao_nicochan",
+        "verified": false
+      }
+    ]
+  }
+}

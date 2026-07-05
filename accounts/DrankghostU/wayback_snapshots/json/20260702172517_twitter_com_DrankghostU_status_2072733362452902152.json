@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072733354286624768",
+        "3_2072733354290737152"
+      ]
+    },
+    "author_id": "1409516495571501066",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2072733362452902152",
+    "created_at": "2026-07-02T17:25:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T18:25:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072733362452902152"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/y675dnBcVI",
+          "end": 60,
+          "expanded_url": "https://x.com/DrankghostU/status/2072733362452902152/photo/1",
+          "media_key": "3_2072733354286624768",
+          "start": 37,
+          "url": "https://t.co/y675dnBcVI"
+        },
+        {
+          "display_url": "pic.x.com/y675dnBcVI",
+          "end": 60,
+          "expanded_url": "https://x.com/DrankghostU/status/2072733362452902152/photo/1",
+          "media_key": "3_2072733354290737152",
+          "start": 37,
+          "url": "https://t.co/y675dnBcVI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072733362452902152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "没有人觉得这首歌pv骚过头了吗我一直在感叹这个pv画的太好了扫的我尖叫😃 https://t.co/y675dnBcVI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2072733354286624768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMPUAQBbsAABgVq.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2072733354290737152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMPUAQCacAAPcoi.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072733354286624768",
+            "3_2072733354290737152"
+          ]
+        },
+        "author_id": "1409516495571501066",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2072733362452902152",
+        "created_at": "2026-07-02T17:25:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T18:25:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072733362452902152"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/y675dnBcVI",
+              "end": 60,
+              "expanded_url": "https://x.com/DrankghostU/status/2072733362452902152/photo/1",
+              "media_key": "3_2072733354286624768",
+              "start": 37,
+              "url": "https://t.co/y675dnBcVI"
+            },
+            {
+              "display_url": "pic.x.com/y675dnBcVI",
+              "end": 60,
+              "expanded_url": "https://x.com/DrankghostU/status/2072733362452902152/photo/1",
+              "media_key": "3_2072733354290737152",
+              "start": 37,
+              "url": "https://t.co/y675dnBcVI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072733362452902152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "没有人觉得这首歌pv骚过头了吗我一直在感叹这个pv画的太好了扫的我尖叫😃 https://t.co/y675dnBcVI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-06-28T14:18:23.000Z",
+        "description": "𓆩♡𓆪 死目莉 𓆩♡𓆪\n 🩹 | 双相情感障碍• 𝖠𝖣𝖧𝖣 • 重焦 • 繪師 \n\n🎀没有喜欢死目莉的觉悟的人请不要靠近死目莉⚠️😸…",
+        "id": "1409516495571501066",
+        "location": "我想要的是世界上根本就没有的东西",
+        "name": "早乙女死目莉2.0",
+        "pinned_tweet_id": "2059646950455279640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063196138987995136/5SVYRVyv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 481,
+          "following_count": 202,
+          "like_count": 174,
+          "listed_count": 1,
+          "media_count": 63,
+          "tweet_count": 874
+        },
+        "url": "",
+        "username": "DrankghostU",
+        "verified": true
+      }
+    ]
+  }
+}
