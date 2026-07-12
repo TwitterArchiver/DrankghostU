@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074911442130894848"
+      ]
+    },
+    "author_id": "1409516495571501066",
+    "conversation_id": "2074575165854556219",
+    "created_at": "2026-07-08T17:40:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T18:40:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074911447717695538"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1125325219671842817",
+          "start": 0,
+          "username": "Beagleear_slapu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3ZbZwwXxmH",
+          "end": 45,
+          "expanded_url": "https://x.com/DrankghostU/status/2074911447717695538/photo/1",
+          "media_key": "3_2074911442130894848",
+          "start": 22,
+          "url": "https://t.co/3ZbZwwXxmH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074911447717695538",
+    "in_reply_to_user_id": "1125325219671842817",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074907991611191353",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Beagleear_slapu 现在已经 https://t.co/3ZbZwwXxmH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 205,
+        "media_key": "3_2074911442130894848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMuQ9pibAAAEDrG.jpg",
+        "width": 948
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074911442130894848"
+          ]
+        },
+        "author_id": "1409516495571501066",
+        "conversation_id": "2074575165854556219",
+        "created_at": "2026-07-08T17:40:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T18:40:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074911447717695538"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1125325219671842817",
+              "start": 0,
+              "username": "Beagleear_slapu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3ZbZwwXxmH",
+              "end": 45,
+              "expanded_url": "https://x.com/DrankghostU/status/2074911447717695538/photo/1",
+              "media_key": "3_2074911442130894848",
+              "start": 22,
+              "url": "https://t.co/3ZbZwwXxmH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074911447717695538",
+        "in_reply_to_user_id": "1125325219671842817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074907991611191353",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Beagleear_slapu 现在已经 https://t.co/3ZbZwwXxmH"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1125325219671842817",
+        "conversation_id": "2074575165854556219",
+        "created_at": "2026-07-08T17:26:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T18:26:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074907991611191353"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1409516495571501066",
+              "start": 0,
+              "username": "DrankghostU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074907991611191353",
+        "in_reply_to_user_id": "1409516495571501066",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074575165854556219",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DrankghostU 这是我见过最躁的…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-06-28T14:18:23.000Z",
+        "description": "𓆩♡𓆪 死目莉 𓆩♡𓆪\n 🩹 | 双相情感障碍• 𝖠𝖣𝖧𝖣 • 重焦 • 繪師 \n\n🎀没有喜欢死目莉的觉悟的人请不要靠近死目莉⚠️😸…\n需要回fo请私信或评论我！",
+        "id": "1409516495571501066",
+        "location": "我想要的是世界上根本就没有的东西",
+        "name": "早乙女死目莉2.0",
+        "pinned_tweet_id": "2059646950455279640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063196138987995136/5SVYRVyv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 510,
+          "following_count": 209,
+          "like_count": 194,
+          "listed_count": 1,
+          "media_count": 72,
+          "tweet_count": 942
+        },
+        "url": "",
+        "username": "DrankghostU",
+        "verified": true
+      },
+      {
+        "created_at": "2019-05-06T09:03:34.000Z",
+        "description": "01年/双性恋/贫乳/brat/有主不约\n提问箱：https://t.co/3g6KbS54vY",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hokaming_",
+                "end": 48,
+                "expanded_url": "https://ngl.link/hokaming_",
+                "start": 25,
+                "url": "https://t.co/3g6KbS54vY"
+              }
+            ]
+          }
+        },
+        "id": "1125325219671842817",
+        "location": "广东",
+        "name": "鱼是不能喝中药的",
+        "pinned_tweet_id": "1875114905713746177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1660355160244359168/R387vl88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1726,
+          "following_count": 1421,
+          "like_count": 10433,
+          "listed_count": 3,
+          "media_count": 1665,
+          "tweet_count": 11113
+        },
+        "url": "",
+        "username": "Beagleear_slapu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1409516495571501066",
+    "conversation_id": "2074441543851876749",
+    "created_at": "2026-07-08T07:47:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T08:47:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074762361614016649"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2071754623484862464",
+          "start": 0,
+          "username": "h9qz6y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074762361614016649",
+    "in_reply_to_user_id": "2071754623484862464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074697764718440738",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@h9qz6y 还有艾司西酞普兰和blf😸"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1409516495571501066",
+        "conversation_id": "2074441543851876749",
+        "created_at": "2026-07-08T07:47:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T08:47:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074762361614016649"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2071754623484862464",
+              "start": 0,
+              "username": "h9qz6y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074762361614016649",
+        "in_reply_to_user_id": "2071754623484862464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074697764718440738",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@h9qz6y 还有艾司西酞普兰和blf😸"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2071754623484862464",
+        "conversation_id": "2074441543851876749",
+        "created_at": "2026-07-08T03:31:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T04:31:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074697764718440738"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1409516495571501066",
+              "start": 0,
+              "username": "DrankghostU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074697764718440738",
+        "in_reply_to_user_id": "1409516495571501066",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074441543851876749",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DrankghostU 俞美和pr150mg的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-06-28T14:18:23.000Z",
+        "description": "𓆩♡𓆪 死目莉 𓆩♡𓆪\n 🩹 | 双相情感障碍• 𝖠𝖣𝖧𝖣 • 重焦 • 繪師 \n\n🎀没有喜欢死目莉的觉悟的人请不要靠近死目莉⚠️😸…\n需要回fo请私信或评论我！",
+        "id": "1409516495571501066",
+        "location": "我想要的是世界上根本就没有的东西",
+        "name": "早乙女死目莉2.0",
+        "pinned_tweet_id": "2059646950455279640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063196138987995136/5SVYRVyv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 501,
+          "following_count": 209,
+          "like_count": 194,
+          "listed_count": 1,
+          "media_count": 71,
+          "tweet_count": 941
+        },
+        "url": "",
+        "username": "DrankghostU",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-30T00:41:51.000Z",
+        "description": "成何體統那就成何體統去吧",
+        "id": "2071754623484862464",
+        "name": "奴村露乃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071756737552474112/Qx7oWVe8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 114,
+          "like_count": 1280,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 206
+        },
+        "url": "",
+        "username": "h9qz6y",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1409516495571501066",
+    "conversation_id": "2073739769675382977",
+    "created_at": "2026-07-05T12:04:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T13:04:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073739769675382977"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/toyiu11/status…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/toyiu11/status/2073629510524875235",
+          "start": 3,
+          "url": "https://t.co/USMyeton8g"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073739769675382977",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073629510524875235",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "对对 https://t.co/USMyeton8g"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1409516495571501066",
+        "conversation_id": "2073739769675382977",
+        "created_at": "2026-07-05T12:04:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T13:04:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073739769675382977"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/toyiu11/status…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/toyiu11/status/2073629510524875235",
+              "start": 3,
+              "url": "https://t.co/USMyeton8g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073739769675382977",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073629510524875235",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "对对 https://t.co/USMyeton8g"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892970687792402432",
+        "conversation_id": "2073484471429685556",
+        "created_at": "2026-07-05T04:46:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T05:46:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073629510524875235"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2010357366466990080",
+              "start": 0,
+              "username": "shennaichuan_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073629510524875235",
+        "in_reply_to_user_id": "2010357366466990080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 701,
+          "like_count": 41,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073484471429685556",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shennaichuan_ 门槛妹靠自己本事赚钱不丢人；吸毒的od的自残的都是只伤害自己不伤害别人不报复社会 骨子里就是善良的人只是有点脆弱；当三的出轨的 敢爱敢恨 追求自己的幸福有错吗 我会睡她但会娶你；卖逼的 如果家里有钱还会干这个吗 只是有点虚荣心罢了 但很多卖逼的确实都有个吸血家庭；辍学是个人选择罢了🙏"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-06-28T14:18:23.000Z",
+        "description": "𓆩♡𓆪 死目莉 𓆩♡𓆪\n 🩹 | 双相情感障碍• 𝖠𝖣𝖧𝖣 • 重焦 • 繪師 \n\n🎀没有喜欢死目莉的觉悟的人请不要靠近死目莉⚠️😸…",
+        "id": "1409516495571501066",
+        "location": "我想要的是世界上根本就没有的东西",
+        "name": "早乙女死目莉2.0",
+        "pinned_tweet_id": "2059646950455279640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063196138987995136/5SVYRVyv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 487,
+          "following_count": 202,
+          "like_count": 183,
+          "listed_count": 1,
+          "media_count": 65,
+          "tweet_count": 889
+        },
+        "url": "",
+        "username": "DrankghostU",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-21T16:12:46.000Z",
+        "description": "171/47kg 比我矮比我胖比我丑的没有资格骂我 本人3d人士患有精神病 想发什么就发什么",
+        "id": "1892970687792402432",
+        "name": "十亿少男少女的梦",
+        "pinned_tweet_id": "1932040756266737865",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072346464077176832/_6kngLBh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2331,
+          "following_count": 70,
+          "like_count": 39,
+          "listed_count": 3,
+          "media_count": 45,
+          "tweet_count": 231
+        },
+        "url": "",
+        "username": "Toyiu11",
+        "verified": true
+      }
+    ]
+  }
+}
