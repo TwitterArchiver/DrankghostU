@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1409516495571501066",
+    "conversation_id": "2078844765559280116",
+    "created_at": "2026-07-20T10:43:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T11:43:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079155329837965566"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1481172876589821952",
+          "start": 0,
+          "username": "Easter_buny"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079155329837965566",
+    "in_reply_to_user_id": "1481172876589821952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079105494384517599",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Easter_buny 白兔遇到真白兔了！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2079105484091748352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNp3bBXa8AAYIQ9.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1409516495571501066",
+        "conversation_id": "2078844765559280116",
+        "created_at": "2026-07-20T10:43:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T11:43:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079155329837965566"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1481172876589821952",
+              "start": 0,
+              "username": "Easter_buny"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079155329837965566",
+        "in_reply_to_user_id": "1481172876589821952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079105494384517599",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Easter_buny 白兔遇到真白兔了！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079105484091748352"
+          ]
+        },
+        "author_id": "1481172876589821952",
+        "conversation_id": "2078844765559280116",
+        "created_at": "2026-07-20T07:25:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T08:25:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079105494384517599"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1409516495571501066",
+              "start": 0,
+              "username": "DrankghostU"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Pscgb7vbCv",
+              "end": 43,
+              "expanded_url": "https://x.com/Easter_buny/status/2079105494384517599/photo/1",
+              "media_key": "3_2079105484091748352",
+              "start": 20,
+              "url": "https://t.co/Pscgb7vbCv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079105494384517599",
+        "in_reply_to_user_id": "1409516495571501066",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 81,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078844765559280116",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DrankghostU 这对对对吗🙀 https://t.co/Pscgb7vbCv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-06-28T14:18:23.000Z",
+        "description": "𓆩♡𓆪 死目莉 𓆩♡𓆪\n 🩹 | 双相情感障碍• 𝖠𝖣𝖧𝖣 • 重焦 • 繪師 \n\n🎀没有喜欢死目莉的觉悟的人请不要靠近死目莉⚠️😸…\n需要回fo请私信或评论我！",
+        "id": "1409516495571501066",
+        "location": "我想要的是世界上根本就没有的东西",
+        "name": "早乙女死目莉2.0",
+        "pinned_tweet_id": "2059646950455279640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063196138987995136/5SVYRVyv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 543,
+          "following_count": 213,
+          "like_count": 225,
+          "listed_count": 2,
+          "media_count": 80,
+          "tweet_count": 1012
+        },
+        "url": "",
+        "username": "DrankghostU",
+        "verified": true
+      },
+      {
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "description": "Don't let it be the day",
+        "id": "1481172876589821952",
+        "location": "地狱 ",
+        "name": "buny",
+        "pinned_tweet_id": "2053423562250465515",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065339877789724672/EArQgT61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8410,
+          "following_count": 1263,
+          "like_count": 67168,
+          "listed_count": 8,
+          "media_count": 3108,
+          "tweet_count": 19187
+        },
+        "url": "",
+        "username": "Easter_buny",
+        "verified": false
+      }
+    ]
+  }
+}
